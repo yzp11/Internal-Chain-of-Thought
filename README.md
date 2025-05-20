@@ -1,5 +1,9 @@
 # Internal Chain-of-Thought: Empirical Evidence for Layer‑wise Subtask Scheduling in LLMs
+This is an official repository for research paper *Internal Chain-of-Thought: Empirical Evidence for Layer‑wise Subtask Scheduling in LLMs*, Zhipeng Yang, Junzhuo Li, Siyu Xia, Xuming Hu. 2025.
 
+For any possible questions, please contact me via email: yangzp135@outlook.com.
+
+A detailed description and code refinement are coming soon...
 ### 0. Environment
 
 ```
