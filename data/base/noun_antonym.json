@@ -1,0 +1,1306 @@
+[
+    {
+        "input": "distribution",
+        "output": "concentration"
+    },
+    {
+        "input": "luxury",
+        "output": "poverty"
+    },
+    {
+        "input": "privacy",
+        "output": "publicity"
+    },
+    {
+        "input": "prose",
+        "output": "poetry"
+    },
+    {
+        "input": "beast",
+        "output": "beauty"
+    },
+    {
+        "input": "fascism",
+        "output": "democracy"
+    },
+    {
+        "input": "uncle",
+        "output": "aunt"
+    },
+    {
+        "input": "prominence",
+        "output": "obscurity"
+    },
+    {
+        "input": "demise",
+        "output": "birth"
+    },
+    {
+        "input": "departure",
+        "output": "arrival"
+    },
+    {
+        "input": "falsehood",
+        "output": "truth"
+    },
+    {
+        "input": "antidote",
+        "output": "poison"
+    },
+    {
+        "input": "grandmother",
+        "output": "grandfather"
+    },
+    {
+        "input": "prosecution",
+        "output": "defense"
+    },
+    {
+        "input": "appearance",
+        "output": "disappearance"
+    },
+    {
+        "input": "merit",
+        "output": "demerit"
+    },
+    {
+        "input": "inflation",
+        "output": "deflation"
+    },
+    {
+        "input": "majority",
+        "output": "minority"
+    },
+    {
+        "input": "knockout",
+        "output": "revival"
+    },
+    {
+        "input": "mainland",
+        "output": "island"
+    },
+    {
+        "input": "unemployment",
+        "output": "employment"
+    },
+    {
+        "input": "cow",
+        "output": "bull"
+    },
+    {
+        "input": "possibility",
+        "output": "impossibility"
+    },
+    {
+        "input": "foreground",
+        "output": "background"
+    },
+    {
+        "input": "approval",
+        "output": "disapproval"
+    },
+    {
+        "input": "concept",
+        "output": "reality"
+    },
+    {
+        "input": "contrast",
+        "output": "similarity"
+    },
+    {
+        "input": "convergence",
+        "output": "divergence"
+    },
+    {
+        "input": "segregation",
+        "output": "integration"
+    },
+    {
+        "input": "tomorrow",
+        "output": "yesterday"
+    },
+    {
+        "input": "employment",
+        "output": "unemployment"
+    },
+    {
+        "input": "complexity",
+        "output": "simplicity"
+    },
+    {
+        "input": "outcome",
+        "output": "input"
+    },
+    {
+        "input": "acceptance",
+        "output": "rejection"
+    },
+    {
+        "input": "permission",
+        "output": "prohibition"
+    },
+    {
+        "input": "divergence",
+        "output": "convergence"
+    },
+    {
+        "input": "childbirth",
+        "output": "death"
+    },
+    {
+        "input": "folly",
+        "output": "wisdom"
+    },
+    {
+        "input": "all",
+        "output": "none"
+    },
+    {
+        "input": "displeasure",
+        "output": "pleasure"
+    },
+    {
+        "input": "borrower",
+        "output": "lender"
+    },
+    {
+        "input": "tragedy",
+        "output": "comedy"
+    },
+    {
+        "input": "plateau",
+        "output": "valley"
+    },
+    {
+        "input": "problem",
+        "output": "solution"
+    },
+    {
+        "input": "weakness",
+        "output": "strength"
+    },
+    {
+        "input": "opacity",
+        "output": "transparency"
+    },
+    {
+        "input": "advantage",
+        "output": "disadvantage"
+    },
+    {
+        "input": "pleasure",
+        "output": "pain"
+    },
+    {
+        "input": "noise",
+        "output": "silence"
+    },
+    {
+        "input": "instability",
+        "output": "stability"
+    },
+    {
+        "input": "joy",
+        "output": "sorrow"
+    },
+    {
+        "input": "background",
+        "output": "foreground"
+    },
+    {
+        "input": "melody",
+        "output": "discord"
+    },
+    {
+        "input": "competition",
+        "output": "cooperation"
+    },
+    {
+        "input": "inaction",
+        "output": "action"
+    },
+    {
+        "input": "recession",
+        "output": "boom"
+    },
+    {
+        "input": "safety",
+        "output": "danger"
+    },
+    {
+        "input": "column",
+        "output": "row"
+    },
+    {
+        "input": "proponent",
+        "output": "opponent"
+    },
+    {
+        "input": "prohibition",
+        "output": "permission"
+    },
+    {
+        "input": "narrowing",
+        "output": "widening"
+    },
+    {
+        "input": "cruelty",
+        "output": "kindness"
+    },
+    {
+        "input": "mother",
+        "output": "father"
+    },
+    {
+        "input": "birth",
+        "output": "death"
+    },
+    {
+        "input": "conception",
+        "output": "birth"
+    },
+    {
+        "input": "immortality",
+        "output": "mortality"
+    },
+    {
+        "input": "fact",
+        "output": "fiction"
+    },
+    {
+        "input": "contraction",
+        "output": "expansion"
+    },
+    {
+        "input": "disbelief",
+        "output": "belief"
+    },
+    {
+        "input": "granddaughter",
+        "output": "grandfather"
+    },
+    {
+        "input": "software",
+        "output": "hardware"
+    },
+    {
+        "input": "devil",
+        "output": "angel"
+    },
+    {
+        "input": "inspiration",
+        "output": "despair"
+    },
+    {
+        "input": "antagonist",
+        "output": "protagonist"
+    },
+    {
+        "input": "height",
+        "output": "depth"
+    },
+    {
+        "input": "sickness",
+        "output": "health"
+    },
+    {
+        "input": "immunity",
+        "output": "susceptibility"
+    },
+    {
+        "input": "transparency",
+        "output": "opacity"
+    },
+    {
+        "input": "day",
+        "output": "night"
+    },
+    {
+        "input": "deflation",
+        "output": "inflation"
+    },
+    {
+        "input": "everything",
+        "output": "nothing"
+    },
+    {
+        "input": "downhill",
+        "output": "uphill"
+    },
+    {
+        "input": "none",
+        "output": "all"
+    },
+    {
+        "input": "monarch",
+        "output": "commoner"
+    },
+    {
+        "input": "patriot",
+        "output": "traitor"
+    },
+    {
+        "input": "darkness",
+        "output": "lightness"
+    },
+    {
+        "input": "son",
+        "output": "daughter"
+    },
+    {
+        "input": "king",
+        "output": "queen"
+    },
+    {
+        "input": "landscape",
+        "output": "portrait"
+    },
+    {
+        "input": "agreement",
+        "output": "disagreement"
+    },
+    {
+        "input": "yesterday",
+        "output": "tomorrow"
+    },
+    {
+        "input": "improvement",
+        "output": "deterioration"
+    },
+    {
+        "input": "winner",
+        "output": "loser"
+    },
+    {
+        "input": "union",
+        "output": "division"
+    },
+    {
+        "input": "boy",
+        "output": "girl"
+    },
+    {
+        "input": "sanity",
+        "output": "insanity"
+    },
+    {
+        "input": "resolution",
+        "output": "problem"
+    },
+    {
+        "input": "creditor",
+        "output": "debtor"
+    },
+    {
+        "input": "genius",
+        "output": "fool"
+    },
+    {
+        "input": "cockpit",
+        "output": "cabin"
+    },
+    {
+        "input": "catalyst",
+        "output": "inhibitor"
+    },
+    {
+        "input": "debtor",
+        "output": "creditor"
+    },
+    {
+        "input": "method",
+        "output": "chaos"
+    },
+    {
+        "input": "clarity",
+        "output": "confusion"
+    },
+    {
+        "input": "pain",
+        "output": "pleasure"
+    },
+    {
+        "input": "widening",
+        "output": "narrowing"
+    },
+    {
+        "input": "defendant",
+        "output": "plaintiff"
+    },
+    {
+        "input": "certainty",
+        "output": "uncertainty"
+    },
+    {
+        "input": "foe",
+        "output": "friend"
+    },
+    {
+        "input": "documentary",
+        "output": "fiction"
+    },
+    {
+        "input": "inability",
+        "output": "ability"
+    },
+    {
+        "input": "woman",
+        "output": "man"
+    },
+    {
+        "input": "peace",
+        "output": "war"
+    },
+    {
+        "input": "aversion",
+        "output": "attraction"
+    },
+    {
+        "input": "publicity",
+        "output": "privacy"
+    },
+    {
+        "input": "inconsistency",
+        "output": "consistency"
+    },
+    {
+        "input": "impossibility",
+        "output": "possibility"
+    },
+    {
+        "input": "shutdown",
+        "output": "startup"
+    },
+    {
+        "input": "abundance",
+        "output": "scarcity"
+    },
+    {
+        "input": "niece",
+        "output": "nephew"
+    },
+    {
+        "input": "lighting",
+        "output": "darkness"
+    },
+    {
+        "input": "data",
+        "output": "information"
+    },
+    {
+        "input": "confusion",
+        "output": "clarity"
+    },
+    {
+        "input": "evolution",
+        "output": "devolution"
+    },
+    {
+        "input": "heating",
+        "output": "cooling"
+    },
+    {
+        "input": "disapproval",
+        "output": "approval"
+    },
+    {
+        "input": "exclusion",
+        "output": "inclusion"
+    },
+    {
+        "input": "analysis",
+        "output": "synthesis"
+    },
+    {
+        "input": "silence",
+        "output": "noise"
+    },
+    {
+        "input": "disadvantage",
+        "output": "advantage"
+    },
+    {
+        "input": "guy",
+        "output": "girl"
+    },
+    {
+        "input": "server",
+        "output": "client"
+    },
+    {
+        "input": "obscurity",
+        "output": "prominence"
+    },
+    {
+        "input": "creator",
+        "output": "destroyer"
+    },
+    {
+        "input": "sunset",
+        "output": "sunrise"
+    },
+    {
+        "input": "length",
+        "output": "width"
+    },
+    {
+        "input": "follower",
+        "output": "leader"
+    },
+    {
+        "input": "stability",
+        "output": "instability"
+    },
+    {
+        "input": "loser",
+        "output": "winner"
+    },
+    {
+        "input": "disobedience",
+        "output": "obedience"
+    },
+    {
+        "input": "insanity",
+        "output": "sanity"
+    },
+    {
+        "input": "elevation",
+        "output": "depression"
+    },
+    {
+        "input": "girl",
+        "output": "boy"
+    },
+    {
+        "input": "farewell",
+        "output": "greeting"
+    },
+    {
+        "input": "action",
+        "output": "inaction"
+    },
+    {
+        "input": "expansion",
+        "output": "contraction"
+    },
+    {
+        "input": "disappearance",
+        "output": "appearance"
+    },
+    {
+        "input": "rejection",
+        "output": "acceptance"
+    },
+    {
+        "input": "studio",
+        "output": "location"
+    },
+    {
+        "input": "dissatisfaction",
+        "output": "satisfaction"
+    },
+    {
+        "input": "acquaintance",
+        "output": "stranger"
+    },
+    {
+        "input": "misconception",
+        "output": "understanding"
+    },
+    {
+        "input": "satisfaction",
+        "output": "dissatisfaction"
+    },
+    {
+        "input": "unwillingness",
+        "output": "willingness"
+    },
+    {
+        "input": "tolerance",
+        "output": "intolerance"
+    },
+    {
+        "input": "acceleration",
+        "output": "deceleration"
+    },
+    {
+        "input": "hardware",
+        "output": "software"
+    },
+    {
+        "input": "employer",
+        "output": "employee"
+    },
+    {
+        "input": "freedom",
+        "output": "oppression"
+    },
+    {
+        "input": "intake",
+        "output": "output"
+    },
+    {
+        "input": "sunrise",
+        "output": "sunset"
+    },
+    {
+        "input": "opponent",
+        "output": "ally"
+    },
+    {
+        "input": "justice",
+        "output": "injustice"
+    },
+    {
+        "input": "liabilities",
+        "output": "assets"
+    },
+    {
+        "input": "interrogation",
+        "output": "explanation"
+    },
+    {
+        "input": "sorrow",
+        "output": "joy"
+    },
+    {
+        "input": "hell",
+        "output": "heaven"
+    },
+    {
+        "input": "depression",
+        "output": "elation"
+    },
+    {
+        "input": "knowledge",
+        "output": "ignorance"
+    },
+    {
+        "input": "brother",
+        "output": "sister"
+    },
+    {
+        "input": "poetry",
+        "output": "prose"
+    },
+    {
+        "input": "strength",
+        "output": "weakness"
+    },
+    {
+        "input": "activity",
+        "output": "inactivity"
+    },
+    {
+        "input": "friend",
+        "output": "enemy"
+    },
+    {
+        "input": "lender",
+        "output": "borrower"
+    },
+    {
+        "input": "dependence",
+        "output": "independence"
+    },
+    {
+        "input": "exaggeration",
+        "output": "understatement"
+    },
+    {
+        "input": "mortality",
+        "output": "immortality"
+    },
+    {
+        "input": "wisdom",
+        "output": "foolishness"
+    },
+    {
+        "input": "nothing",
+        "output": "everything"
+    },
+    {
+        "input": "fortune",
+        "output": "misfortune"
+    },
+    {
+        "input": "assets",
+        "output": "liabilities"
+    },
+    {
+        "input": "synthesis",
+        "output": "analysis"
+    },
+    {
+        "input": "presents",
+        "output": "absence"
+    },
+    {
+        "input": "outfield",
+        "output": "infield"
+    },
+    {
+        "input": "regression",
+        "output": "progression"
+    },
+    {
+        "input": "predecessor",
+        "output": "successor"
+    },
+    {
+        "input": "skepticism",
+        "output": "belief"
+    },
+    {
+        "input": "bull",
+        "output": "cow"
+    },
+    {
+        "input": "conspiracy",
+        "output": "truth"
+    },
+    {
+        "input": "plaintiff",
+        "output": "defendant"
+    },
+    {
+        "input": "parasite",
+        "output": "host"
+    },
+    {
+        "input": "offense",
+        "output": "defense"
+    },
+    {
+        "input": "successor",
+        "output": "predecessor"
+    },
+    {
+        "input": "expenditure",
+        "output": "income"
+    },
+    {
+        "input": "injustice",
+        "output": "justice"
+    },
+    {
+        "input": "valley",
+        "output": "mountain"
+    },
+    {
+        "input": "ground",
+        "output": "sky"
+    },
+    {
+        "input": "prevention",
+        "output": "promotion"
+    },
+    {
+        "input": "understatement",
+        "output": "exaggeration"
+    },
+    {
+        "input": "idiot",
+        "output": "genius"
+    },
+    {
+        "input": "dawn",
+        "output": "dusk"
+    },
+    {
+        "input": "protagonist",
+        "output": "antagonist"
+    },
+    {
+        "input": "cooling",
+        "output": "heating"
+    },
+    {
+        "input": "happiness",
+        "output": "sadness"
+    },
+    {
+        "input": "arrival",
+        "output": "departure"
+    },
+    {
+        "input": "wellness",
+        "output": "illness"
+    },
+    {
+        "input": "simplicity",
+        "output": "complexity"
+    },
+    {
+        "input": "separation",
+        "output": "union"
+    },
+    {
+        "input": "monarchy",
+        "output": "democracy"
+    },
+    {
+        "input": "success",
+        "output": "failure"
+    },
+    {
+        "input": "infield",
+        "output": "outfield"
+    },
+    {
+        "input": "husband",
+        "output": "wife"
+    },
+    {
+        "input": "competence",
+        "output": "incompetence"
+    },
+    {
+        "input": "rivalry",
+        "output": "cooperation"
+    },
+    {
+        "input": "agent",
+        "output": "client"
+    },
+    {
+        "input": "infantry",
+        "output": "cavalry"
+    },
+    {
+        "input": "strengthening",
+        "output": "weakening"
+    },
+    {
+        "input": "offence",
+        "output": "defence"
+    },
+    {
+        "input": "student",
+        "output": "teacher"
+    },
+    {
+        "input": "output",
+        "output": "input"
+    },
+    {
+        "input": "lady",
+        "output": "gentleman"
+    },
+    {
+        "input": "fertility",
+        "output": "infertility"
+    },
+    {
+        "input": "consistency",
+        "output": "inconsistency"
+    },
+    {
+        "input": "adulthood",
+        "output": "childhood"
+    },
+    {
+        "input": "danger",
+        "output": "safety"
+    },
+    {
+        "input": "employee",
+        "output": "employer"
+    },
+    {
+        "input": "partner",
+        "output": "opponent"
+    },
+    {
+        "input": "comedy",
+        "output": "tragedy"
+    },
+    {
+        "input": "ally",
+        "output": "enemy"
+    },
+    {
+        "input": "extension",
+        "output": "contraction"
+    },
+    {
+        "input": "obedience",
+        "output": "disobedience"
+    },
+    {
+        "input": "incompetence",
+        "output": "competence"
+    },
+    {
+        "input": "economy",
+        "output": "recession"
+    },
+    {
+        "input": "depreciation",
+        "output": "appreciation"
+    },
+    {
+        "input": "necessity",
+        "output": "luxury"
+    },
+    {
+        "input": "subsidy",
+        "output": "tax"
+    },
+    {
+        "input": "nephew",
+        "output": "niece"
+    },
+    {
+        "input": "misfortune",
+        "output": "fortune"
+    },
+    {
+        "input": "orthodoxy",
+        "output": "heterodoxy"
+    },
+    {
+        "input": "aunt",
+        "output": "uncle"
+    },
+    {
+        "input": "grandfather",
+        "output": "grandson"
+    },
+    {
+        "input": "uphill",
+        "output": "downhill"
+    },
+    {
+        "input": "vegetable",
+        "output": "meat"
+    },
+    {
+        "input": "asset",
+        "output": "liability"
+    },
+    {
+        "input": "sister",
+        "output": "brother"
+    },
+    {
+        "input": "war",
+        "output": "peace"
+    },
+    {
+        "input": "ceiling",
+        "output": "floor"
+    },
+    {
+        "input": "illness",
+        "output": "health"
+    },
+    {
+        "input": "uncertainty",
+        "output": "certainty"
+    },
+    {
+        "input": "defense",
+        "output": "offense"
+    },
+    {
+        "input": "wealth",
+        "output": "poverty"
+    },
+    {
+        "input": "wife",
+        "output": "husband"
+    },
+    {
+        "input": "dusk",
+        "output": "dawn"
+    },
+    {
+        "input": "insecurity",
+        "output": "security"
+    },
+    {
+        "input": "equality",
+        "output": "inequality"
+    },
+    {
+        "input": "leader",
+        "output": "follower"
+    },
+    {
+        "input": "susceptibility",
+        "output": "resistance"
+    },
+    {
+        "input": "unification",
+        "output": "separation"
+    },
+    {
+        "input": "intolerance",
+        "output": "tolerance"
+    },
+    {
+        "input": "night",
+        "output": "day"
+    },
+    {
+        "input": "failure",
+        "output": "success"
+    },
+    {
+        "input": "citizen",
+        "output": "foreigner"
+    },
+    {
+        "input": "mercy",
+        "output": "cruelty"
+    },
+    {
+        "input": "conclusion",
+        "output": "introduction"
+    },
+    {
+        "input": "innocence",
+        "output": "guilt"
+    },
+    {
+        "input": "cooperation",
+        "output": "competition"
+    },
+    {
+        "input": "socialism",
+        "output": "capitalism"
+    },
+    {
+        "input": "heaven",
+        "output": "hell"
+    },
+    {
+        "input": "daughter",
+        "output": "son"
+    },
+    {
+        "input": "denial",
+        "output": "acceptance"
+    },
+    {
+        "input": "spending",
+        "output": "saving"
+    },
+    {
+        "input": "law",
+        "output": "crime"
+    },
+    {
+        "input": "ability",
+        "output": "inability"
+    },
+    {
+        "input": "everybody",
+        "output": "nobody"
+    },
+    {
+        "input": "floor",
+        "output": "ceiling"
+    },
+    {
+        "input": "capitalism",
+        "output": "socialism"
+    },
+    {
+        "input": "mountain",
+        "output": "valley"
+    },
+    {
+        "input": "row",
+        "output": "column"
+    },
+    {
+        "input": "scarcity",
+        "output": "abundance"
+    },
+    {
+        "input": "sadness",
+        "output": "happiness"
+    },
+    {
+        "input": "difference",
+        "output": "similarity"
+    },
+    {
+        "input": "childhood",
+        "output": "adulthood"
+    },
+    {
+        "input": "presence",
+        "output": "absence"
+    },
+    {
+        "input": "ascent",
+        "output": "descent"
+    },
+    {
+        "input": "evening",
+        "output": "morning"
+    },
+    {
+        "input": "surface",
+        "output": "depth"
+    },
+    {
+        "input": "motion",
+        "output": "stillness"
+    },
+    {
+        "input": "minority",
+        "output": "majority"
+    },
+    {
+        "input": "morning",
+        "output": "evening"
+    },
+    {
+        "input": "poverty",
+        "output": "wealth"
+    },
+    {
+        "input": "grandson",
+        "output": "grandmother"
+    },
+    {
+        "input": "health",
+        "output": "disease"
+    },
+    {
+        "input": "complainant",
+        "output": "defendant"
+    },
+    {
+        "input": "supporter",
+        "output": "opponent"
+    },
+    {
+        "input": "core",
+        "output": "periphery"
+    },
+    {
+        "input": "descent",
+        "output": "ascent"
+    },
+    {
+        "input": "man",
+        "output": "woman"
+    },
+    {
+        "input": "father",
+        "output": "mother"
+    },
+    {
+        "input": "addition",
+        "output": "subtraction"
+    },
+    {
+        "input": "disagreement",
+        "output": "agreement"
+    },
+    {
+        "input": "liability",
+        "output": "asset"
+    },
+    {
+        "input": "stupidity",
+        "output": "intelligence"
+    },
+    {
+        "input": "assembly",
+        "output": "disassembly"
+    },
+    {
+        "input": "ending",
+        "output": "beginning"
+    },
+    {
+        "input": "outset",
+        "output": "conclusion"
+    },
+    {
+        "input": "solution",
+        "output": "problem"
+    },
+    {
+        "input": "heresy",
+        "output": "orthodoxy"
+    },
+    {
+        "input": "enlightenment",
+        "output": "ignorance"
+    },
+    {
+        "input": "island",
+        "output": "mainland"
+    },
+    {
+        "input": "guilt",
+        "output": "innocence"
+    },
+    {
+        "input": "intelligence",
+        "output": "ignorance"
+    },
+    {
+        "input": "consumer",
+        "output": "producer"
+    },
+    {
+        "input": "enemy",
+        "output": "friend"
+    },
+    {
+        "input": "nobody",
+        "output": "everybody"
+    },
+    {
+        "input": "disability",
+        "output": "ability"
+    },
+    {
+        "input": "infertility",
+        "output": "fertility"
+    },
+    {
+        "input": "inequality",
+        "output": "equality"
+    },
+    {
+        "input": "contingency",
+        "output": "certainty"
+    },
+    {
+        "input": "oxidation",
+        "output": "reduction"
+    },
+    {
+        "input": "inclusion",
+        "output": "exclusion"
+    },
+    {
+        "input": "absence",
+        "output": "presence"
+    },
+    {
+        "input": "weakening",
+        "output": "strengthening"
+    },
+    {
+        "input": "madness",
+        "output": "sanity"
+    },
+    {
+        "input": "bravery",
+        "output": "cowardice"
+    },
+    {
+        "input": "bondage",
+        "output": "freedom"
+    }
+]

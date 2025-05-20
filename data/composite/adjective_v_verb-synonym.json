@@ -1,0 +1,3962 @@
+[
+    {
+        "input": "lend, notorious, undermine",
+        "output": "infamous",
+        "t1": "notorious",
+        "t2": "borrow"
+    },
+    {
+        "input": "tear, usher, unprotected",
+        "output": "vulnerable",
+        "t1": "unprotected",
+        "t2": "rip"
+    },
+    {
+        "input": "mysterious, avail, deform",
+        "output": "enigmatic",
+        "t1": "mysterious",
+        "t2": "enigmatic"
+    },
+    {
+        "input": "incur, shameless, depend",
+        "output": "brazen",
+        "t1": "shameless",
+        "t2": "sustain"
+    },
+    {
+        "input": "mythical, determine, enhance",
+        "output": "legendary",
+        "t1": "mythical",
+        "t2": "legendary"
+    },
+    {
+        "input": "artistic, captain, bring",
+        "output": "creative",
+        "t1": "artistic",
+        "t2": "creative"
+    },
+    {
+        "input": "appoint, exhaustive, grasp",
+        "output": "comprehensive",
+        "t1": "exhaustive",
+        "t2": "assign"
+    },
+    {
+        "input": "restore, accidental, sit",
+        "output": "unintentional",
+        "t1": "accidental",
+        "t2": "renew"
+    },
+    {
+        "input": "evade, enough, combine",
+        "output": "sufficient",
+        "t1": "enough",
+        "t2": "avoid"
+    },
+    {
+        "input": "jam, impart, unrelated",
+        "output": "unconnected",
+        "t1": "unrelated",
+        "t2": "preserve"
+    },
+    {
+        "input": "send, prove, evident",
+        "output": "obvious",
+        "t1": "evident",
+        "t2": "dispatch"
+    },
+    {
+        "input": "regain, faithful, develop",
+        "output": "loyal",
+        "t1": "faithful",
+        "t2": "recover"
+    },
+    {
+        "input": "dispatch, expensive, eat",
+        "output": "costly",
+        "t1": "expensive",
+        "t2": "send"
+    },
+    {
+        "input": "prescribe, mindful, establish",
+        "output": "aware",
+        "t1": "mindful",
+        "t2": "recommend"
+    },
+    {
+        "input": "embody, absurd, name",
+        "output": "ridiculous",
+        "t1": "absurd",
+        "t2": "represent"
+    },
+    {
+        "input": "uphold, habitual, rescind",
+        "output": "routine",
+        "t1": "habitual",
+        "t2": "maintain"
+    },
+    {
+        "input": "pause, awkward, entertain",
+        "output": "clumsy",
+        "t1": "awkward",
+        "t2": "halt"
+    },
+    {
+        "input": "grasp, depart, superb",
+        "output": "excellent",
+        "t1": "superb",
+        "t2": "understand"
+    },
+    {
+        "input": "compress, delete, rigid",
+        "output": "stiff",
+        "t1": "rigid",
+        "t2": "condense"
+    },
+    {
+        "input": "determine, timid, classify",
+        "output": "shy",
+        "t1": "timid",
+        "t2": "decide"
+    },
+    {
+        "input": "elementary, prove, fetch",
+        "output": "primary",
+        "t1": "elementary",
+        "t2": "primary"
+    },
+    {
+        "input": "modify, let, conditional",
+        "output": "dependent",
+        "t1": "conditional",
+        "t2": "alter"
+    },
+    {
+        "input": "override, rescind, amazing",
+        "output": "incredible",
+        "t1": "amazing",
+        "t2": "supersede"
+    },
+    {
+        "input": "succeed, prescribe, romantic",
+        "output": "loving",
+        "t1": "romantic",
+        "t2": "achieve"
+    },
+    {
+        "input": "differentiate, recognise, thoughtful",
+        "output": "considerate",
+        "t1": "thoughtful",
+        "t2": "distinguish"
+    },
+    {
+        "input": "react, intrinsic, impair",
+        "output": "inherent",
+        "t1": "intrinsic",
+        "t2": "respond"
+    },
+    {
+        "input": "interested, appoint, disclaim",
+        "output": "engaged",
+        "t1": "interested",
+        "t2": "engaged"
+    },
+    {
+        "input": "able, cope, steal",
+        "output": "capable",
+        "t1": "able",
+        "t2": "capable"
+    },
+    {
+        "input": "mute, speak, confirm",
+        "output": "silent",
+        "t1": "mute",
+        "t2": "silent"
+    },
+    {
+        "input": "rescind, important, procure",
+        "output": "crucial",
+        "t1": "important",
+        "t2": "revoke"
+    },
+    {
+        "input": "devout, expel, integrate",
+        "output": "religious",
+        "t1": "devout",
+        "t2": "religious"
+    },
+    {
+        "input": "impart, stringent, obtain",
+        "output": "strict",
+        "t1": "stringent",
+        "t2": "convey"
+    },
+    {
+        "input": "deliver, save, improper",
+        "output": "inappropriate",
+        "t1": "improper",
+        "t2": "distribute"
+    },
+    {
+        "input": "conscious, adapt, rescind",
+        "output": "aware",
+        "t1": "conscious",
+        "t2": "aware"
+    },
+    {
+        "input": "sparse, identify, uphold",
+        "output": "scanty",
+        "t1": "sparse",
+        "t2": "scanty"
+    },
+    {
+        "input": "delicate, spend, extend",
+        "output": "fragile",
+        "t1": "delicate",
+        "t2": "fragile"
+    },
+    {
+        "input": "victorious, exile, plead",
+        "output": "successful",
+        "t1": "victorious",
+        "t2": "successful"
+    },
+    {
+        "input": "possess, creep, voluntary",
+        "output": "optional",
+        "t1": "voluntary",
+        "t2": "own"
+    },
+    {
+        "input": "vigorous, rate, procure",
+        "output": "energetic",
+        "t1": "vigorous",
+        "t2": "energetic"
+    },
+    {
+        "input": "tempt, cure, popular",
+        "output": "famous",
+        "t1": "popular",
+        "t2": "entice"
+    },
+    {
+        "input": "next, administer, render",
+        "output": "following",
+        "t1": "next",
+        "t2": "following"
+    },
+    {
+        "input": "pause, subtle, dispatch",
+        "output": "understated",
+        "t1": "subtle",
+        "t2": "halt"
+    },
+    {
+        "input": "grow, vague, consist",
+        "output": "unclear",
+        "t1": "vague",
+        "t2": "develop"
+    },
+    {
+        "input": "omit, undermine, jealous",
+        "output": "envious",
+        "t1": "jealous",
+        "t2": "exclude"
+    },
+    {
+        "input": "captain, crucial, inspire",
+        "output": "vital",
+        "t1": "crucial",
+        "t2": "skipper"
+    },
+    {
+        "input": "pause, plentiful, repeal",
+        "output": "abundant",
+        "t1": "plentiful",
+        "t2": "halt"
+    },
+    {
+        "input": "impair, precious, undermine",
+        "output": "valuable",
+        "t1": "precious",
+        "t2": "damage"
+    },
+    {
+        "input": "meet, wee, conquer",
+        "output": "tiny",
+        "t1": "wee",
+        "t2": "encounter"
+    },
+    {
+        "input": "rescind, smash, pertinent",
+        "output": "relevant",
+        "t1": "pertinent",
+        "t2": "revoke"
+    },
+    {
+        "input": "tempt, relate, eternal",
+        "output": "everlasting",
+        "t1": "eternal",
+        "t2": "entice"
+    },
+    {
+        "input": "realize, salty, watch",
+        "output": "briny",
+        "t1": "salty",
+        "t2": "understand"
+    },
+    {
+        "input": "propose, arise, structural",
+        "output": "architectural",
+        "t1": "structural",
+        "t2": "suggest"
+    },
+    {
+        "input": "remove, warp, detailed",
+        "output": "comprehensive",
+        "t1": "detailed",
+        "t2": "eliminate"
+    },
+    {
+        "input": "broad, converge, deform",
+        "output": "wide",
+        "t1": "broad",
+        "t2": "wide"
+    },
+    {
+        "input": "have, abusive, herald",
+        "output": "harmful",
+        "t1": "abusive",
+        "t2": "possess"
+    },
+    {
+        "input": "circulate, differentiate, literal",
+        "output": "figurative",
+        "t1": "literal",
+        "t2": "distribute"
+    },
+    {
+        "input": "suspicious, destruct, preserve",
+        "output": "distrustful",
+        "t1": "suspicious",
+        "t2": "distrustful"
+    },
+    {
+        "input": "poignant, revoke, improve",
+        "output": "touching",
+        "t1": "poignant",
+        "t2": "touching"
+    },
+    {
+        "input": "assess, convincing, overpower",
+        "output": "persuasive",
+        "t1": "convincing",
+        "t2": "evaluate"
+    },
+    {
+        "input": "grow, strong, tear",
+        "output": "powerful",
+        "t1": "strong",
+        "t2": "develop"
+    },
+    {
+        "input": "risky, overwhelm, recount",
+        "output": "dangerous",
+        "t1": "risky",
+        "t2": "dangerous"
+    },
+    {
+        "input": "valid, receive, surprise",
+        "output": "legitimate",
+        "t1": "valid",
+        "t2": "legitimate"
+    },
+    {
+        "input": "outspoken, glean, amuse",
+        "output": "forthright",
+        "t1": "outspoken",
+        "t2": "forthright"
+    },
+    {
+        "input": "inactive, regain, simulate",
+        "output": "dormant",
+        "t1": "inactive",
+        "t2": "dormant"
+    },
+    {
+        "input": "say, disciplinary, act",
+        "output": "punitive",
+        "t1": "disciplinary",
+        "t2": "speak"
+    },
+    {
+        "input": "measure, expel, conclusive",
+        "output": "definitive",
+        "t1": "conclusive",
+        "t2": "gauge"
+    },
+    {
+        "input": "laughable, endure, flick",
+        "output": "funny",
+        "t1": "laughable",
+        "t2": "funny"
+    },
+    {
+        "input": "boycott, achieve, insufficient",
+        "output": "inadequate",
+        "t1": "insufficient",
+        "t2": "avoid"
+    },
+    {
+        "input": "motivate, profitable, tolerate",
+        "output": "lucrative",
+        "t1": "profitable",
+        "t2": "inspire"
+    },
+    {
+        "input": "fierce, transport, partake",
+        "output": "ferocious",
+        "t1": "fierce",
+        "t2": "ferocious"
+    },
+    {
+        "input": "send, functional, assess",
+        "output": "operational",
+        "t1": "functional",
+        "t2": "dispatch"
+    },
+    {
+        "input": "condemn, unfounded, ban",
+        "output": "baseless",
+        "t1": "unfounded",
+        "t2": "denounce"
+    },
+    {
+        "input": "say, fix, comfortable",
+        "output": "cozy",
+        "t1": "comfortable",
+        "t2": "speak"
+    },
+    {
+        "input": "maintain, have, weak",
+        "output": "frail",
+        "t1": "weak",
+        "t2": "sustain"
+    },
+    {
+        "input": "unbiased, suggest, consult",
+        "output": "impartial",
+        "t1": "unbiased",
+        "t2": "impartial"
+    },
+    {
+        "input": "distinguished, repeal, condone",
+        "output": "renowned",
+        "t1": "distinguished",
+        "t2": "renowned"
+    },
+    {
+        "input": "wonderful, classify, continue",
+        "output": "fantastic",
+        "t1": "wonderful",
+        "t2": "fantastic"
+    },
+    {
+        "input": "sting, motivate, mathematical",
+        "output": "numerical",
+        "t1": "mathematical",
+        "t2": "bite"
+    },
+    {
+        "input": "require, tell, fast",
+        "output": "speedy",
+        "t1": "fast",
+        "t2": "need"
+    },
+    {
+        "input": "bare, concoct, render",
+        "output": "naked",
+        "t1": "bare",
+        "t2": "naked"
+    },
+    {
+        "input": "warp, sturdy, hinder",
+        "output": "robust",
+        "t1": "sturdy",
+        "t2": "distort"
+    },
+    {
+        "input": "mundane, boycott, lend",
+        "output": "ordinary",
+        "t1": "mundane",
+        "t2": "ordinary"
+    },
+    {
+        "input": "meticulous, rate, warp",
+        "output": "detailed",
+        "t1": "meticulous",
+        "t2": "detailed"
+    },
+    {
+        "input": "respectable, guess, betray",
+        "output": "honorable",
+        "t1": "respectable",
+        "t2": "honorable"
+    },
+    {
+        "input": "several, propose, watch",
+        "output": "many",
+        "t1": "several",
+        "t2": "many"
+    },
+    {
+        "input": "require, cryptic, assess",
+        "output": "mysterious",
+        "t1": "cryptic",
+        "t2": "need"
+    },
+    {
+        "input": "enhanced, concoct, say",
+        "output": "improved",
+        "t1": "enhanced",
+        "t2": "improved"
+    },
+    {
+        "input": "remember, cultural, overwhelm",
+        "output": "traditional",
+        "t1": "cultural",
+        "t2": "recall"
+    },
+    {
+        "input": "burn, measure, helpful",
+        "output": "useful",
+        "t1": "helpful",
+        "t2": "ignite"
+    },
+    {
+        "input": "beautiful, arise, tell",
+        "output": "gorgeous",
+        "t1": "beautiful",
+        "t2": "gorgeous"
+    },
+    {
+        "input": "resurrect, garner, supreme",
+        "output": "ultimate",
+        "t1": "supreme",
+        "t2": "revive"
+    },
+    {
+        "input": "cheap, overlook, preserve",
+        "output": "inexpensive",
+        "t1": "cheap",
+        "t2": "inexpensive"
+    },
+    {
+        "input": "supplemental, dispatch, originate",
+        "output": "additional",
+        "t1": "supplemental",
+        "t2": "additional"
+    },
+    {
+        "input": "glean, everyday, breathe",
+        "output": "daily",
+        "t1": "everyday",
+        "t2": "harvest"
+    },
+    {
+        "input": "endure, rightful, verify",
+        "output": "just",
+        "t1": "rightful",
+        "t2": "persist"
+    },
+    {
+        "input": "cope, unique, require",
+        "output": "distinctive",
+        "t1": "unique",
+        "t2": "manage"
+    },
+    {
+        "input": "tedious, jam, stumble",
+        "output": "monotonous",
+        "t1": "tedious",
+        "t2": "monotonous"
+    },
+    {
+        "input": "bury, humid, enhance",
+        "output": "damp",
+        "t1": "humid",
+        "t2": "inter"
+    },
+    {
+        "input": "excited, distinguish, ascertain",
+        "output": "enthusiastic",
+        "t1": "excited",
+        "t2": "enthusiastic"
+    },
+    {
+        "input": "dodge, designate, fantastic",
+        "output": "wonderful",
+        "t1": "fantastic",
+        "t2": "evade"
+    },
+    {
+        "input": "ascertain, reckless, impart",
+        "output": "careless",
+        "t1": "reckless",
+        "t2": "determine"
+    },
+    {
+        "input": "attain, say, hooked",
+        "output": "addicted",
+        "t1": "hooked",
+        "t2": "achieve"
+    },
+    {
+        "input": "mystic, seem, inject",
+        "output": "mysterious",
+        "t1": "mystic",
+        "t2": "mysterious"
+    },
+    {
+        "input": "send, perpetual, undermine",
+        "output": "endless",
+        "t1": "perpetual",
+        "t2": "dispatch"
+    },
+    {
+        "input": "faulty, motivate, represent",
+        "output": "defective",
+        "t1": "faulty",
+        "t2": "defective"
+    },
+    {
+        "input": "accurate, succeed, advise",
+        "output": "precise",
+        "t1": "accurate",
+        "t2": "precise"
+    },
+    {
+        "input": "celestial, amuse, diminish",
+        "output": "heavenly",
+        "t1": "celestial",
+        "t2": "heavenly"
+    },
+    {
+        "input": "have, distinguish, prime",
+        "output": "primary",
+        "t1": "prime",
+        "t2": "possess"
+    },
+    {
+        "input": "withstand, exclude, various",
+        "output": "diverse",
+        "t1": "various",
+        "t2": "endure"
+    },
+    {
+        "input": "realize, proceed, spontaneous",
+        "output": "impulsive",
+        "t1": "spontaneous",
+        "t2": "understand"
+    },
+    {
+        "input": "render, burn, disposed",
+        "output": "inclined",
+        "t1": "disposed",
+        "t2": "provide"
+    },
+    {
+        "input": "prosper, naval, glean",
+        "output": "maritime",
+        "t1": "naval",
+        "t2": "thrive"
+    },
+    {
+        "input": "distinctive, accomplish, classify",
+        "output": "unique",
+        "t1": "distinctive",
+        "t2": "unique"
+    },
+    {
+        "input": "arrest, improve, silly",
+        "output": "foolish",
+        "t1": "silly",
+        "t2": "apprehend"
+    },
+    {
+        "input": "dispose, egregious, eat",
+        "output": "outrageous",
+        "t1": "egregious",
+        "t2": "discard"
+    },
+    {
+        "input": "creep, overwhelm, practical",
+        "output": "pragmatic",
+        "t1": "practical",
+        "t2": "sneak"
+    },
+    {
+        "input": "guess, deliver, funny",
+        "output": "humorous",
+        "t1": "funny",
+        "t2": "speculate"
+    },
+    {
+        "input": "inherent, deform, destruct",
+        "output": "intrinsic",
+        "t1": "inherent",
+        "t2": "intrinsic"
+    },
+    {
+        "input": "lone, exclude, arise",
+        "output": "solitary",
+        "t1": "lone",
+        "t2": "solitary"
+    },
+    {
+        "input": "incidental, engage, hoard",
+        "output": "accidental",
+        "t1": "incidental",
+        "t2": "accidental"
+    },
+    {
+        "input": "cure, protest, naked",
+        "output": "bare",
+        "t1": "naked",
+        "t2": "heal"
+    },
+    {
+        "input": "thank, abnormal, smash",
+        "output": "unusual",
+        "t1": "abnormal",
+        "t2": "appreciate"
+    },
+    {
+        "input": "embrace, herald, hateful",
+        "output": "spiteful",
+        "t1": "hateful",
+        "t2": "hug"
+    },
+    {
+        "input": "numerical, communicate, consist",
+        "output": "quantitative",
+        "t1": "numerical",
+        "t2": "quantitative"
+    },
+    {
+        "input": "drown, dubious, continue",
+        "output": "uncertain",
+        "t1": "dubious",
+        "t2": "submerge"
+    },
+    {
+        "input": "interpret, generate, prosperous",
+        "output": "wealthy",
+        "t1": "prosperous",
+        "t2": "translate"
+    },
+    {
+        "input": "let, grow, bright",
+        "output": "luminous",
+        "t1": "bright",
+        "t2": "allow"
+    },
+    {
+        "input": "strengthen, arise, sufficient",
+        "output": "enough",
+        "t1": "sufficient",
+        "t2": "fortify"
+    },
+    {
+        "input": "constitute, erratic, decide",
+        "output": "unpredictable",
+        "t1": "erratic",
+        "t2": "comprise"
+    },
+    {
+        "input": "incur, send, incompetent",
+        "output": "unskilled",
+        "t1": "incompetent",
+        "t2": "sustain"
+    },
+    {
+        "input": "diminish, inject, damaging",
+        "output": "destructive",
+        "t1": "damaging",
+        "t2": "reduce"
+    },
+    {
+        "input": "include, busy, converge",
+        "output": "occupied",
+        "t1": "busy",
+        "t2": "incorporate"
+    },
+    {
+        "input": "exclusive, tempt, procure",
+        "output": "unique",
+        "t1": "exclusive",
+        "t2": "unique"
+    },
+    {
+        "input": "extend, extraordinary, destruct",
+        "output": "remarkable",
+        "t1": "extraordinary",
+        "t2": "lengthen"
+    },
+    {
+        "input": "righteous, deem, inform",
+        "output": "virtuous",
+        "t1": "righteous",
+        "t2": "virtuous"
+    },
+    {
+        "input": "inflict, luxurious, salvage",
+        "output": "opulent",
+        "t1": "luxurious",
+        "t2": "impose"
+    },
+    {
+        "input": "prove, impart, serious",
+        "output": "solemn",
+        "t1": "serious",
+        "t2": "demonstrate"
+    },
+    {
+        "input": "overwhelm, remarkable, watch",
+        "output": "extraordinary",
+        "t1": "remarkable",
+        "t2": "overpower"
+    },
+    {
+        "input": "induct, drunk, propose",
+        "output": "intoxicated",
+        "t1": "drunk",
+        "t2": "initiate"
+    },
+    {
+        "input": "willful, pinch, attach",
+        "output": "determined",
+        "t1": "willful",
+        "t2": "determined"
+    },
+    {
+        "input": "miserable, restore, creep",
+        "output": "unhappy",
+        "t1": "miserable",
+        "t2": "unhappy"
+    },
+    {
+        "input": "expansive, react, salvage",
+        "output": "costly",
+        "t1": "expansive",
+        "t2": "costly"
+    },
+    {
+        "input": "suggest, deficient, detect",
+        "output": "insufficient",
+        "t1": "deficient",
+        "t2": "recommend"
+    },
+    {
+        "input": "usher, prescribe, adverse",
+        "output": "unfavorable",
+        "t1": "adverse",
+        "t2": "guide"
+    },
+    {
+        "input": "partial, inspire, feed",
+        "output": "incomplete",
+        "t1": "partial",
+        "t2": "incomplete"
+    },
+    {
+        "input": "insecure, realize, remove",
+        "output": "uncertain",
+        "t1": "insecure",
+        "t2": "uncertain"
+    },
+    {
+        "input": "know, partake, allowable",
+        "output": "permissible",
+        "t1": "allowable",
+        "t2": "understand"
+    },
+    {
+        "input": "needless, generate, preserve",
+        "output": "unnecessary",
+        "t1": "needless",
+        "t2": "unnecessary"
+    },
+    {
+        "input": "critical, administer, procure",
+        "output": "important",
+        "t1": "critical",
+        "t2": "important"
+    },
+    {
+        "input": "prudent, rid, diminish",
+        "output": "wise",
+        "t1": "prudent",
+        "t2": "wise"
+    },
+    {
+        "input": "burn, horrible, reclaim",
+        "output": "terrible",
+        "t1": "horrible",
+        "t2": "ignite"
+    },
+    {
+        "input": "drown, inject, dangerous",
+        "output": "hazardous",
+        "t1": "dangerous",
+        "t2": "submerge"
+    },
+    {
+        "input": "communicate, scar, sympathetic",
+        "output": "compassionate",
+        "t1": "sympathetic",
+        "t2": "convey"
+    },
+    {
+        "input": "contain, concentrated, inject",
+        "output": "focused",
+        "t1": "concentrated",
+        "t2": "include"
+    },
+    {
+        "input": "cancel, sick, omit",
+        "output": "ill",
+        "t1": "sick",
+        "t2": "terminate"
+    },
+    {
+        "input": "grasp, frightened, attach",
+        "output": "scared",
+        "t1": "frightened",
+        "t2": "understand"
+    },
+    {
+        "input": "fatty, condemn, write",
+        "output": "obese",
+        "t1": "fatty",
+        "t2": "obese"
+    },
+    {
+        "input": "captain, peaceful, avail",
+        "output": "tranquil",
+        "t1": "peaceful",
+        "t2": "skipper"
+    },
+    {
+        "input": "determine, outlandish, inspire",
+        "output": "bizarre",
+        "t1": "outlandish",
+        "t2": "decide"
+    },
+    {
+        "input": "continue, extra, name",
+        "output": "additional",
+        "t1": "extra",
+        "t2": "proceed"
+    },
+    {
+        "input": "leave, willing, regain",
+        "output": "eager",
+        "t1": "willing",
+        "t2": "depart"
+    },
+    {
+        "input": "optional, classify, extend",
+        "output": "voluntary",
+        "t1": "optional",
+        "t2": "voluntary"
+    },
+    {
+        "input": "undefined, inject, suggest",
+        "output": "ambiguous",
+        "t1": "undefined",
+        "t2": "ambiguous"
+    },
+    {
+        "input": "prohibit, render, mandatory",
+        "output": "compulsory",
+        "t1": "mandatory",
+        "t2": "forbid"
+    },
+    {
+        "input": "scar, fulfill, stupid",
+        "output": "foolish",
+        "t1": "stupid",
+        "t2": "wound"
+    },
+    {
+        "input": "imagine, comparable, defend",
+        "output": "similar",
+        "t1": "comparable",
+        "t2": "visualize"
+    },
+    {
+        "input": "interpret, urgent, conceive",
+        "output": "critical",
+        "t1": "urgent",
+        "t2": "translate"
+    },
+    {
+        "input": "identify, sentimental, come",
+        "output": "emotional",
+        "t1": "sentimental",
+        "t2": "recognize"
+    },
+    {
+        "input": "extend, surprise, noteworthy",
+        "output": "significant",
+        "t1": "noteworthy",
+        "t2": "lengthen"
+    },
+    {
+        "input": "aboriginal, prefer, dispose",
+        "output": "indigenous",
+        "t1": "aboriginal",
+        "t2": "indigenous"
+    },
+    {
+        "input": "ascertain, available, plead",
+        "output": "accessible",
+        "t1": "available",
+        "t2": "determine"
+    },
+    {
+        "input": "mixed, attain, confirm",
+        "output": "combined",
+        "t1": "mixed",
+        "t2": "combined"
+    },
+    {
+        "input": "motivate, fatal, induct",
+        "output": "deadly",
+        "t1": "fatal",
+        "t2": "inspire"
+    },
+    {
+        "input": "sting, scenic, suppose",
+        "output": "picturesque",
+        "t1": "scenic",
+        "t2": "bite"
+    },
+    {
+        "input": "grab, realise, harsh",
+        "output": "severe",
+        "t1": "harsh",
+        "t2": "seize"
+    },
+    {
+        "input": "convey, consistent, misrepresent",
+        "output": "steady",
+        "t1": "consistent",
+        "t2": "communicate"
+    },
+    {
+        "input": "attain, induct, canonical",
+        "output": "standardized",
+        "t1": "canonical",
+        "t2": "achieve"
+    },
+    {
+        "input": "obsolete, capture, enhance",
+        "output": "outdated",
+        "t1": "obsolete",
+        "t2": "outdated"
+    },
+    {
+        "input": "impart, withstand, inconsistent",
+        "output": "unreliable",
+        "t1": "inconsistent",
+        "t2": "convey"
+    },
+    {
+        "input": "similar, flourish, embrace",
+        "output": "alike",
+        "t1": "similar",
+        "t2": "alike"
+    },
+    {
+        "input": "compress, awful, write",
+        "output": "terrible",
+        "t1": "awful",
+        "t2": "condense"
+    },
+    {
+        "input": "experienced, constitute, measure",
+        "output": "skilled",
+        "t1": "experienced",
+        "t2": "skilled"
+    },
+    {
+        "input": "impair, grab, invalid",
+        "output": "unacceptable",
+        "t1": "invalid",
+        "t2": "damage"
+    },
+    {
+        "input": "act, integrate, destructive",
+        "output": "damaging",
+        "t1": "destructive",
+        "t2": "perform"
+    },
+    {
+        "input": "awesome, condone, dispatch",
+        "output": "impressive",
+        "t1": "awesome",
+        "t2": "impressive"
+    },
+    {
+        "input": "soak, convey, clandestine",
+        "output": "secretive",
+        "t1": "clandestine",
+        "t2": "drench"
+    },
+    {
+        "input": "bizarre, receive, overlook",
+        "output": "strange",
+        "t1": "bizarre",
+        "t2": "strange"
+    },
+    {
+        "input": "defy, informal, engage",
+        "output": "casual",
+        "t1": "informal",
+        "t2": "resist"
+    },
+    {
+        "input": "prefer, insightful, tolerate",
+        "output": "perceptive",
+        "t1": "insightful",
+        "t2": "favor"
+    },
+    {
+        "input": "tell, remove, needy",
+        "output": "dependent",
+        "t1": "needy",
+        "t2": "inform"
+    },
+    {
+        "input": "characterize, contiguous, induct",
+        "output": "adjacent",
+        "t1": "contiguous",
+        "t2": "describe"
+    },
+    {
+        "input": "tell, handy, repeal",
+        "output": "useful",
+        "t1": "handy",
+        "t2": "inform"
+    },
+    {
+        "input": "garner, mighty, modify",
+        "output": "powerful",
+        "t1": "mighty",
+        "t2": "collect"
+    },
+    {
+        "input": "vanish, fix, wasteful",
+        "output": "extravagant",
+        "t1": "wasteful",
+        "t2": "disappear"
+    },
+    {
+        "input": "combine, refined, get",
+        "output": "elegant",
+        "t1": "refined",
+        "t2": "merge"
+    },
+    {
+        "input": "succeed, eliminate, naughty",
+        "output": "mischievous",
+        "t1": "naughty",
+        "t2": "achieve"
+    },
+    {
+        "input": "expire, cure, agreeable",
+        "output": "pleasant",
+        "t1": "agreeable",
+        "t2": "perish"
+    },
+    {
+        "input": "amuse, attach, robust",
+        "output": "sturdy",
+        "t1": "robust",
+        "t2": "entertain"
+    },
+    {
+        "input": "problematic, hear, name",
+        "output": "troublesome",
+        "t1": "problematic",
+        "t2": "troublesome"
+    },
+    {
+        "input": "betray, reach, unwanted",
+        "output": "undesirable",
+        "t1": "unwanted",
+        "t2": "deceive"
+    },
+    {
+        "input": "prove, unstable, borrow",
+        "output": "unsteady",
+        "t1": "unstable",
+        "t2": "demonstrate"
+    },
+    {
+        "input": "stiff, suppress, appoint",
+        "output": "rigid",
+        "t1": "stiff",
+        "t2": "rigid"
+    },
+    {
+        "input": "generous, realize, hide",
+        "output": "benevolent",
+        "t1": "generous",
+        "t2": "benevolent"
+    },
+    {
+        "input": "rigorous, converge, classify",
+        "output": "strict",
+        "t1": "rigorous",
+        "t2": "strict"
+    },
+    {
+        "input": "fix, sit, sole",
+        "output": "unique",
+        "t1": "sole",
+        "t2": "repair"
+    },
+    {
+        "input": "impart, unnamed, stump",
+        "output": "anonymous",
+        "t1": "unnamed",
+        "t2": "convey"
+    },
+    {
+        "input": "attain, protect, furnished",
+        "output": "equipped",
+        "t1": "furnished",
+        "t2": "achieve"
+    },
+    {
+        "input": "deceptive, appoint, revoke",
+        "output": "misleading",
+        "t1": "deceptive",
+        "t2": "misleading"
+    },
+    {
+        "input": "garner, react, persistent",
+        "output": "determined",
+        "t1": "persistent",
+        "t2": "collect"
+    },
+    {
+        "input": "spend, arrest, exquisite",
+        "output": "elegant",
+        "t1": "exquisite",
+        "t2": "expend"
+    },
+    {
+        "input": "compress, ironic, simulate",
+        "output": "sarcastic",
+        "t1": "ironic",
+        "t2": "condense"
+    },
+    {
+        "input": "stubborn, integrate, render",
+        "output": "obstinate",
+        "t1": "stubborn",
+        "t2": "obstinate"
+    },
+    {
+        "input": "nonsensical, induct, entertain",
+        "output": "illogical",
+        "t1": "nonsensical",
+        "t2": "illogical"
+    },
+    {
+        "input": "grasp, talk, mad",
+        "output": "angry",
+        "t1": "mad",
+        "t2": "understand"
+    },
+    {
+        "input": "enigmatic, misrepresent, arise",
+        "output": "mysterious",
+        "t1": "enigmatic",
+        "t2": "mysterious"
+    },
+    {
+        "input": "imaginative, reach, garner",
+        "output": "creative",
+        "t1": "imaginative",
+        "t2": "creative"
+    },
+    {
+        "input": "withstand, alert, drown",
+        "output": "vigilant",
+        "t1": "alert",
+        "t2": "endure"
+    },
+    {
+        "input": "ban, betray, virtuous",
+        "output": "righteous",
+        "t1": "virtuous",
+        "t2": "prohibit"
+    },
+    {
+        "input": "depend, restore, pathetic",
+        "output": "pitiful",
+        "t1": "pathetic",
+        "t2": "rely"
+    },
+    {
+        "input": "reduced, pause, guess",
+        "output": "diminished",
+        "t1": "reduced",
+        "t2": "diminished"
+    },
+    {
+        "input": "apprehend, drown, magnetic",
+        "output": "attractive",
+        "t1": "magnetic",
+        "t2": "arrest"
+    },
+    {
+        "input": "induct, striking, overpower",
+        "output": "impressive",
+        "t1": "striking",
+        "t2": "initiate"
+    },
+    {
+        "input": "crooked, train, restore",
+        "output": "bent",
+        "t1": "crooked",
+        "t2": "bent"
+    },
+    {
+        "input": "candid, propose, discover",
+        "output": "honest",
+        "t1": "candid",
+        "t2": "honest"
+    },
+    {
+        "input": "die, communicate, mid",
+        "output": "central",
+        "t1": "mid",
+        "t2": "perish"
+    },
+    {
+        "input": "discover, lavish, practise",
+        "output": "luxurious",
+        "t1": "lavish",
+        "t2": "uncover"
+    },
+    {
+        "input": "emphasize, irritated, exile",
+        "output": "annoyed",
+        "t1": "irritated",
+        "t2": "highlight"
+    },
+    {
+        "input": "fix, definitive, defy",
+        "output": "conclusive",
+        "t1": "definitive",
+        "t2": "repair"
+    },
+    {
+        "input": "suppress, save, childish",
+        "output": "immature",
+        "t1": "childish",
+        "t2": "repress"
+    },
+    {
+        "input": "inflict, tear, unbelievable",
+        "output": "incredible",
+        "t1": "unbelievable",
+        "t2": "impose"
+    },
+    {
+        "input": "useless, soak, hide",
+        "output": "pointless",
+        "t1": "useless",
+        "t2": "pointless"
+    },
+    {
+        "input": "messy, describe, curtail",
+        "output": "disorderly",
+        "t1": "messy",
+        "t2": "disorderly"
+    },
+    {
+        "input": "strengthen, choke, geographical",
+        "output": "territorial",
+        "t1": "geographical",
+        "t2": "fortify"
+    },
+    {
+        "input": "warp, relate, operational",
+        "output": "functional",
+        "t1": "operational",
+        "t2": "distort"
+    },
+    {
+        "input": "earnest, include, glean",
+        "output": "sincere",
+        "t1": "earnest",
+        "t2": "sincere"
+    },
+    {
+        "input": "serial, delete, contend",
+        "output": "sequential",
+        "t1": "serial",
+        "t2": "sequential"
+    },
+    {
+        "input": "leave, successful, portray",
+        "output": "prosperous",
+        "t1": "successful",
+        "t2": "depart"
+    },
+    {
+        "input": "grow, volatile, plead",
+        "output": "unstable",
+        "t1": "volatile",
+        "t2": "develop"
+    },
+    {
+        "input": "terrible, compress, write",
+        "output": "awful",
+        "t1": "terrible",
+        "t2": "awful"
+    },
+    {
+        "input": "lovely, ban, consume",
+        "output": "charming",
+        "t1": "lovely",
+        "t2": "charming"
+    },
+    {
+        "input": "deem, perennial, represent",
+        "output": "everlasting",
+        "t1": "perennial",
+        "t2": "consider"
+    },
+    {
+        "input": "succeed, bury, fitting",
+        "output": "suitable",
+        "t1": "fitting",
+        "t2": "achieve"
+    },
+    {
+        "input": "talk, graphic, prescribe",
+        "output": "visual",
+        "t1": "graphic",
+        "t2": "speak"
+    },
+    {
+        "input": "cure, considerable, distribute",
+        "output": "significant",
+        "t1": "considerable",
+        "t2": "heal"
+    },
+    {
+        "input": "deform, crippled, merge",
+        "output": "disabled",
+        "t1": "crippled",
+        "t2": "distort"
+    },
+    {
+        "input": "outstanding, administer, proceed",
+        "output": "exceptional",
+        "t1": "outstanding",
+        "t2": "exceptional"
+    },
+    {
+        "input": "spirited, modify, tempt",
+        "output": "energetic",
+        "t1": "spirited",
+        "t2": "energetic"
+    },
+    {
+        "input": "override, conceive, emotional",
+        "output": "sensitive",
+        "t1": "emotional",
+        "t2": "supersede"
+    },
+    {
+        "input": "sting, weigh, cultured",
+        "output": "sophisticated",
+        "t1": "cultured",
+        "t2": "bite"
+    },
+    {
+        "input": "constitute, thank, muscular",
+        "output": "strong",
+        "t1": "muscular",
+        "t2": "comprise"
+    },
+    {
+        "input": "repeal, prescribe, questionable",
+        "output": "doubtful",
+        "t1": "questionable",
+        "t2": "revoke"
+    },
+    {
+        "input": "sustain, occasional, suggest",
+        "output": "infrequent",
+        "t1": "occasional",
+        "t2": "maintain"
+    },
+    {
+        "input": "consume, senseless, thank",
+        "output": "meaningless",
+        "t1": "senseless",
+        "t2": "eat"
+    },
+    {
+        "input": "remove, decide, dear",
+        "output": "beloved",
+        "t1": "dear",
+        "t2": "eliminate"
+    },
+    {
+        "input": "contend, medial, cancel",
+        "output": "intermediate",
+        "t1": "medial",
+        "t2": "compete"
+    },
+    {
+        "input": "fragile, find, flower",
+        "output": "delicate",
+        "t1": "fragile",
+        "t2": "delicate"
+    },
+    {
+        "input": "classify, sincere, speak",
+        "output": "honest",
+        "t1": "sincere",
+        "t2": "categorize"
+    },
+    {
+        "input": "insignificant, imply, grab",
+        "output": "unimportant",
+        "t1": "insignificant",
+        "t2": "unimportant"
+    },
+    {
+        "input": "tidy, concoct, condone",
+        "output": "neat",
+        "t1": "tidy",
+        "t2": "neat"
+    },
+    {
+        "input": "restore, restrain, inevitable",
+        "output": "unavoidable",
+        "t1": "inevitable",
+        "t2": "renew"
+    },
+    {
+        "input": "deform, extensive, prohibit",
+        "output": "comprehensive",
+        "t1": "extensive",
+        "t2": "distort"
+    },
+    {
+        "input": "litter, apt, condemn",
+        "output": "suitable",
+        "t1": "apt",
+        "t2": "trash"
+    },
+    {
+        "input": "prohibit, describe, infectious",
+        "output": "contagious",
+        "t1": "infectious",
+        "t2": "forbid"
+    },
+    {
+        "input": "pious, characterize, cancel",
+        "output": "devout",
+        "t1": "pious",
+        "t2": "devout"
+    },
+    {
+        "input": "scar, peculiar, seem",
+        "output": "strange",
+        "t1": "peculiar",
+        "t2": "wound"
+    },
+    {
+        "input": "verify, meet, bland",
+        "output": "tasteless",
+        "t1": "bland",
+        "t2": "confirm"
+    },
+    {
+        "input": "adjoining, understand, ascertain",
+        "output": "adjacent",
+        "t1": "adjoining",
+        "t2": "adjacent"
+    },
+    {
+        "input": "intermittent, suppress, classify",
+        "output": "sporadic",
+        "t1": "intermittent",
+        "t2": "sporadic"
+    },
+    {
+        "input": "unreliable, lend, tell",
+        "output": "untrustworthy",
+        "t1": "unreliable",
+        "t2": "untrustworthy"
+    },
+    {
+        "input": "tragic, recover, imply",
+        "output": "catastrophic",
+        "t1": "tragic",
+        "t2": "catastrophic"
+    },
+    {
+        "input": "intimidate, classify, aromatic",
+        "output": "fragrant",
+        "t1": "aromatic",
+        "t2": "frighten"
+    },
+    {
+        "input": "detect, depart, honest",
+        "output": "truthful",
+        "t1": "honest",
+        "t2": "identify"
+    },
+    {
+        "input": "say, realize, legitimate",
+        "output": "lawful",
+        "t1": "legitimate",
+        "t2": "speak"
+    },
+    {
+        "input": "ascertain, endure, nervous",
+        "output": "anxious",
+        "t1": "nervous",
+        "t2": "determine"
+    },
+    {
+        "input": "readable, rescind, recognise",
+        "output": "legible",
+        "t1": "readable",
+        "t2": "legible"
+    },
+    {
+        "input": "conspicuous, partake, say",
+        "output": "noticeable",
+        "t1": "conspicuous",
+        "t2": "noticeable"
+    },
+    {
+        "input": "stump, blessed, seem",
+        "output": "fortunate",
+        "t1": "blessed",
+        "t2": "confuse"
+    },
+    {
+        "input": "understand, energetic, choke",
+        "output": "vigorous",
+        "t1": "energetic",
+        "t2": "comprehend"
+    },
+    {
+        "input": "scarce, flower, suppose",
+        "output": "rare",
+        "t1": "scarce",
+        "t2": "rare"
+    },
+    {
+        "input": "insulting, regain, assess",
+        "output": "offensive",
+        "t1": "insulting",
+        "t2": "offensive"
+    },
+    {
+        "input": "distinguish, consist, autonomous",
+        "output": "independent",
+        "t1": "autonomous",
+        "t2": "differentiate"
+    },
+    {
+        "input": "bring, soak, renowned",
+        "output": "famous",
+        "t1": "renowned",
+        "t2": "deliver"
+    },
+    {
+        "input": "curtail, dispose, adequate",
+        "output": "sufficient",
+        "t1": "adequate",
+        "t2": "shorten"
+    },
+    {
+        "input": "hear, impair, lucky",
+        "output": "fortunate",
+        "t1": "lucky",
+        "t2": "listen"
+    },
+    {
+        "input": "suppress, smart, practise",
+        "output": "clever",
+        "t1": "smart",
+        "t2": "repress"
+    },
+    {
+        "input": "rid, accomplish, sporadic",
+        "output": "intermittent",
+        "t1": "sporadic",
+        "t2": "remove"
+    },
+    {
+        "input": "overcome, daring, relate",
+        "output": "adventurous",
+        "t1": "daring",
+        "t2": "conquer"
+    },
+    {
+        "input": "incur, imaginable, portray",
+        "output": "conceivable",
+        "t1": "imaginable",
+        "t2": "sustain"
+    },
+    {
+        "input": "restrain, simulate, populated",
+        "output": "crowded",
+        "t1": "populated",
+        "t2": "constrain"
+    },
+    {
+        "input": "dodge, litter, relevant",
+        "output": "pertinent",
+        "t1": "relevant",
+        "t2": "evade"
+    },
+    {
+        "input": "consult, engage, comic",
+        "output": "funny",
+        "t1": "comic",
+        "t2": "advise"
+    },
+    {
+        "input": "remove, attach, maiden",
+        "output": "virgin",
+        "t1": "maiden",
+        "t2": "eliminate"
+    },
+    {
+        "input": "recount, misrepresent, accessible",
+        "output": "available",
+        "t1": "accessible",
+        "t2": "narrate"
+    },
+    {
+        "input": "possess, economic, combine",
+        "output": "financial",
+        "t1": "economic",
+        "t2": "own"
+    },
+    {
+        "input": "repeal, difficult, combine",
+        "output": "challenging",
+        "t1": "difficult",
+        "t2": "revoke"
+    },
+    {
+        "input": "converge, alone, protest",
+        "output": "solitary",
+        "t1": "alone",
+        "t2": "merge"
+    },
+    {
+        "input": "passionate, endure, render",
+        "output": "enthusiastic",
+        "t1": "passionate",
+        "t2": "enthusiastic"
+    },
+    {
+        "input": "attain, reach, vast",
+        "output": "immense",
+        "t1": "vast",
+        "t2": "achieve"
+    },
+    {
+        "input": "aware, borrow, redeem",
+        "output": "conscious",
+        "t1": "aware",
+        "t2": "conscious"
+    },
+    {
+        "input": "severe, weigh, identify",
+        "output": "serious",
+        "t1": "severe",
+        "t2": "serious"
+    },
+    {
+        "input": "tranquil, measure, realize",
+        "output": "peaceful",
+        "t1": "tranquil",
+        "t2": "peaceful"
+    },
+    {
+        "input": "hear, oppress, conventional",
+        "output": "traditional",
+        "t1": "conventional",
+        "t2": "listen"
+    },
+    {
+        "input": "misrepresent, proceed, typical",
+        "output": "usual",
+        "t1": "typical",
+        "t2": "distort"
+    },
+    {
+        "input": "conceive, distinct, save",
+        "output": "unique",
+        "t1": "distinct",
+        "t2": "imagine"
+    },
+    {
+        "input": "tremendous, recognize, tear",
+        "output": "enormous",
+        "t1": "tremendous",
+        "t2": "enormous"
+    },
+    {
+        "input": "intimidate, murky, generate",
+        "output": "cloudy",
+        "t1": "murky",
+        "t2": "frighten"
+    },
+    {
+        "input": "incur, emphasize, dumb",
+        "output": "stupid",
+        "t1": "dumb",
+        "t2": "sustain"
+    },
+    {
+        "input": "involve, educate, unacceptable",
+        "output": "unfavorable",
+        "t1": "unacceptable",
+        "t2": "engage"
+    },
+    {
+        "input": "supernatural, expand, inform",
+        "output": "paranormal",
+        "t1": "supernatural",
+        "t2": "paranormal"
+    },
+    {
+        "input": "unaware, defy, dispatch",
+        "output": "ignorant",
+        "t1": "unaware",
+        "t2": "ignorant"
+    },
+    {
+        "input": "pleasing, expire, designate",
+        "output": "satisfying",
+        "t1": "pleasing",
+        "t2": "satisfying"
+    },
+    {
+        "input": "omit, awake, proceed",
+        "output": "alert",
+        "t1": "awake",
+        "t2": "exclude"
+    },
+    {
+        "input": "constitute, authentic, stump",
+        "output": "genuine",
+        "t1": "authentic",
+        "t2": "comprise"
+    },
+    {
+        "input": "inspire, beneficial, understand",
+        "output": "advantageous",
+        "t1": "beneficial",
+        "t2": "motivate"
+    },
+    {
+        "input": "captain, exceptional, realise",
+        "output": "extraordinary",
+        "t1": "exceptional",
+        "t2": "skipper"
+    },
+    {
+        "input": "override, hide, ineffective",
+        "output": "unproductive",
+        "t1": "ineffective",
+        "t2": "supersede"
+    },
+    {
+        "input": "realize, garner, gloomy",
+        "output": "dismal",
+        "t1": "gloomy",
+        "t2": "understand"
+    },
+    {
+        "input": "identify, innovative, prefer",
+        "output": "creative",
+        "t1": "innovative",
+        "t2": "recognize"
+    },
+    {
+        "input": "requisite, dodge, amuse",
+        "output": "necessary",
+        "t1": "requisite",
+        "t2": "necessary"
+    },
+    {
+        "input": "famed, hinder, feed",
+        "output": "renowned",
+        "t1": "famed",
+        "t2": "renowned"
+    },
+    {
+        "input": "flash, pick, coherent",
+        "output": "logical",
+        "t1": "coherent",
+        "t2": "blink"
+    },
+    {
+        "input": "dependent, reach, interpret",
+        "output": "reliant",
+        "t1": "dependent",
+        "t2": "reliant"
+    },
+    {
+        "input": "regain, pump, coercive",
+        "output": "forceful",
+        "t1": "coercive",
+        "t2": "recover"
+    },
+    {
+        "input": "warp, hoard, heartfelt",
+        "output": "sincere",
+        "t1": "heartfelt",
+        "t2": "distort"
+    },
+    {
+        "input": "fearless, evade, strengthen",
+        "output": "daring",
+        "t1": "fearless",
+        "t2": "daring"
+    },
+    {
+        "input": "administer, civilized, fulfill",
+        "output": "sophisticated",
+        "t1": "civilized",
+        "t2": "manage"
+    },
+    {
+        "input": "eat, dim, provoke",
+        "output": "faint",
+        "t1": "dim",
+        "t2": "consume"
+    },
+    {
+        "input": "teenage, accomplish, possess",
+        "output": "adolescent",
+        "t1": "teenage",
+        "t2": "adolescent"
+    },
+    {
+        "input": "sarcastic, repair, redeem",
+        "output": "ironic",
+        "t1": "sarcastic",
+        "t2": "ironic"
+    },
+    {
+        "input": "deem, speak, crazy",
+        "output": "insane",
+        "t1": "crazy",
+        "t2": "consider"
+    },
+    {
+        "input": "bury, unlikely, classify",
+        "output": "improbable",
+        "t1": "unlikely",
+        "t2": "inter"
+    },
+    {
+        "input": "stretch, uniform, grab",
+        "output": "consistent",
+        "t1": "uniform",
+        "t2": "extend"
+    },
+    {
+        "input": "creep, hefty, send",
+        "output": "substantial",
+        "t1": "hefty",
+        "t2": "sneak"
+    },
+    {
+        "input": "amuse, elegant, leave",
+        "output": "refined",
+        "t1": "elegant",
+        "t2": "entertain"
+    },
+    {
+        "input": "disgusting, understand, capture",
+        "output": "repulsive",
+        "t1": "disgusting",
+        "t2": "repulsive"
+    },
+    {
+        "input": "intimidate, monstrous, glean",
+        "output": "terrifying",
+        "t1": "monstrous",
+        "t2": "frighten"
+    },
+    {
+        "input": "quick, embody, consult",
+        "output": "rapid",
+        "t1": "quick",
+        "t2": "rapid"
+    },
+    {
+        "input": "graceful, attach, constitute",
+        "output": "elegant",
+        "t1": "graceful",
+        "t2": "elegant"
+    },
+    {
+        "input": "possess, prominent, defend",
+        "output": "notable",
+        "t1": "prominent",
+        "t2": "own"
+    },
+    {
+        "input": "distinguish, friendly, save",
+        "output": "sociable",
+        "t1": "friendly",
+        "t2": "differentiate"
+    },
+    {
+        "input": "write, deform, careful",
+        "output": "cautious",
+        "t1": "careful",
+        "t2": "compose"
+    },
+    {
+        "input": "neat, bring, smash",
+        "output": "tidy",
+        "t1": "neat",
+        "t2": "tidy"
+    },
+    {
+        "input": "prohibit, incapable, flick",
+        "output": "unable",
+        "t1": "incapable",
+        "t2": "forbid"
+    },
+    {
+        "input": "modify, sustain, sensible",
+        "output": "reasonable",
+        "t1": "sensible",
+        "t2": "alter"
+    },
+    {
+        "input": "convey, invasive, inform",
+        "output": "intrusive",
+        "t1": "invasive",
+        "t2": "communicate"
+    },
+    {
+        "input": "reach, attach, proud",
+        "output": "arrogant",
+        "t1": "proud",
+        "t2": "attain"
+    },
+    {
+        "input": "train, humorous, regain",
+        "output": "funny",
+        "t1": "humorous",
+        "t2": "educate"
+    },
+    {
+        "input": "eliminate, classic, come",
+        "output": "traditional",
+        "t1": "classic",
+        "t2": "remove"
+    },
+    {
+        "input": "indefinite, interpret, expel",
+        "output": "uncertain",
+        "t1": "indefinite",
+        "t2": "uncertain"
+    },
+    {
+        "input": "characterize, sudden, disclaim",
+        "output": "unexpected",
+        "t1": "sudden",
+        "t2": "describe"
+    },
+    {
+        "input": "far, suppose, render",
+        "output": "distant",
+        "t1": "far",
+        "t2": "distant"
+    },
+    {
+        "input": "practise, pleased, meet",
+        "output": "satisfied",
+        "t1": "pleased",
+        "t2": "train"
+    },
+    {
+        "input": "delete, induce, steadfast",
+        "output": "unwavering",
+        "t1": "steadfast",
+        "t2": "remove"
+    },
+    {
+        "input": "stump, fortunate, verify",
+        "output": "lucky",
+        "t1": "fortunate",
+        "t2": "confuse"
+    },
+    {
+        "input": "save, synonymous, curtail",
+        "output": "equivalent",
+        "t1": "synonymous",
+        "t2": "preserve"
+    },
+    {
+        "input": "resurrect, partake, credible",
+        "output": "believable",
+        "t1": "credible",
+        "t2": "revive"
+    },
+    {
+        "input": "ascertain, triumphant, override",
+        "output": "victorious",
+        "t1": "triumphant",
+        "t2": "determine"
+    },
+    {
+        "input": "proportional, soak, condone",
+        "output": "equivalent",
+        "t1": "proportional",
+        "t2": "equivalent"
+    },
+    {
+        "input": "worldly, receive, combine",
+        "output": "cosmopolitan",
+        "t1": "worldly",
+        "t2": "cosmopolitan"
+    },
+    {
+        "input": "theoretical, flourish, sting",
+        "output": "conceptual",
+        "t1": "theoretical",
+        "t2": "conceptual"
+    },
+    {
+        "input": "lend, converge, impartial",
+        "output": "unbiased",
+        "t1": "impartial",
+        "t2": "borrow"
+    },
+    {
+        "input": "hinder, vanish, magnificent",
+        "output": "splendid",
+        "t1": "magnificent",
+        "t2": "obstruct"
+    },
+    {
+        "input": "paramount, impair, ban",
+        "output": "supreme",
+        "t1": "paramount",
+        "t2": "supreme"
+    },
+    {
+        "input": "improve, accomplish, reciprocal",
+        "output": "mutual",
+        "t1": "reciprocal",
+        "t2": "enhance"
+    },
+    {
+        "input": "herald, unsure, measure",
+        "output": "uncertain",
+        "t1": "unsure",
+        "t2": "announce"
+    },
+    {
+        "input": "meet, desperate, advise",
+        "output": "hopeless",
+        "t1": "desperate",
+        "t2": "encounter"
+    },
+    {
+        "input": "succeed, inform, excellent",
+        "output": "outstanding",
+        "t1": "excellent",
+        "t2": "achieve"
+    },
+    {
+        "input": "vehement, arise, die",
+        "output": "passionate",
+        "t1": "vehement",
+        "t2": "passionate"
+    },
+    {
+        "input": "graphical, bring, endure",
+        "output": "visual",
+        "t1": "graphical",
+        "t2": "visual"
+    },
+    {
+        "input": "obtain, respective, dodge",
+        "output": "corresponding",
+        "t1": "respective",
+        "t2": "acquire"
+    },
+    {
+        "input": "embrace, trivial, feed",
+        "output": "insignificant",
+        "t1": "trivial",
+        "t2": "hug"
+    },
+    {
+        "input": "compress, immoral, conquer",
+        "output": "unethical",
+        "t1": "immoral",
+        "t2": "condense"
+    },
+    {
+        "input": "render, realize, huge",
+        "output": "gigantic",
+        "t1": "huge",
+        "t2": "provide"
+    },
+    {
+        "input": "strange, overwhelm, describe",
+        "output": "unusual",
+        "t1": "strange",
+        "t2": "unusual"
+    },
+    {
+        "input": "borrow, comprehensive, rescind",
+        "output": "thorough",
+        "t1": "comprehensive",
+        "t2": "lend"
+    },
+    {
+        "input": "juicy, save, fix",
+        "output": "succulent",
+        "t1": "juicy",
+        "t2": "succulent"
+    },
+    {
+        "input": "strengthen, inform, foolish",
+        "output": "silly",
+        "t1": "foolish",
+        "t2": "fortify"
+    },
+    {
+        "input": "recognize, immune, ascertain",
+        "output": "resistant",
+        "t1": "immune",
+        "t2": "identify"
+    },
+    {
+        "input": "suppress, customary, achieve",
+        "output": "traditional",
+        "t1": "customary",
+        "t2": "repress"
+    },
+    {
+        "input": "abrupt, consult, choke",
+        "output": "sudden",
+        "t1": "abrupt",
+        "t2": "sudden"
+    },
+    {
+        "input": "wrongful, get, stump",
+        "output": "unjust",
+        "t1": "wrongful",
+        "t2": "unjust"
+    },
+    {
+        "input": "diligent, borrow, cope",
+        "output": "industrious",
+        "t1": "diligent",
+        "t2": "industrious"
+    },
+    {
+        "input": "rudimentary, cure, choke",
+        "output": "basic",
+        "t1": "rudimentary",
+        "t2": "basic"
+    },
+    {
+        "input": "overwhelm, sinful, overlook",
+        "output": "wicked",
+        "t1": "sinful",
+        "t2": "overpower"
+    },
+    {
+        "input": "feed, proceed, informative",
+        "output": "educational",
+        "t1": "informative",
+        "t2": "nourish"
+    },
+    {
+        "input": "dramatic, strengthen, seem",
+        "output": "theatrical",
+        "t1": "dramatic",
+        "t2": "theatrical"
+    },
+    {
+        "input": "choke, stationary, interpret",
+        "output": "immobile",
+        "t1": "stationary",
+        "t2": "strangle"
+    },
+    {
+        "input": "burn, lend, faint",
+        "output": "weak",
+        "t1": "faint",
+        "t2": "ignite"
+    },
+    {
+        "input": "conceive, deform, tall",
+        "output": "lofty",
+        "t1": "tall",
+        "t2": "imagine"
+    },
+    {
+        "input": "identical, suffer, omit",
+        "output": "similar",
+        "t1": "identical",
+        "t2": "similar"
+    },
+    {
+        "input": "embrace, integrate, eminent",
+        "output": "distinguished",
+        "t1": "eminent",
+        "t2": "hug"
+    },
+    {
+        "input": "train, plead, icy",
+        "output": "frozen",
+        "t1": "icy",
+        "t2": "educate"
+    },
+    {
+        "input": "hinder, slay, definite",
+        "output": "certain",
+        "t1": "definite",
+        "t2": "obstruct"
+    },
+    {
+        "input": "repeal, include, many",
+        "output": "numerous",
+        "t1": "many",
+        "t2": "revoke"
+    },
+    {
+        "input": "rid, petty, breathe",
+        "output": "trivial",
+        "t1": "petty",
+        "t2": "remove"
+    },
+    {
+        "input": "inflict, die, sticky",
+        "output": "tacky",
+        "t1": "sticky",
+        "t2": "impose"
+    },
+    {
+        "input": "attain, likely, continue",
+        "output": "probable",
+        "t1": "likely",
+        "t2": "achieve"
+    },
+    {
+        "input": "procure, prohibit, solemn",
+        "output": "serious",
+        "t1": "solemn",
+        "t2": "obtain"
+    },
+    {
+        "input": "condemn, saline, spend",
+        "output": "salty",
+        "t1": "saline",
+        "t2": "denounce"
+    },
+    {
+        "input": "plead, recall, contagious",
+        "output": "infectious",
+        "t1": "contagious",
+        "t2": "beg"
+    },
+    {
+        "input": "protect, tear, inhuman",
+        "output": "cruel",
+        "t1": "inhuman",
+        "t2": "defend"
+    },
+    {
+        "input": "tell, meaningless, modify",
+        "output": "pointless",
+        "t1": "meaningless",
+        "t2": "inform"
+    },
+    {
+        "input": "lively, die, characterize",
+        "output": "vibrant",
+        "t1": "lively",
+        "t2": "vibrant"
+    },
+    {
+        "input": "avail, charitable, restore",
+        "output": "generous",
+        "t1": "charitable",
+        "t2": "provide"
+    },
+    {
+        "input": "charming, withstand, achieve",
+        "output": "captivating",
+        "t1": "charming",
+        "t2": "captivating"
+    },
+    {
+        "input": "imagine, arrest, vulgar",
+        "output": "obscene",
+        "t1": "vulgar",
+        "t2": "visualize"
+    },
+    {
+        "input": "loyal, leave, dodge",
+        "output": "faithful",
+        "t1": "loyal",
+        "t2": "faithful"
+    },
+    {
+        "input": "remember, distribute, towering",
+        "output": "lofty",
+        "t1": "towering",
+        "t2": "recall"
+    },
+    {
+        "input": "wretched, uphold, train",
+        "output": "miserable",
+        "t1": "wretched",
+        "t2": "miserable"
+    },
+    {
+        "input": "fulfill, proficient, thank",
+        "output": "skilled",
+        "t1": "proficient",
+        "t2": "accomplish"
+    },
+    {
+        "input": "smash, hug, desirable",
+        "output": "attractive",
+        "t1": "desirable",
+        "t2": "crush"
+    },
+    {
+        "input": "modify, accomplish, fraudulent",
+        "output": "deceptive",
+        "t1": "fraudulent",
+        "t2": "alter"
+    },
+    {
+        "input": "restrain, betray, inaccurate",
+        "output": "incorrect",
+        "t1": "inaccurate",
+        "t2": "constrain"
+    },
+    {
+        "input": "hoard, accomplish, reserved",
+        "output": "restrained",
+        "t1": "reserved",
+        "t2": "accumulate"
+    },
+    {
+        "input": "fulfill, redeem, illicit",
+        "output": "illegal",
+        "t1": "illicit",
+        "t2": "accomplish"
+    },
+    {
+        "input": "imagine, watch, massive",
+        "output": "huge",
+        "t1": "massive",
+        "t2": "visualize"
+    },
+    {
+        "input": "infer, integrated, prefer",
+        "output": "combined",
+        "t1": "integrated",
+        "t2": "deduce"
+    },
+    {
+        "input": "apprehend, stumble, enthusiastic",
+        "output": "passionate",
+        "t1": "enthusiastic",
+        "t2": "arrest"
+    },
+    {
+        "input": "misrepresent, eat, apparent",
+        "output": "obvious",
+        "t1": "apparent",
+        "t2": "distort"
+    },
+    {
+        "input": "say, realize, restless",
+        "output": "agitated",
+        "t1": "restless",
+        "t2": "speak"
+    },
+    {
+        "input": "wake, inspire, immense",
+        "output": "huge",
+        "t1": "immense",
+        "t2": "arise"
+    },
+    {
+        "input": "gracious, prescribe, propose",
+        "output": "courteous",
+        "t1": "gracious",
+        "t2": "courteous"
+    },
+    {
+        "input": "prosper, verify, prevalent",
+        "output": "widespread",
+        "t1": "prevalent",
+        "t2": "thrive"
+    },
+    {
+        "input": "flash, noted, uphold",
+        "output": "recorded",
+        "t1": "noted",
+        "t2": "blink"
+    },
+    {
+        "input": "suggest, baseless, depart",
+        "output": "unfounded",
+        "t1": "baseless",
+        "t2": "recommend"
+    },
+    {
+        "input": "dominant, include, provoke",
+        "output": "commanding",
+        "t1": "dominant",
+        "t2": "commanding"
+    },
+    {
+        "input": "destruct, foremost, stretch",
+        "output": "primary",
+        "t1": "foremost",
+        "t2": "demolish"
+    },
+    {
+        "input": "meet, sandy, adjust",
+        "output": "gritty",
+        "t1": "sandy",
+        "t2": "encounter"
+    },
+    {
+        "input": "lonely, tolerate, restrain",
+        "output": "isolated",
+        "t1": "lonely",
+        "t2": "isolated"
+    },
+    {
+        "input": "remove, glorious, impart",
+        "output": "magnificent",
+        "t1": "glorious",
+        "t2": "eliminate"
+    },
+    {
+        "input": "administer, dispatch, abundant",
+        "output": "plentiful",
+        "t1": "abundant",
+        "t2": "manage"
+    },
+    {
+        "input": "colossal, rescind, inject",
+        "output": "gigantic",
+        "t1": "colossal",
+        "t2": "gigantic"
+    },
+    {
+        "input": "inconvenient, diminish, deform",
+        "output": "troublesome",
+        "t1": "inconvenient",
+        "t2": "troublesome"
+    },
+    {
+        "input": "accomplish, amusing, suppose",
+        "output": "funny",
+        "t1": "amusing",
+        "t2": "achieve"
+    },
+    {
+        "input": "encounter, stumble, stagnant",
+        "output": "stationary",
+        "t1": "stagnant",
+        "t2": "meet"
+    },
+    {
+        "input": "violet, possess, breathe",
+        "output": "purple",
+        "t1": "violet",
+        "t2": "purple"
+    },
+    {
+        "input": "eliminate, uphold, unequal",
+        "output": "disproportionate",
+        "t1": "unequal",
+        "t2": "remove"
+    },
+    {
+        "input": "eliminate, worthy, overwhelm",
+        "output": "valuable",
+        "t1": "worthy",
+        "t2": "remove"
+    },
+    {
+        "input": "operative, circulate, defy",
+        "output": "functional",
+        "t1": "operative",
+        "t2": "functional"
+    },
+    {
+        "input": "originate, marvelous, act",
+        "output": "wonderful",
+        "t1": "marvelous",
+        "t2": "begin"
+    },
+    {
+        "input": "encounter, probable, defy",
+        "output": "likely",
+        "t1": "probable",
+        "t2": "meet"
+    },
+    {
+        "input": "ascertain, clumsy, designate",
+        "output": "awkward",
+        "t1": "clumsy",
+        "t2": "determine"
+    },
+    {
+        "input": "unfortunate, eliminate, rate",
+        "output": "unlucky",
+        "t1": "unfortunate",
+        "t2": "unlucky"
+    },
+    {
+        "input": "uncommon, remember, misrepresent",
+        "output": "rare",
+        "t1": "uncommon",
+        "t2": "rare"
+    },
+    {
+        "input": "fond, thank, exclude",
+        "output": "affectionate",
+        "t1": "fond",
+        "t2": "affectionate"
+    },
+    {
+        "input": "realise, ardent, redeem",
+        "output": "passionate",
+        "t1": "ardent",
+        "t2": "understand"
+    },
+    {
+        "input": "capture, lend, nonviolent",
+        "output": "peaceful",
+        "t1": "nonviolent",
+        "t2": "seize"
+    },
+    {
+        "input": "modify, designate, overdue",
+        "output": "late",
+        "t1": "overdue",
+        "t2": "alter"
+    },
+    {
+        "input": "nasty, characterize, have",
+        "output": "unpleasant",
+        "t1": "nasty",
+        "t2": "unpleasant"
+    },
+    {
+        "input": "goofy, suffer, characterize",
+        "output": "silly",
+        "t1": "goofy",
+        "t2": "silly"
+    },
+    {
+        "input": "salvage, deliver, effective",
+        "output": "efficient",
+        "t1": "effective",
+        "t2": "recover"
+    },
+    {
+        "input": "competent, interpret, repeal",
+        "output": "capable",
+        "t1": "competent",
+        "t2": "capable"
+    },
+    {
+        "input": "soak, equipped, concoct",
+        "output": "furnished",
+        "t1": "equipped",
+        "t2": "drench"
+    },
+    {
+        "input": "undermine, concerned, get",
+        "output": "worried",
+        "t1": "concerned",
+        "t2": "weaken"
+    },
+    {
+        "input": "oppressive, recover, transport",
+        "output": "tyrannical",
+        "t1": "oppressive",
+        "t2": "tyrannical"
+    },
+    {
+        "input": "deliver, endure, troubled",
+        "output": "distressed",
+        "t1": "troubled",
+        "t2": "distribute"
+    },
+    {
+        "input": "save, react, unconscious",
+        "output": "unaware",
+        "t1": "unconscious",
+        "t2": "preserve"
+    },
+    {
+        "input": "moist, transport, interpret",
+        "output": "damp",
+        "t1": "moist",
+        "t2": "damp"
+    },
+    {
+        "input": "pinch, prove, interchangeable",
+        "output": "exchangeable",
+        "t1": "interchangeable",
+        "t2": "squeeze"
+    },
+    {
+        "input": "fertile, impart, weigh",
+        "output": "productive",
+        "t1": "fertile",
+        "t2": "productive"
+    },
+    {
+        "input": "immediate, include, constitute",
+        "output": "instantaneous",
+        "t1": "immediate",
+        "t2": "instantaneous"
+    },
+    {
+        "input": "induce, clever, condone",
+        "output": "ingenious",
+        "t1": "clever",
+        "t2": "provoke"
+    },
+    {
+        "input": "talk, discover, brittle",
+        "output": "fragile",
+        "t1": "brittle",
+        "t2": "speak"
+    },
+    {
+        "input": "significant, succeed, cope",
+        "output": "important",
+        "t1": "significant",
+        "t2": "important"
+    },
+    {
+        "input": "harmonic, slay, watch",
+        "output": "melodious",
+        "t1": "harmonic",
+        "t2": "melodious"
+    },
+    {
+        "input": "educate, relentless, recognise",
+        "output": "unyielding",
+        "t1": "relentless",
+        "t2": "teach"
+    },
+    {
+        "input": "imagine, missing, rescind",
+        "output": "lost",
+        "t1": "missing",
+        "t2": "visualize"
+    },
+    {
+        "input": "cope, enormous, describe",
+        "output": "huge",
+        "t1": "enormous",
+        "t2": "manage"
+    },
+    {
+        "input": "name, recall, ambiguous",
+        "output": "unclear",
+        "t1": "ambiguous",
+        "t2": "identify"
+    },
+    {
+        "input": "realise, salvage, prior",
+        "output": "previous",
+        "t1": "prior",
+        "t2": "understand"
+    },
+    {
+        "input": "visual, render, perform",
+        "output": "graphic",
+        "t1": "visual",
+        "t2": "graphic"
+    },
+    {
+        "input": "sit, melancholy, hide",
+        "output": "sorrowful",
+        "t1": "melancholy",
+        "t2": "settle"
+    },
+    {
+        "input": "retired, achieve, entertain",
+        "output": "inactive",
+        "t1": "retired",
+        "t2": "inactive"
+    },
+    {
+        "input": "surprise, eccentric, simulate",
+        "output": "unconventional",
+        "t1": "eccentric",
+        "t2": "astonish"
+    },
+    {
+        "input": "ridiculous, educate, pause",
+        "output": "ludicrous",
+        "t1": "ridiculous",
+        "t2": "ludicrous"
+    },
+    {
+        "input": "integrate, constitute, reliable",
+        "output": "dependable",
+        "t1": "reliable",
+        "t2": "combine"
+    },
+    {
+        "input": "conceive, adventurous, prosper",
+        "output": "daring",
+        "t1": "adventurous",
+        "t2": "imagine"
+    },
+    {
+        "input": "conquer, procure, crowded",
+        "output": "packed",
+        "t1": "crowded",
+        "t2": "overcome"
+    },
+    {
+        "input": "discover, decent, improve",
+        "output": "respectable",
+        "t1": "decent",
+        "t2": "uncover"
+    },
+    {
+        "input": "reach, ingenious, expand",
+        "output": "clever",
+        "t1": "ingenious",
+        "t2": "attain"
+    },
+    {
+        "input": "garner, bent, involve",
+        "output": "curved",
+        "t1": "bent",
+        "t2": "collect"
+    },
+    {
+        "input": "disorderly, boycott, have",
+        "output": "chaotic",
+        "t1": "disorderly",
+        "t2": "chaotic"
+    },
+    {
+        "input": "suffer, convenient, curtail",
+        "output": "practical",
+        "t1": "convenient",
+        "t2": "endure"
+    },
+    {
+        "input": "simulate, paranormal, verify",
+        "output": "supernatural",
+        "t1": "paranormal",
+        "t2": "imitate"
+    },
+    {
+        "input": "classy, choke, realise",
+        "output": "elegant",
+        "t1": "classy",
+        "t2": "elegant"
+    },
+    {
+        "input": "scared, remember, distinguish",
+        "output": "frightened",
+        "t1": "scared",
+        "t2": "frightened"
+    },
+    {
+        "input": "receive, salvage, astonishing",
+        "output": "amazing",
+        "t1": "astonishing",
+        "t2": "get"
+    },
+    {
+        "input": "permissible, disclaim, revoke",
+        "output": "allowable",
+        "t1": "permissible",
+        "t2": "allowable"
+    },
+    {
+        "input": "worried, hinder, slay",
+        "output": "anxious",
+        "t1": "worried",
+        "t2": "anxious"
+    },
+    {
+        "input": "hazardous, grab, flash",
+        "output": "dangerous",
+        "t1": "hazardous",
+        "t2": "dangerous"
+    },
+    {
+        "input": "overwhelm, seem, patriotic",
+        "output": "nationalistic",
+        "t1": "patriotic",
+        "t2": "overpower"
+    },
+    {
+        "input": "disclaim, adhesive, perform",
+        "output": "sticky",
+        "t1": "adhesive",
+        "t2": "deny"
+    },
+    {
+        "input": "early, stump, deem",
+        "output": "premature",
+        "t1": "early",
+        "t2": "premature"
+    },
+    {
+        "input": "liable, salvage, depart",
+        "output": "responsible",
+        "t1": "liable",
+        "t2": "responsible"
+    },
+    {
+        "input": "repair, react, depressing",
+        "output": "gloomy",
+        "t1": "depressing",
+        "t2": "fix"
+    },
+    {
+        "input": "ample, combine, advise",
+        "output": "plentiful",
+        "t1": "ample",
+        "t2": "plentiful"
+    },
+    {
+        "input": "ready, provoke, recount",
+        "output": "prepared",
+        "t1": "ready",
+        "t2": "prepared"
+    },
+    {
+        "input": "salvage, deform, other",
+        "output": "alternative",
+        "t1": "other",
+        "t2": "recover"
+    },
+    {
+        "input": "lucrative, develop, defy",
+        "output": "profitable",
+        "t1": "lucrative",
+        "t2": "profitable"
+    },
+    {
+        "input": "creep, foundational, practise",
+        "output": "basic",
+        "t1": "foundational",
+        "t2": "sneak"
+    },
+    {
+        "input": "simple, soak, strengthen",
+        "output": "basic",
+        "t1": "simple",
+        "t2": "basic"
+    },
+    {
+        "input": "delightful, preserve, embrace",
+        "output": "pleasing",
+        "t1": "delightful",
+        "t2": "pleasing"
+    },
+    {
+        "input": "understand, more, hinder",
+        "output": "additional",
+        "t1": "more",
+        "t2": "comprehend"
+    },
+    {
+        "input": "omit, southern, convey",
+        "output": "northern",
+        "t1": "southern",
+        "t2": "exclude"
+    },
+    {
+        "input": "know, preserve, weird",
+        "output": "strange",
+        "t1": "weird",
+        "t2": "understand"
+    },
+    {
+        "input": "combine, trustworthy, breathe",
+        "output": "reliable",
+        "t1": "trustworthy",
+        "t2": "merge"
+    },
+    {
+        "input": "costly, accomplish, overwhelm",
+        "output": "expensive",
+        "t1": "costly",
+        "t2": "expensive"
+    },
+    {
+        "input": "shiny, consume, depend",
+        "output": "glossy",
+        "t1": "shiny",
+        "t2": "glossy"
+    },
+    {
+        "input": "measure, overt, disclaim",
+        "output": "explicit",
+        "t1": "overt",
+        "t2": "gauge"
+    },
+    {
+        "input": "educate, breathe, eager",
+        "output": "enthusiastic",
+        "t1": "eager",
+        "t2": "teach"
+    },
+    {
+        "input": "diminished, herald, originate",
+        "output": "reduced",
+        "t1": "diminished",
+        "t2": "reduced"
+    },
+    {
+        "input": "establish, uncomfortable, advise",
+        "output": "unpleasant",
+        "t1": "uncomfortable",
+        "t2": "found"
+    },
+    {
+        "input": "impressive, steal, overwhelm",
+        "output": "remarkable",
+        "t1": "impressive",
+        "t2": "remarkable"
+    },
+    {
+        "input": "revoke, special, extend",
+        "output": "unique",
+        "t1": "special",
+        "t2": "withdraw"
+    },
+    {
+        "input": "maintain, genuine, usher",
+        "output": "authentic",
+        "t1": "genuine",
+        "t2": "sustain"
+    },
+    {
+        "input": "slay, commonplace, overcome",
+        "output": "ordinary",
+        "t1": "commonplace",
+        "t2": "kill"
+    },
+    {
+        "input": "remember, circulate, terrific",
+        "output": "fantastic",
+        "t1": "terrific",
+        "t2": "recall"
+    },
+    {
+        "input": "factual, steal, dispatch",
+        "output": "accurate",
+        "t1": "factual",
+        "t2": "accurate"
+    },
+    {
+        "input": "animated, die, succeed",
+        "output": "lively",
+        "t1": "animated",
+        "t2": "lively"
+    },
+    {
+        "input": "distribute, substantial, react",
+        "output": "significant",
+        "t1": "substantial",
+        "t2": "disperse"
+    },
+    {
+        "input": "weigh, act, magical",
+        "output": "enchanting",
+        "t1": "magical",
+        "t2": "measure"
+    },
+    {
+        "input": "soak, consume, dorsal",
+        "output": "ventral",
+        "t1": "dorsal",
+        "t2": "drench"
+    },
+    {
+        "input": "tell, burn, satisfied",
+        "output": "contented",
+        "t1": "satisfied",
+        "t2": "inform"
+    },
+    {
+        "input": "handsome, garner, evade",
+        "output": "attractive",
+        "t1": "handsome",
+        "t2": "attractive"
+    },
+    {
+        "input": "differentiate, destruct, exposed",
+        "output": "uncovered",
+        "t1": "exposed",
+        "t2": "distinguish"
+    },
+    {
+        "input": "recognize, packed, warp",
+        "output": "full",
+        "t1": "packed",
+        "t2": "identify"
+    },
+    {
+        "input": "capture, achieve, bold",
+        "output": "daring",
+        "t1": "bold",
+        "t2": "seize"
+    },
+    {
+        "input": "fruitful, adjust, breathe",
+        "output": "productive",
+        "t1": "fruitful",
+        "t2": "productive"
+    },
+    {
+        "input": "prepared, defend, rate",
+        "output": "ready",
+        "t1": "prepared",
+        "t2": "ready"
+    },
+    {
+        "input": "contend, everlasting, prescribe",
+        "output": "eternal",
+        "t1": "everlasting",
+        "t2": "compete"
+    },
+    {
+        "input": "overweight, classify, consume",
+        "output": "obese",
+        "t1": "overweight",
+        "t2": "obese"
+    },
+    {
+        "input": "routine, interpret, classify",
+        "output": "habitual",
+        "t1": "routine",
+        "t2": "habitual"
+    },
+    {
+        "input": "certain, detect, flick",
+        "output": "sure",
+        "t1": "certain",
+        "t2": "sure"
+    },
+    {
+        "input": "defend, oppress, unfinished",
+        "output": "incomplete",
+        "t1": "unfinished",
+        "t2": "protect"
+    },
+    {
+        "input": "confirm, unusual, find",
+        "output": "extraordinary",
+        "t1": "unusual",
+        "t2": "verify"
+    },
+    {
+        "input": "smoke, bring, useful",
+        "output": "beneficial",
+        "t1": "useful",
+        "t2": "fume"
+    },
+    {
+        "input": "consume, feed, primitive",
+        "output": "rudimentary",
+        "t1": "primitive",
+        "t2": "eat"
+    },
+    {
+        "input": "flourish, modify, classical",
+        "output": "traditional",
+        "t1": "classical",
+        "t2": "thrive"
+    },
+    {
+        "input": "thank, fix, financial",
+        "output": "monetary",
+        "t1": "financial",
+        "t2": "appreciate"
+    },
+    {
+        "input": "consume, devoid, diminish",
+        "output": "lacking",
+        "t1": "devoid",
+        "t2": "eat"
+    },
+    {
+        "input": "compress, have, vivid",
+        "output": "bright",
+        "t1": "vivid",
+        "t2": "condense"
+    },
+    {
+        "input": "massacre, shady, suggest",
+        "output": "suspicious",
+        "t1": "shady",
+        "t2": "slaughter"
+    },
+    {
+        "input": "classify, delighted, succeed",
+        "output": "pleased",
+        "t1": "delighted",
+        "t2": "categorize"
+    },
+    {
+        "input": "flick, decide, stout",
+        "output": "robust",
+        "t1": "stout",
+        "t2": "snap"
+    },
+    {
+        "input": "cruel, smoke, continue",
+        "output": "brutal",
+        "t1": "cruel",
+        "t2": "brutal"
+    },
+    {
+        "input": "inert, breathe, encounter",
+        "output": "inactive",
+        "t1": "inert",
+        "t2": "inactive"
+    },
+    {
+        "input": "induce, precise, imagine",
+        "output": "accurate",
+        "t1": "precise",
+        "t2": "provoke"
+    },
+    {
+        "input": "glossy, concoct, conquer",
+        "output": "shiny",
+        "t1": "glossy",
+        "t2": "shiny"
+    },
+    {
+        "input": "extend, intimidate, odd",
+        "output": "strange",
+        "t1": "odd",
+        "t2": "lengthen"
+    },
+    {
+        "input": "prove, affluent, name",
+        "output": "wealthy",
+        "t1": "affluent",
+        "t2": "demonstrate"
+    },
+    {
+        "input": "flick, diverse, consist",
+        "output": "varied",
+        "t1": "diverse",
+        "t2": "snap"
+    },
+    {
+        "input": "skeptical, get, evade",
+        "output": "doubtful",
+        "t1": "skeptical",
+        "t2": "doubtful"
+    },
+    {
+        "input": "rare, transport, infer",
+        "output": "uncommon",
+        "t1": "rare",
+        "t2": "uncommon"
+    },
+    {
+        "input": "smash, potent, arrest",
+        "output": "powerful",
+        "t1": "potent",
+        "t2": "crush"
+    },
+    {
+        "input": "obscene, drown, accomplish",
+        "output": "vulgar",
+        "t1": "obscene",
+        "t2": "vulgar"
+    },
+    {
+        "input": "hinder, curtail, anxious",
+        "output": "worried",
+        "t1": "anxious",
+        "t2": "obstruct"
+    },
+    {
+        "input": "establish, unlucky, protect",
+        "output": "unfortunate",
+        "t1": "unlucky",
+        "t2": "found"
+    },
+    {
+        "input": "prove, say, unsafe",
+        "output": "dangerous",
+        "t1": "unsafe",
+        "t2": "demonstrate"
+    },
+    {
+        "input": "suppress, train, seasonal",
+        "output": "periodic",
+        "t1": "seasonal",
+        "t2": "repress"
+    },
+    {
+        "input": "suppress, protect, dishonest",
+        "output": "untruthful",
+        "t1": "dishonest",
+        "t2": "repress"
+    },
+    {
+        "input": "engage, damp, grow",
+        "output": "moist",
+        "t1": "damp",
+        "t2": "involve"
+    },
+    {
+        "input": "write, die, unlawful",
+        "output": "illegal",
+        "t1": "unlawful",
+        "t2": "compose"
+    },
+    {
+        "input": "detect, consist, possible",
+        "output": "feasible",
+        "t1": "possible",
+        "t2": "identify"
+    },
+    {
+        "input": "arise, bury, stripped",
+        "output": "bare",
+        "t1": "stripped",
+        "t2": "emerge"
+    },
+    {
+        "input": "golden, differentiate, apprehend",
+        "output": "gilded",
+        "t1": "golden",
+        "t2": "gilded"
+    },
+    {
+        "input": "rescind, full, encounter",
+        "output": "packed",
+        "t1": "full",
+        "t2": "revoke"
+    },
+    {
+        "input": "condemn, scar, authoritative",
+        "output": "commanding",
+        "t1": "authoritative",
+        "t2": "denounce"
+    },
+    {
+        "input": "wake, scar, strict",
+        "output": "rigid",
+        "t1": "strict",
+        "t2": "arise"
+    },
+    {
+        "input": "adjust, smoke, hilarious",
+        "output": "funny",
+        "t1": "hilarious",
+        "t2": "modify"
+    },
+    {
+        "input": "fix, listen, productive",
+        "output": "efficient",
+        "t1": "productive",
+        "t2": "repair"
+    },
+    {
+        "input": "render, notable, seem",
+        "output": "prominent",
+        "t1": "notable",
+        "t2": "provide"
+    },
+    {
+        "input": "dodge, purple, incur",
+        "output": "violet",
+        "t1": "purple",
+        "t2": "evade"
+    },
+    {
+        "input": "sustain, merge, threatening",
+        "output": "menacing",
+        "t1": "threatening",
+        "t2": "maintain"
+    },
+    {
+        "input": "relate, efficient, partake",
+        "output": "productive",
+        "t1": "efficient",
+        "t2": "connect"
+    },
+    {
+        "input": "meet, capable, appoint",
+        "output": "able",
+        "t1": "capable",
+        "t2": "encounter"
+    },
+    {
+        "input": "grotesque, captain, disclaim",
+        "output": "hideous",
+        "t1": "grotesque",
+        "t2": "hideous"
+    },
+    {
+        "input": "qualified, inspire, motivate",
+        "output": "competent",
+        "t1": "qualified",
+        "t2": "competent"
+    },
+    {
+        "input": "deserving, entertain, converge",
+        "output": "worthy",
+        "t1": "deserving",
+        "t2": "worthy"
+    },
+    {
+        "input": "turbulent, inspire, engage",
+        "output": "stormy",
+        "t1": "turbulent",
+        "t2": "stormy"
+    },
+    {
+        "input": "expand, misrepresent, consecutive",
+        "output": "sequential",
+        "t1": "consecutive",
+        "t2": "enlarge"
+    },
+    {
+        "input": "prove, possess, erroneous",
+        "output": "incorrect",
+        "t1": "erroneous",
+        "t2": "demonstrate"
+    },
+    {
+        "input": "obtain, attain, happy",
+        "output": "cheerful",
+        "t1": "happy",
+        "t2": "acquire"
+    },
+    {
+        "input": "intelligent, breathe, inspire",
+        "output": "smart",
+        "t1": "intelligent",
+        "t2": "smart"
+    },
+    {
+        "input": "arise, horrific, seem",
+        "output": "terrifying",
+        "t1": "horrific",
+        "t2": "emerge"
+    },
+    {
+        "input": "rescind, bloody, lend",
+        "output": "gory",
+        "t1": "bloody",
+        "t2": "revoke"
+    },
+    {
+        "input": "originate, say, polite",
+        "output": "courteous",
+        "t1": "polite",
+        "t2": "begin"
+    },
+    {
+        "input": "reclaim, uncertain, grow",
+        "output": "doubtful",
+        "t1": "uncertain",
+        "t2": "recover"
+    },
+    {
+        "input": "emphasize, exclude, disastrous",
+        "output": "catastrophic",
+        "t1": "disastrous",
+        "t2": "highlight"
+    },
+    {
+        "input": "preserve, acceptable, rescind",
+        "output": "agreeable",
+        "t1": "acceptable",
+        "t2": "maintain"
+    },
+    {
+        "input": "breathe, grab, mere",
+        "output": "simple",
+        "t1": "mere",
+        "t2": "inhale"
+    },
+    {
+        "input": "jam, additional, guess",
+        "output": "extra",
+        "t1": "additional",
+        "t2": "preserve"
+    },
+    {
+        "input": "arrogant, condemn, restrain",
+        "output": "haughty",
+        "t1": "arrogant",
+        "t2": "haughty"
+    },
+    {
+        "input": "cope, develop, gritty",
+        "output": "tenacious",
+        "t1": "gritty",
+        "t2": "manage"
+    },
+    {
+        "input": "unfair, arrest, overwhelm",
+        "output": "unjust",
+        "t1": "unfair",
+        "t2": "unjust"
+    },
+    {
+        "input": "overwhelm, eligible, act",
+        "output": "qualified",
+        "t1": "eligible",
+        "t2": "overpower"
+    },
+    {
+        "input": "wide, deform, delete",
+        "output": "broad",
+        "t1": "wide",
+        "t2": "broad"
+    },
+    {
+        "input": "agile, steal, recover",
+        "output": "nimble",
+        "t1": "agile",
+        "t2": "nimble"
+    },
+    {
+        "input": "diminish, incomplete, endure",
+        "output": "unfinished",
+        "t1": "incomplete",
+        "t2": "reduce"
+    },
+    {
+        "input": "numerous, fix, die",
+        "output": "many",
+        "t1": "numerous",
+        "t2": "many"
+    },
+    {
+        "input": "inflict, warp, monetary",
+        "output": "financial",
+        "t1": "monetary",
+        "t2": "impose"
+    },
+    {
+        "input": "painstaking, arise, sting",
+        "output": "arduous",
+        "t1": "painstaking",
+        "t2": "arduous"
+    },
+    {
+        "input": "improve, hinder, tough",
+        "output": "challenging",
+        "t1": "tough",
+        "t2": "enhance"
+    },
+    {
+        "input": "powerless, bring, undermine",
+        "output": "weak",
+        "t1": "powerless",
+        "t2": "weak"
+    },
+    {
+        "input": "provoke, accountable, regain",
+        "output": "responsible",
+        "t1": "accountable",
+        "t2": "instigate"
+    },
+    {
+        "input": "redeem, smoke, periodic",
+        "output": "intermittent",
+        "t1": "periodic",
+        "t2": "salvage"
+    },
+    {
+        "input": "sustain, inept, uphold",
+        "output": "incompetent",
+        "t1": "inept",
+        "t2": "maintain"
+    },
+    {
+        "input": "dismal, oppress, captain",
+        "output": "gloomy",
+        "t1": "dismal",
+        "t2": "gloomy"
+    },
+    {
+        "input": "ascertain, inflict, widespread",
+        "output": "prevalent",
+        "t1": "widespread",
+        "t2": "determine"
+    },
+    {
+        "input": "grim, thank, tolerate",
+        "output": "dismal",
+        "t1": "grim",
+        "t2": "dismal"
+    },
+    {
+        "input": "seminal, know, suppose",
+        "output": "foundational",
+        "t1": "seminal",
+        "t2": "foundational"
+    },
+    {
+        "input": "remember, advantageous, sting",
+        "output": "beneficial",
+        "t1": "advantageous",
+        "t2": "recall"
+    },
+    {
+        "input": "combine, favorable, sit",
+        "output": "advantageous",
+        "t1": "favorable",
+        "t2": "merge"
+    },
+    {
+        "input": "flash, angry, impart",
+        "output": "furious",
+        "t1": "angry",
+        "t2": "blink"
+    },
+    {
+        "input": "train, engage, feeble",
+        "output": "weak",
+        "t1": "feeble",
+        "t2": "educate"
+    },
+    {
+        "input": "analogous, strengthen, provoke",
+        "output": "similar",
+        "t1": "analogous",
+        "t2": "similar"
+    },
+    {
+        "input": "consume, spectacular, overcome",
+        "output": "impressive",
+        "t1": "spectacular",
+        "t2": "eat"
+    },
+    {
+        "input": "depart, simulate, truthful",
+        "output": "honest",
+        "t1": "truthful",
+        "t2": "leave"
+    },
+    {
+        "input": "vicious, accomplish, adjust",
+        "output": "cruel",
+        "t1": "vicious",
+        "t2": "cruel"
+    },
+    {
+        "input": "compress, glean, remote",
+        "output": "distant",
+        "t1": "remote",
+        "t2": "condense"
+    },
+    {
+        "input": "overlook, pinch, indecent",
+        "output": "improper",
+        "t1": "indecent",
+        "t2": "ignore"
+    },
+    {
+        "input": "detect, require, succinct",
+        "output": "concise",
+        "t1": "succinct",
+        "t2": "identify"
+    },
+    {
+        "input": "hug, consume, witty",
+        "output": "clever",
+        "t1": "witty",
+        "t2": "embrace"
+    },
+    {
+        "input": "bury, assorted, sit",
+        "output": "varied",
+        "t1": "assorted",
+        "t2": "inter"
+    },
+    {
+        "input": "surprise, raw, soak",
+        "output": "uncooked",
+        "t1": "raw",
+        "t2": "astonish"
+    },
+    {
+        "input": "deem, overpower, satisfactory",
+        "output": "acceptable",
+        "t1": "satisfactory",
+        "t2": "consider"
+    },
+    {
+        "input": "furious, expire, inform",
+        "output": "angry",
+        "t1": "furious",
+        "t2": "angry"
+    },
+    {
+        "input": "deem, keen, assess",
+        "output": "eager",
+        "t1": "keen",
+        "t2": "consider"
+    },
+    {
+        "input": "poisonous, differentiate, usher",
+        "output": "toxic",
+        "t1": "poisonous",
+        "t2": "toxic"
+    },
+    {
+        "input": "secretive, delete, prosper",
+        "output": "mysterious",
+        "t1": "secretive",
+        "t2": "mysterious"
+    },
+    {
+        "input": "reach, hearty, understand",
+        "output": "robust",
+        "t1": "hearty",
+        "t2": "attain"
+    },
+    {
+        "input": "tempt, minded, litter",
+        "output": "thoughtful",
+        "t1": "minded",
+        "t2": "entice"
+    },
+    {
+        "input": "stumble, wary, usher",
+        "output": "cautious",
+        "t1": "wary",
+        "t2": "trip"
+    },
+    {
+        "input": "stark, grab, succeed",
+        "output": "bare",
+        "t1": "stark",
+        "t2": "bare"
+    },
+    {
+        "input": "prohibit, mild, tell",
+        "output": "gentle",
+        "t1": "mild",
+        "t2": "forbid"
+    },
+    {
+        "input": "have, spacious, know",
+        "output": "roomy",
+        "t1": "spacious",
+        "t2": "possess"
+    },
+    {
+        "input": "continue, plead, teen",
+        "output": "adolescent",
+        "t1": "teen",
+        "t2": "proceed"
+    },
+    {
+        "input": "acquire, seem, offensive",
+        "output": "insulting",
+        "t1": "offensive",
+        "t2": "obtain"
+    },
+    {
+        "input": "splendid, meet, flower",
+        "output": "magnificent",
+        "t1": "splendid",
+        "t2": "magnificent"
+    },
+    {
+        "input": "flower, emphasize, terrifying",
+        "output": "frightening",
+        "t1": "terrifying",
+        "t2": "blossom"
+    },
+    {
+        "input": "get, achieve, frivolous",
+        "output": "trivial",
+        "t1": "frivolous",
+        "t2": "obtain"
+    },
+    {
+        "input": "unjust, impart, say",
+        "output": "unfair",
+        "t1": "unjust",
+        "t2": "unfair"
+    },
+    {
+        "input": "litter, concise, grow",
+        "output": "succinct",
+        "t1": "concise",
+        "t2": "trash"
+    },
+    {
+        "input": "say, adapt, pragmatic",
+        "output": "practical",
+        "t1": "pragmatic",
+        "t2": "speak"
+    },
+    {
+        "input": "betray, northern, constitute",
+        "output": "southern",
+        "t1": "northern",
+        "t2": "deceive"
+    },
+    {
+        "input": "obedient, suppress, conceive",
+        "output": "compliant",
+        "t1": "obedient",
+        "t2": "compliant"
+    },
+    {
+        "input": "save, listen, susceptible",
+        "output": "vulnerable",
+        "t1": "susceptible",
+        "t2": "preserve"
+    },
+    {
+        "input": "quaint, spend, tear",
+        "output": "charming",
+        "t1": "quaint",
+        "t2": "charming"
+    },
+    {
+        "input": "obtain, characterize, influential",
+        "output": "powerful",
+        "t1": "influential",
+        "t2": "acquire"
+    },
+    {
+        "input": "advise, tired, bring",
+        "output": "exhausted",
+        "t1": "tired",
+        "t2": "recommend"
+    },
+    {
+        "input": "thorough, defend, overpower",
+        "output": "comprehensive",
+        "t1": "thorough",
+        "t2": "comprehensive"
+    },
+    {
+        "input": "grave, entertain, grab",
+        "output": "serious",
+        "t1": "grave",
+        "t2": "serious"
+    },
+    {
+        "input": "hide, burn, solitary",
+        "output": "lonely",
+        "t1": "solitary",
+        "t2": "conceal"
+    },
+    {
+        "input": "embrace, burn, unable",
+        "output": "incapable",
+        "t1": "unable",
+        "t2": "hug"
+    },
+    {
+        "input": "mystical, integrate, appoint",
+        "output": "magical",
+        "t1": "mystical",
+        "t2": "magical"
+    },
+    {
+        "input": "slay, painful, portray",
+        "output": "hurtful",
+        "t1": "painful",
+        "t2": "kill"
+    },
+    {
+        "input": "accomplish, surprising, flick",
+        "output": "astonishing",
+        "t1": "surprising",
+        "t2": "achieve"
+    },
+    {
+        "input": "usable, motivate, speak",
+        "output": "functional",
+        "t1": "usable",
+        "t2": "functional"
+    },
+    {
+        "input": "inspire, casual, override",
+        "output": "informal",
+        "t1": "casual",
+        "t2": "motivate"
+    },
+    {
+        "input": "drown, deem, sure",
+        "output": "certain",
+        "t1": "sure",
+        "t2": "submerge"
+    },
+    {
+        "input": "expire, resilient, deem",
+        "output": "tenacious",
+        "t1": "resilient",
+        "t2": "perish"
+    }
+]

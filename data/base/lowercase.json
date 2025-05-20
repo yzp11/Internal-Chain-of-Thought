@@ -1,0 +1,3254 @@
+[
+    {
+        "input": "Without",
+        "output": "without"
+    },
+    {
+        "input": "Emu",
+        "output": "emu"
+    },
+    {
+        "input": "Solve",
+        "output": "solve"
+    },
+    {
+        "input": "Fossa",
+        "output": "fossa"
+    },
+    {
+        "input": "Window",
+        "output": "window"
+    },
+    {
+        "input": "Jackfruit",
+        "output": "jackfruit"
+    },
+    {
+        "input": "Fresh",
+        "output": "fresh"
+    },
+    {
+        "input": "Keep",
+        "output": "keep"
+    },
+    {
+        "input": "Microphone",
+        "output": "microphone"
+    },
+    {
+        "input": "Justify",
+        "output": "justify"
+    },
+    {
+        "input": "Avocado",
+        "output": "avocado"
+    },
+    {
+        "input": "Nourish",
+        "output": "nourish"
+    },
+    {
+        "input": "Turkey",
+        "output": "turkey"
+    },
+    {
+        "input": "Kiss",
+        "output": "kiss"
+    },
+    {
+        "input": "Quokka",
+        "output": "quokka"
+    },
+    {
+        "input": "Regarding",
+        "output": "regarding"
+    },
+    {
+        "input": "Lift",
+        "output": "lift"
+    },
+    {
+        "input": "Mirror",
+        "output": "mirror"
+    },
+    {
+        "input": "Itself",
+        "output": "itself"
+    },
+    {
+        "input": "Tranquil",
+        "output": "tranquil"
+    },
+    {
+        "input": "Gentle",
+        "output": "gentle"
+    },
+    {
+        "input": "Lemur",
+        "output": "lemur"
+    },
+    {
+        "input": "Focus",
+        "output": "focus"
+    },
+    {
+        "input": "Whom",
+        "output": "whom"
+    },
+    {
+        "input": "Blue",
+        "output": "blue"
+    },
+    {
+        "input": "Exquisite",
+        "output": "exquisite"
+    },
+    {
+        "input": "Coyote",
+        "output": "coyote"
+    },
+    {
+        "input": "Towel",
+        "output": "towel"
+    },
+    {
+        "input": "Quick-Witted",
+        "output": "quick-witted"
+    },
+    {
+        "input": "Slow",
+        "output": "slow"
+    },
+    {
+        "input": "Notice",
+        "output": "notice"
+    },
+    {
+        "input": "Butterfly",
+        "output": "butterfly"
+    },
+    {
+        "input": "Leopard",
+        "output": "leopard"
+    },
+    {
+        "input": "Compete",
+        "output": "compete"
+    },
+    {
+        "input": "Build",
+        "output": "build"
+    },
+    {
+        "input": "Operate",
+        "output": "operate"
+    },
+    {
+        "input": "Deliver",
+        "output": "deliver"
+    },
+    {
+        "input": "Hear",
+        "output": "hear"
+    },
+    {
+        "input": "Quiet",
+        "output": "quiet"
+    },
+    {
+        "input": "Fork",
+        "output": "fork"
+    },
+    {
+        "input": "Hamster",
+        "output": "hamster"
+    },
+    {
+        "input": "Hate",
+        "output": "hate"
+    },
+    {
+        "input": "Cold",
+        "output": "cold"
+    },
+    {
+        "input": "Fight",
+        "output": "fight"
+    },
+    {
+        "input": "Forgive",
+        "output": "forgive"
+    },
+    {
+        "input": "Fishing Pole",
+        "output": "fishing pole"
+    },
+    {
+        "input": "Jump",
+        "output": "jump"
+    },
+    {
+        "input": "Manipulate",
+        "output": "manipulate"
+    },
+    {
+        "input": "Diligent",
+        "output": "diligent"
+    },
+    {
+        "input": "Ukulele",
+        "output": "ukulele"
+    },
+    {
+        "input": "Quick",
+        "output": "quick"
+    },
+    {
+        "input": "Coral",
+        "output": "coral"
+    },
+    {
+        "input": "Us",
+        "output": "us"
+    },
+    {
+        "input": "House",
+        "output": "house"
+    },
+    {
+        "input": "Select",
+        "output": "select"
+    },
+    {
+        "input": "Grape",
+        "output": "grape"
+    },
+    {
+        "input": "Indigo",
+        "output": "indigo"
+    },
+    {
+        "input": "Glass",
+        "output": "glass"
+    },
+    {
+        "input": "Complete",
+        "output": "complete"
+    },
+    {
+        "input": "Transform",
+        "output": "transform"
+    },
+    {
+        "input": "Dress",
+        "output": "dress"
+    },
+    {
+        "input": "Oven",
+        "output": "oven"
+    },
+    {
+        "input": "Serious",
+        "output": "serious"
+    },
+    {
+        "input": "Gazelle",
+        "output": "gazelle"
+    },
+    {
+        "input": "Kill",
+        "output": "kill"
+    },
+    {
+        "input": "Dumbbell",
+        "output": "dumbbell"
+    },
+    {
+        "input": "Jovial",
+        "output": "jovial"
+    },
+    {
+        "input": "Squirrel",
+        "output": "squirrel"
+    },
+    {
+        "input": "Barracuda",
+        "output": "barracuda"
+    },
+    {
+        "input": "Book",
+        "output": "book"
+    },
+    {
+        "input": "Resilient",
+        "output": "resilient"
+    },
+    {
+        "input": "Her",
+        "output": "her"
+    },
+    {
+        "input": "Yacht",
+        "output": "yacht"
+    },
+    {
+        "input": "Wallet",
+        "output": "wallet"
+    },
+    {
+        "input": "Whimsical",
+        "output": "whimsical"
+    },
+    {
+        "input": "Throughout",
+        "output": "throughout"
+    },
+    {
+        "input": "Koala",
+        "output": "koala"
+    },
+    {
+        "input": "Play",
+        "output": "play"
+    },
+    {
+        "input": "Candy",
+        "output": "candy"
+    },
+    {
+        "input": "Shoe",
+        "output": "shoe"
+    },
+    {
+        "input": "Faithful",
+        "output": "faithful"
+    },
+    {
+        "input": "Bad",
+        "output": "bad"
+    },
+    {
+        "input": "Verify",
+        "output": "verify"
+    },
+    {
+        "input": "Minimize",
+        "output": "minimize"
+    },
+    {
+        "input": "Optimistic",
+        "output": "optimistic"
+    },
+    {
+        "input": "Guava",
+        "output": "guava"
+    },
+    {
+        "input": "Innocent",
+        "output": "innocent"
+    },
+    {
+        "input": "Upon",
+        "output": "upon"
+    },
+    {
+        "input": "Beneath",
+        "output": "beneath"
+    },
+    {
+        "input": "Horse",
+        "output": "horse"
+    },
+    {
+        "input": "Myself",
+        "output": "myself"
+    },
+    {
+        "input": "Mantis",
+        "output": "mantis"
+    },
+    {
+        "input": "Spoon",
+        "output": "spoon"
+    },
+    {
+        "input": "Crow",
+        "output": "crow"
+    },
+    {
+        "input": "Painting",
+        "output": "painting"
+    },
+    {
+        "input": "Shark",
+        "output": "shark"
+    },
+    {
+        "input": "Beef",
+        "output": "beef"
+    },
+    {
+        "input": "Silver",
+        "output": "silver"
+    },
+    {
+        "input": "Agreeable",
+        "output": "agreeable"
+    },
+    {
+        "input": "Qualify",
+        "output": "qualify"
+    },
+    {
+        "input": "Yarn",
+        "output": "yarn"
+    },
+    {
+        "input": "Laugh",
+        "output": "laugh"
+    },
+    {
+        "input": "Zucchini",
+        "output": "zucchini"
+    },
+    {
+        "input": "Release",
+        "output": "release"
+    },
+    {
+        "input": "Zany",
+        "output": "zany"
+    },
+    {
+        "input": "Train",
+        "output": "train"
+    },
+    {
+        "input": "Cactus",
+        "output": "cactus"
+    },
+    {
+        "input": "Quirky",
+        "output": "quirky"
+    },
+    {
+        "input": "Obtain",
+        "output": "obtain"
+    },
+    {
+        "input": "You",
+        "output": "you"
+    },
+    {
+        "input": "Radio",
+        "output": "radio"
+    },
+    {
+        "input": "Salty",
+        "output": "salty"
+    },
+    {
+        "input": "Onto",
+        "output": "onto"
+    },
+    {
+        "input": "Master",
+        "output": "master"
+    },
+    {
+        "input": "Yo-Yo",
+        "output": "yo-yo"
+    },
+    {
+        "input": "Pear",
+        "output": "pear"
+    },
+    {
+        "input": "Gather",
+        "output": "gather"
+    },
+    {
+        "input": "Jeans",
+        "output": "jeans"
+    },
+    {
+        "input": "Orangutan",
+        "output": "orangutan"
+    },
+    {
+        "input": "Enjoy",
+        "output": "enjoy"
+    },
+    {
+        "input": "Walrus",
+        "output": "walrus"
+    },
+    {
+        "input": "Feather",
+        "output": "feather"
+    },
+    {
+        "input": "Camel",
+        "output": "camel"
+    },
+    {
+        "input": "Kettle",
+        "output": "kettle"
+    },
+    {
+        "input": "Cry",
+        "output": "cry"
+    },
+    {
+        "input": "Gecko",
+        "output": "gecko"
+    },
+    {
+        "input": "Unique",
+        "output": "unique"
+    },
+    {
+        "input": "As",
+        "output": "as"
+    },
+    {
+        "input": "Naive",
+        "output": "naive"
+    },
+    {
+        "input": "Match",
+        "output": "match"
+    },
+    {
+        "input": "Natural",
+        "output": "natural"
+    },
+    {
+        "input": "Llama",
+        "output": "llama"
+    },
+    {
+        "input": "Grapefruit",
+        "output": "grapefruit"
+    },
+    {
+        "input": "Violet",
+        "output": "violet"
+    },
+    {
+        "input": "Mark",
+        "output": "mark"
+    },
+    {
+        "input": "Magpie",
+        "output": "magpie"
+    },
+    {
+        "input": "Target",
+        "output": "target"
+    },
+    {
+        "input": "Bicycle",
+        "output": "bicycle"
+    },
+    {
+        "input": "Courageous",
+        "output": "courageous"
+    },
+    {
+        "input": "Lovely",
+        "output": "lovely"
+    },
+    {
+        "input": "Idealistic",
+        "output": "idealistic"
+    },
+    {
+        "input": "Cat",
+        "output": "cat"
+    },
+    {
+        "input": "Peaceful",
+        "output": "peaceful"
+    },
+    {
+        "input": "Buffalo",
+        "output": "buffalo"
+    },
+    {
+        "input": "Cow",
+        "output": "cow"
+    },
+    {
+        "input": "Boar",
+        "output": "boar"
+    },
+    {
+        "input": "Fascinating",
+        "output": "fascinating"
+    },
+    {
+        "input": "Participate",
+        "output": "participate"
+    },
+    {
+        "input": "Witty",
+        "output": "witty"
+    },
+    {
+        "input": "Caterpillar",
+        "output": "caterpillar"
+    },
+    {
+        "input": "Clean",
+        "output": "clean"
+    },
+    {
+        "input": "Jar",
+        "output": "jar"
+    },
+    {
+        "input": "Crocodile",
+        "output": "crocodile"
+    },
+    {
+        "input": "Devoted",
+        "output": "devoted"
+    },
+    {
+        "input": "Jacket",
+        "output": "jacket"
+    },
+    {
+        "input": "Owl",
+        "output": "owl"
+    },
+    {
+        "input": "Cake",
+        "output": "cake"
+    },
+    {
+        "input": "Flower",
+        "output": "flower"
+    },
+    {
+        "input": "Hammer",
+        "output": "hammer"
+    },
+    {
+        "input": "These",
+        "output": "these"
+    },
+    {
+        "input": "Tiger",
+        "output": "tiger"
+    },
+    {
+        "input": "Juice",
+        "output": "juice"
+    },
+    {
+        "input": "Sincere",
+        "output": "sincere"
+    },
+    {
+        "input": "Bag",
+        "output": "bag"
+    },
+    {
+        "input": "Coconut",
+        "output": "coconut"
+    },
+    {
+        "input": "Expensive",
+        "output": "expensive"
+    },
+    {
+        "input": "We",
+        "output": "we"
+    },
+    {
+        "input": "After",
+        "output": "after"
+    },
+    {
+        "input": "Of",
+        "output": "of"
+    },
+    {
+        "input": "Cup",
+        "output": "cup"
+    },
+    {
+        "input": "Those",
+        "output": "those"
+    },
+    {
+        "input": "Near",
+        "output": "near"
+    },
+    {
+        "input": "Brown",
+        "output": "brown"
+    },
+    {
+        "input": "It",
+        "output": "it"
+    },
+    {
+        "input": "Divide",
+        "output": "divide"
+    },
+    {
+        "input": "Plant",
+        "output": "plant"
+    },
+    {
+        "input": "Noble",
+        "output": "noble"
+    },
+    {
+        "input": "Unselfish",
+        "output": "unselfish"
+    },
+    {
+        "input": "Big",
+        "output": "big"
+    },
+    {
+        "input": "Yak",
+        "output": "yak"
+    },
+    {
+        "input": "Cockroach",
+        "output": "cockroach"
+    },
+    {
+        "input": "Moth",
+        "output": "moth"
+    },
+    {
+        "input": "Gloves",
+        "output": "gloves"
+    },
+    {
+        "input": "Give",
+        "output": "give"
+    },
+    {
+        "input": "Visualize",
+        "output": "visualize"
+    },
+    {
+        "input": "Apple",
+        "output": "apple"
+    },
+    {
+        "input": "Around",
+        "output": "around"
+    },
+    {
+        "input": "Manatee",
+        "output": "manatee"
+    },
+    {
+        "input": "Chair",
+        "output": "chair"
+    },
+    {
+        "input": "Bitter",
+        "output": "bitter"
+    },
+    {
+        "input": "Handle",
+        "output": "handle"
+    },
+    {
+        "input": "Fearless",
+        "output": "fearless"
+    },
+    {
+        "input": "Snail",
+        "output": "snail"
+    },
+    {
+        "input": "Ant",
+        "output": "ant"
+    },
+    {
+        "input": "Serve",
+        "output": "serve"
+    },
+    {
+        "input": "Strong",
+        "output": "strong"
+    },
+    {
+        "input": "Sail",
+        "output": "sail"
+    },
+    {
+        "input": "Watermelon",
+        "output": "watermelon"
+    },
+    {
+        "input": "Use",
+        "output": "use"
+    },
+    {
+        "input": "Kumquat",
+        "output": "kumquat"
+    },
+    {
+        "input": "Kiwifruit",
+        "output": "kiwifruit"
+    },
+    {
+        "input": "Armadillo",
+        "output": "armadillo"
+    },
+    {
+        "input": "Dislike",
+        "output": "dislike"
+    },
+    {
+        "input": "Paint",
+        "output": "paint"
+    },
+    {
+        "input": "Exuberant",
+        "output": "exuberant"
+    },
+    {
+        "input": "Rifle",
+        "output": "rifle"
+    },
+    {
+        "input": "Yogurt",
+        "output": "yogurt"
+    },
+    {
+        "input": "Ferret",
+        "output": "ferret"
+    },
+    {
+        "input": "Car",
+        "output": "car"
+    },
+    {
+        "input": "Hungry",
+        "output": "hungry"
+    },
+    {
+        "input": "Grizzly",
+        "output": "grizzly"
+    },
+    {
+        "input": "Enthusiastic",
+        "output": "enthusiastic"
+    },
+    {
+        "input": "Peacock",
+        "output": "peacock"
+    },
+    {
+        "input": "Beaver",
+        "output": "beaver"
+    },
+    {
+        "input": "Him",
+        "output": "him"
+    },
+    {
+        "input": "Fountain",
+        "output": "fountain"
+    },
+    {
+        "input": "Zap",
+        "output": "zap"
+    },
+    {
+        "input": "For",
+        "output": "for"
+    },
+    {
+        "input": "Cheerful",
+        "output": "cheerful"
+    },
+    {
+        "input": "Define",
+        "output": "define"
+    },
+    {
+        "input": "Stupid",
+        "output": "stupid"
+    },
+    {
+        "input": "Lecture",
+        "output": "lecture"
+    },
+    {
+        "input": "Talented",
+        "output": "talented"
+    },
+    {
+        "input": "Yellow",
+        "output": "yellow"
+    },
+    {
+        "input": "Over",
+        "output": "over"
+    },
+    {
+        "input": "Knife",
+        "output": "knife"
+    },
+    {
+        "input": "Know",
+        "output": "know"
+    },
+    {
+        "input": "Worm",
+        "output": "worm"
+    },
+    {
+        "input": "Cookie",
+        "output": "cookie"
+    },
+    {
+        "input": "Quilt",
+        "output": "quilt"
+    },
+    {
+        "input": "Firefly",
+        "output": "firefly"
+    },
+    {
+        "input": "Lucky",
+        "output": "lucky"
+    },
+    {
+        "input": "Knit",
+        "output": "knit"
+    },
+    {
+        "input": "Keen",
+        "output": "keen"
+    },
+    {
+        "input": "Within",
+        "output": "within"
+    },
+    {
+        "input": "Cheetah",
+        "output": "cheetah"
+    },
+    {
+        "input": "With",
+        "output": "with"
+    },
+    {
+        "input": "Bat",
+        "output": "bat"
+    },
+    {
+        "input": "Launch",
+        "output": "launch"
+    },
+    {
+        "input": "Old",
+        "output": "old"
+    },
+    {
+        "input": "Gold",
+        "output": "gold"
+    },
+    {
+        "input": "She",
+        "output": "she"
+    },
+    {
+        "input": "Serene",
+        "output": "serene"
+    },
+    {
+        "input": "Himself",
+        "output": "himself"
+    },
+    {
+        "input": "Sculpture",
+        "output": "sculpture"
+    },
+    {
+        "input": "Playful",
+        "output": "playful"
+    },
+    {
+        "input": "Seal",
+        "output": "seal"
+    },
+    {
+        "input": "Penguin",
+        "output": "penguin"
+    },
+    {
+        "input": "Design",
+        "output": "design"
+    },
+    {
+        "input": "Query",
+        "output": "query"
+    },
+    {
+        "input": "Write",
+        "output": "write"
+    },
+    {
+        "input": "Luminous",
+        "output": "luminous"
+    },
+    {
+        "input": "Scorpion",
+        "output": "scorpion"
+    },
+    {
+        "input": "Marker",
+        "output": "marker"
+    },
+    {
+        "input": "Motorcycle",
+        "output": "motorcycle"
+    },
+    {
+        "input": "Practice",
+        "output": "practice"
+    },
+    {
+        "input": "Watch",
+        "output": "watch"
+    },
+    {
+        "input": "Amiable",
+        "output": "amiable"
+    },
+    {
+        "input": "Study",
+        "output": "study"
+    },
+    {
+        "input": "Plum",
+        "output": "plum"
+    },
+    {
+        "input": "Wolverine",
+        "output": "wolverine"
+    },
+    {
+        "input": "Dazzling",
+        "output": "dazzling"
+    },
+    {
+        "input": "Nectarine",
+        "output": "nectarine"
+    },
+    {
+        "input": "Passionfruit",
+        "output": "passionfruit"
+    },
+    {
+        "input": "Yearn",
+        "output": "yearn"
+    },
+    {
+        "input": "Bright",
+        "output": "bright"
+    },
+    {
+        "input": "Enchanting",
+        "output": "enchanting"
+    },
+    {
+        "input": "Measure",
+        "output": "measure"
+    },
+    {
+        "input": "Falcon",
+        "output": "falcon"
+    },
+    {
+        "input": "Amazing",
+        "output": "amazing"
+    },
+    {
+        "input": "Light",
+        "output": "light"
+    },
+    {
+        "input": "Ourselves",
+        "output": "ourselves"
+    },
+    {
+        "input": "Nurture",
+        "output": "nurture"
+    },
+    {
+        "input": "Salamander",
+        "output": "salamander"
+    },
+    {
+        "input": "Argue",
+        "output": "argue"
+    },
+    {
+        "input": "Basketball",
+        "output": "basketball"
+    },
+    {
+        "input": "Dragonfruit",
+        "output": "dragonfruit"
+    },
+    {
+        "input": "Vibrant",
+        "output": "vibrant"
+    },
+    {
+        "input": "Komodo",
+        "output": "komodo"
+    },
+    {
+        "input": "Persuade",
+        "output": "persuade"
+    },
+    {
+        "input": "Plantain",
+        "output": "plantain"
+    },
+    {
+        "input": "Eagle",
+        "output": "eagle"
+    },
+    {
+        "input": "Scissors",
+        "output": "scissors"
+    },
+    {
+        "input": "Destroy",
+        "output": "destroy"
+    },
+    {
+        "input": "Clementine",
+        "output": "clementine"
+    },
+    {
+        "input": "Sensitive",
+        "output": "sensitive"
+    },
+    {
+        "input": "Anteater",
+        "output": "anteater"
+    },
+    {
+        "input": "Blithe",
+        "output": "blithe"
+    },
+    {
+        "input": "Baboon",
+        "output": "baboon"
+    },
+    {
+        "input": "Pomegranate",
+        "output": "pomegranate"
+    },
+    {
+        "input": "View",
+        "output": "view"
+    },
+    {
+        "input": "Travel",
+        "output": "travel"
+    },
+    {
+        "input": "Boat",
+        "output": "boat"
+    },
+    {
+        "input": "Generous",
+        "output": "generous"
+    },
+    {
+        "input": "Through",
+        "output": "through"
+    },
+    {
+        "input": "Inside",
+        "output": "inside"
+    },
+    {
+        "input": "Gracious",
+        "output": "gracious"
+    },
+    {
+        "input": "Negotiate",
+        "output": "negotiate"
+    },
+    {
+        "input": "Lantern",
+        "output": "lantern"
+    },
+    {
+        "input": "Outside",
+        "output": "outside"
+    },
+    {
+        "input": "Rake",
+        "output": "rake"
+    },
+    {
+        "input": "Tenacious",
+        "output": "tenacious"
+    },
+    {
+        "input": "Whose",
+        "output": "whose"
+    },
+    {
+        "input": "Adorable",
+        "output": "adorable"
+    },
+    {
+        "input": "Kind-Hearted",
+        "output": "kind-hearted"
+    },
+    {
+        "input": "Picture",
+        "output": "picture"
+    },
+    {
+        "input": "Smart",
+        "output": "smart"
+    },
+    {
+        "input": "Calculate",
+        "output": "calculate"
+    },
+    {
+        "input": "Zesty",
+        "output": "zesty"
+    },
+    {
+        "input": "Alarm",
+        "output": "alarm"
+    },
+    {
+        "input": "Wolf",
+        "output": "wolf"
+    },
+    {
+        "input": "Exchange",
+        "output": "exchange"
+    },
+    {
+        "input": "Potato",
+        "output": "potato"
+    },
+    {
+        "input": "Pensive",
+        "output": "pensive"
+    },
+    {
+        "input": "Upbeat",
+        "output": "upbeat"
+    },
+    {
+        "input": "Yield",
+        "output": "yield"
+    },
+    {
+        "input": "Octopus",
+        "output": "octopus"
+    },
+    {
+        "input": "Dance",
+        "output": "dance"
+    },
+    {
+        "input": "Sweet",
+        "output": "sweet"
+    },
+    {
+        "input": "Goose",
+        "output": "goose"
+    },
+    {
+        "input": "Observant",
+        "output": "observant"
+    },
+    {
+        "input": "Humble",
+        "output": "humble"
+    },
+    {
+        "input": "Goat",
+        "output": "goat"
+    },
+    {
+        "input": "Beside",
+        "output": "beside"
+    },
+    {
+        "input": "Capybara",
+        "output": "capybara"
+    },
+    {
+        "input": "Seahorse",
+        "output": "seahorse"
+    },
+    {
+        "input": "Net",
+        "output": "net"
+    },
+    {
+        "input": "Visit",
+        "output": "visit"
+    },
+    {
+        "input": "Agile",
+        "output": "agile"
+    },
+    {
+        "input": "Opossum",
+        "output": "opossum"
+    },
+    {
+        "input": "Clever",
+        "output": "clever"
+    },
+    {
+        "input": "Guitar",
+        "output": "guitar"
+    },
+    {
+        "input": "Rotten",
+        "output": "rotten"
+    },
+    {
+        "input": "Piano",
+        "output": "piano"
+    },
+    {
+        "input": "Television",
+        "output": "television"
+    },
+    {
+        "input": "Validate",
+        "output": "validate"
+    },
+    {
+        "input": "Pencil",
+        "output": "pencil"
+    },
+    {
+        "input": "Hard",
+        "output": "hard"
+    },
+    {
+        "input": "Behind",
+        "output": "behind"
+    },
+    {
+        "input": "Olive",
+        "output": "olive"
+    },
+    {
+        "input": "Moose",
+        "output": "moose"
+    },
+    {
+        "input": "Arrive",
+        "output": "arrive"
+    },
+    {
+        "input": "Lovable",
+        "output": "lovable"
+    },
+    {
+        "input": "Tape",
+        "output": "tape"
+    },
+    {
+        "input": "Vivacious",
+        "output": "vivacious"
+    },
+    {
+        "input": "Stapler",
+        "output": "stapler"
+    },
+    {
+        "input": "Climb",
+        "output": "climb"
+    },
+    {
+        "input": "Race",
+        "output": "race"
+    },
+    {
+        "input": "Fan",
+        "output": "fan"
+    },
+    {
+        "input": "Pizza",
+        "output": "pizza"
+    },
+    {
+        "input": "Banana",
+        "output": "banana"
+    },
+    {
+        "input": "Daring",
+        "output": "daring"
+    },
+    {
+        "input": "Jog",
+        "output": "jog"
+    },
+    {
+        "input": "Young",
+        "output": "young"
+    },
+    {
+        "input": "Yourself",
+        "output": "yourself"
+    },
+    {
+        "input": "Raspberry",
+        "output": "raspberry"
+    },
+    {
+        "input": "Xerox",
+        "output": "xerox"
+    },
+    {
+        "input": "Wonderful",
+        "output": "wonderful"
+    },
+    {
+        "input": "Lobster",
+        "output": "lobster"
+    },
+    {
+        "input": "Puma",
+        "output": "puma"
+    },
+    {
+        "input": "Desk",
+        "output": "desk"
+    },
+    {
+        "input": "Affable",
+        "output": "affable"
+    },
+    {
+        "input": "Organize",
+        "output": "organize"
+    },
+    {
+        "input": "Grow",
+        "output": "grow"
+    },
+    {
+        "input": "Toilet",
+        "output": "toilet"
+    },
+    {
+        "input": "Sensible",
+        "output": "sensible"
+    },
+    {
+        "input": "Chimpanzee",
+        "output": "chimpanzee"
+    },
+    {
+        "input": "Hornet",
+        "output": "hornet"
+    },
+    {
+        "input": "New",
+        "output": "new"
+    },
+    {
+        "input": "Trustworthy",
+        "output": "trustworthy"
+    },
+    {
+        "input": "Silly",
+        "output": "silly"
+    },
+    {
+        "input": "Gnu",
+        "output": "gnu"
+    },
+    {
+        "input": "Navigate",
+        "output": "navigate"
+    },
+    {
+        "input": "Pasta",
+        "output": "pasta"
+    },
+    {
+        "input": "Until",
+        "output": "until"
+    },
+    {
+        "input": "Cream",
+        "output": "cream"
+    },
+    {
+        "input": "Treat",
+        "output": "treat"
+    },
+    {
+        "input": "Hot",
+        "output": "hot"
+    },
+    {
+        "input": "Breathe",
+        "output": "breathe"
+    },
+    {
+        "input": "Lettuce",
+        "output": "lettuce"
+    },
+    {
+        "input": "Vase",
+        "output": "vase"
+    },
+    {
+        "input": "Jolt",
+        "output": "jolt"
+    },
+    {
+        "input": "Swan",
+        "output": "swan"
+    },
+    {
+        "input": "Bountiful",
+        "output": "bountiful"
+    },
+    {
+        "input": "Calm",
+        "output": "calm"
+    },
+    {
+        "input": "At",
+        "output": "at"
+    },
+    {
+        "input": "Socks",
+        "output": "socks"
+    },
+    {
+        "input": "Themselves",
+        "output": "themselves"
+    },
+    {
+        "input": "Below",
+        "output": "below"
+    },
+    {
+        "input": "Resolute",
+        "output": "resolute"
+    },
+    {
+        "input": "Inquisitive",
+        "output": "inquisitive"
+    },
+    {
+        "input": "Recruit",
+        "output": "recruit"
+    },
+    {
+        "input": "Necklace",
+        "output": "necklace"
+    },
+    {
+        "input": "Whoever",
+        "output": "whoever"
+    },
+    {
+        "input": "Ostrich",
+        "output": "ostrich"
+    },
+    {
+        "input": "Ruler",
+        "output": "ruler"
+    },
+    {
+        "input": "Intuitive",
+        "output": "intuitive"
+    },
+    {
+        "input": "Kick",
+        "output": "kick"
+    },
+    {
+        "input": "Juggle",
+        "output": "juggle"
+    },
+    {
+        "input": "Cowardly",
+        "output": "cowardly"
+    },
+    {
+        "input": "Adventurous",
+        "output": "adventurous"
+    },
+    {
+        "input": "Value",
+        "output": "value"
+    },
+    {
+        "input": "Loud",
+        "output": "loud"
+    },
+    {
+        "input": "Out",
+        "output": "out"
+    },
+    {
+        "input": "Under",
+        "output": "under"
+    },
+    {
+        "input": "Finish",
+        "output": "finish"
+    },
+    {
+        "input": "Kind",
+        "output": "kind"
+    },
+    {
+        "input": "Pig",
+        "output": "pig"
+    },
+    {
+        "input": "Discover",
+        "output": "discover"
+    },
+    {
+        "input": "Raccoon",
+        "output": "raccoon"
+    },
+    {
+        "input": "Strawberry",
+        "output": "strawberry"
+    },
+    {
+        "input": "Candlestick",
+        "output": "candlestick"
+    },
+    {
+        "input": "Create",
+        "output": "create"
+    },
+    {
+        "input": "Explore",
+        "output": "explore"
+    },
+    {
+        "input": "Considering",
+        "output": "considering"
+    },
+    {
+        "input": "Kindhearted",
+        "output": "kindhearted"
+    },
+    {
+        "input": "Gray",
+        "output": "gray"
+    },
+    {
+        "input": "Duck",
+        "output": "duck"
+    },
+    {
+        "input": "Learn",
+        "output": "learn"
+    },
+    {
+        "input": "Need",
+        "output": "need"
+    },
+    {
+        "input": "Kindred",
+        "output": "kindred"
+    },
+    {
+        "input": "Pen",
+        "output": "pen"
+    },
+    {
+        "input": "Okapi",
+        "output": "okapi"
+    },
+    {
+        "input": "Iguana",
+        "output": "iguana"
+    },
+    {
+        "input": "Thin",
+        "output": "thin"
+    },
+    {
+        "input": "Off",
+        "output": "off"
+    },
+    {
+        "input": "Python",
+        "output": "python"
+    },
+    {
+        "input": "Reliable",
+        "output": "reliable"
+    },
+    {
+        "input": "Sour",
+        "output": "sour"
+    },
+    {
+        "input": "Tall",
+        "output": "tall"
+    },
+    {
+        "input": "Navy",
+        "output": "navy"
+    },
+    {
+        "input": "Accordion",
+        "output": "accordion"
+    },
+    {
+        "input": "Naughty",
+        "output": "naughty"
+    },
+    {
+        "input": "Long",
+        "output": "long"
+    },
+    {
+        "input": "From",
+        "output": "from"
+    },
+    {
+        "input": "Tambourine",
+        "output": "tambourine"
+    },
+    {
+        "input": "In",
+        "output": "in"
+    },
+    {
+        "input": "Gooseberry",
+        "output": "gooseberry"
+    },
+    {
+        "input": "Win",
+        "output": "win"
+    },
+    {
+        "input": "Chinchilla",
+        "output": "chinchilla"
+    },
+    {
+        "input": "Door",
+        "output": "door"
+    },
+    {
+        "input": "Zoom",
+        "output": "zoom"
+    },
+    {
+        "input": "Harmonious",
+        "output": "harmonious"
+    },
+    {
+        "input": "Deer",
+        "output": "deer"
+    },
+    {
+        "input": "Volleyball",
+        "output": "volleyball"
+    },
+    {
+        "input": "Jaguar",
+        "output": "jaguar"
+    },
+    {
+        "input": "Wet",
+        "output": "wet"
+    },
+    {
+        "input": "Globe",
+        "output": "globe"
+    },
+    {
+        "input": "Charismatic",
+        "output": "charismatic"
+    },
+    {
+        "input": "Honest",
+        "output": "honest"
+    },
+    {
+        "input": "Garlic",
+        "output": "garlic"
+    },
+    {
+        "input": "Date",
+        "output": "date"
+    },
+    {
+        "input": "Mirthful",
+        "output": "mirthful"
+    },
+    {
+        "input": "Open",
+        "output": "open"
+    },
+    {
+        "input": "Newspaper",
+        "output": "newspaper"
+    },
+    {
+        "input": "Black",
+        "output": "black"
+    },
+    {
+        "input": "Among",
+        "output": "among"
+    },
+    {
+        "input": "Across",
+        "output": "across"
+    },
+    {
+        "input": "Flamingo",
+        "output": "flamingo"
+    },
+    {
+        "input": "Heavy",
+        "output": "heavy"
+    },
+    {
+        "input": "Soda",
+        "output": "soda"
+    },
+    {
+        "input": "Genuine",
+        "output": "genuine"
+    },
+    {
+        "input": "Graceful",
+        "output": "graceful"
+    },
+    {
+        "input": "Mustard",
+        "output": "mustard"
+    },
+    {
+        "input": "Rabbit",
+        "output": "rabbit"
+    },
+    {
+        "input": "Lizard",
+        "output": "lizard"
+    },
+    {
+        "input": "Knock",
+        "output": "knock"
+    },
+    {
+        "input": "Modest",
+        "output": "modest"
+    },
+    {
+        "input": "By",
+        "output": "by"
+    },
+    {
+        "input": "Join",
+        "output": "join"
+    },
+    {
+        "input": "During",
+        "output": "during"
+    },
+    {
+        "input": "Radiant",
+        "output": "radiant"
+    },
+    {
+        "input": "Bowl",
+        "output": "bowl"
+    },
+    {
+        "input": "Speak",
+        "output": "speak"
+    },
+    {
+        "input": "Elephant",
+        "output": "elephant"
+    },
+    {
+        "input": "Like",
+        "output": "like"
+    },
+    {
+        "input": "Donut",
+        "output": "donut"
+    },
+    {
+        "input": "Ibex",
+        "output": "ibex"
+    },
+    {
+        "input": "Who",
+        "output": "who"
+    },
+    {
+        "input": "Reindeer",
+        "output": "reindeer"
+    },
+    {
+        "input": "Phone",
+        "output": "phone"
+    },
+    {
+        "input": "Remote",
+        "output": "remote"
+    },
+    {
+        "input": "Boomerang",
+        "output": "boomerang"
+    },
+    {
+        "input": "Dingo",
+        "output": "dingo"
+    },
+    {
+        "input": "Curtain",
+        "output": "curtain"
+    },
+    {
+        "input": "Earring",
+        "output": "earring"
+    },
+    {
+        "input": "Tender",
+        "output": "tender"
+    },
+    {
+        "input": "Rug",
+        "output": "rug"
+    },
+    {
+        "input": "Copy",
+        "output": "copy"
+    },
+    {
+        "input": "Knot",
+        "output": "knot"
+    },
+    {
+        "input": "Hammock",
+        "output": "hammock"
+    },
+    {
+        "input": "Meerkat",
+        "output": "meerkat"
+    },
+    {
+        "input": "Collect",
+        "output": "collect"
+    },
+    {
+        "input": "Salmon",
+        "output": "salmon"
+    },
+    {
+        "input": "Laptop",
+        "output": "laptop"
+    },
+    {
+        "input": "Basket",
+        "output": "basket"
+    },
+    {
+        "input": "Talk",
+        "output": "talk"
+    },
+    {
+        "input": "Pepper",
+        "output": "pepper"
+    },
+    {
+        "input": "Examine",
+        "output": "examine"
+    },
+    {
+        "input": "Warmhearted",
+        "output": "warmhearted"
+    },
+    {
+        "input": "Bison",
+        "output": "bison"
+    },
+    {
+        "input": "Analyze",
+        "output": "analyze"
+    },
+    {
+        "input": "Dog",
+        "output": "dog"
+    },
+    {
+        "input": "Magnificent",
+        "output": "magnificent"
+    },
+    {
+        "input": "Volunteer",
+        "output": "volunteer"
+    },
+    {
+        "input": "Wombat",
+        "output": "wombat"
+    },
+    {
+        "input": "Understand",
+        "output": "understand"
+    },
+    {
+        "input": "Giraffe",
+        "output": "giraffe"
+    },
+    {
+        "input": "Skates",
+        "output": "skates"
+    },
+    {
+        "input": "Affectionate",
+        "output": "affectionate"
+    },
+    {
+        "input": "Mango",
+        "output": "mango"
+    },
+    {
+        "input": "Paintbrush",
+        "output": "paintbrush"
+    },
+    {
+        "input": "Perform",
+        "output": "perform"
+    },
+    {
+        "input": "Orange",
+        "output": "orange"
+    },
+    {
+        "input": "Turtle",
+        "output": "turtle"
+    },
+    {
+        "input": "Map",
+        "output": "map"
+    },
+    {
+        "input": "Pink",
+        "output": "pink"
+    },
+    {
+        "input": "Ecstatic",
+        "output": "ecstatic"
+    },
+    {
+        "input": "Lime",
+        "output": "lime"
+    },
+    {
+        "input": "Produce",
+        "output": "produce"
+    },
+    {
+        "input": "Oryx",
+        "output": "oryx"
+    },
+    {
+        "input": "Blanket",
+        "output": "blanket"
+    },
+    {
+        "input": "Ladder",
+        "output": "ladder"
+    },
+    {
+        "input": "Skunk",
+        "output": "skunk"
+    },
+    {
+        "input": "Newt",
+        "output": "newt"
+    },
+    {
+        "input": "Good",
+        "output": "good"
+    },
+    {
+        "input": "Persimmon",
+        "output": "persimmon"
+    },
+    {
+        "input": "Save",
+        "output": "save"
+    },
+    {
+        "input": "Fear",
+        "output": "fear"
+    },
+    {
+        "input": "Notebook",
+        "output": "notebook"
+    },
+    {
+        "input": "Walk",
+        "output": "walk"
+    },
+    {
+        "input": "Intelligent",
+        "output": "intelligent"
+    },
+    {
+        "input": "Egg",
+        "output": "egg"
+    },
+    {
+        "input": "Doubt",
+        "output": "doubt"
+    },
+    {
+        "input": "Despite",
+        "output": "despite"
+    },
+    {
+        "input": "Jellyfish",
+        "output": "jellyfish"
+    },
+    {
+        "input": "Carefree",
+        "output": "carefree"
+    },
+    {
+        "input": "Since",
+        "output": "since"
+    },
+    {
+        "input": "Frog",
+        "output": "frog"
+    },
+    {
+        "input": "Up",
+        "output": "up"
+    },
+    {
+        "input": "Hat",
+        "output": "hat"
+    },
+    {
+        "input": "Quill",
+        "output": "quill"
+    },
+    {
+        "input": "Rat",
+        "output": "rat"
+    },
+    {
+        "input": "Remove",
+        "output": "remove"
+    },
+    {
+        "input": "Caring",
+        "output": "caring"
+    },
+    {
+        "input": "Bear",
+        "output": "bear"
+    },
+    {
+        "input": "Mellow",
+        "output": "mellow"
+    },
+    {
+        "input": "Lively",
+        "output": "lively"
+    },
+    {
+        "input": "Umbrella",
+        "output": "umbrella"
+    },
+    {
+        "input": "Maximize",
+        "output": "maximize"
+    },
+    {
+        "input": "Vulture",
+        "output": "vulture"
+    },
+    {
+        "input": "Computer",
+        "output": "computer"
+    },
+    {
+        "input": "Hairbrush",
+        "output": "hairbrush"
+    },
+    {
+        "input": "But",
+        "output": "but"
+    },
+    {
+        "input": "Relax",
+        "output": "relax"
+    },
+    {
+        "input": "Spicy",
+        "output": "spicy"
+    },
+    {
+        "input": "Manage",
+        "output": "manage"
+    },
+    {
+        "input": "Rhinoceros",
+        "output": "rhinoceros"
+    },
+    {
+        "input": "Maracas",
+        "output": "maracas"
+    },
+    {
+        "input": "X-Ray",
+        "output": "x-ray"
+    },
+    {
+        "input": "Teach",
+        "output": "teach"
+    },
+    {
+        "input": "Dragonfly",
+        "output": "dragonfly"
+    },
+    {
+        "input": "Glasses",
+        "output": "glasses"
+    },
+    {
+        "input": "Mandrill",
+        "output": "mandrill"
+    },
+    {
+        "input": "Them",
+        "output": "them"
+    },
+    {
+        "input": "Easel",
+        "output": "easel"
+    },
+    {
+        "input": "Predict",
+        "output": "predict"
+    },
+    {
+        "input": "Zealous",
+        "output": "zealous"
+    },
+    {
+        "input": "Candle",
+        "output": "candle"
+    },
+    {
+        "input": "Dark",
+        "output": "dark"
+    },
+    {
+        "input": "Durian",
+        "output": "durian"
+    },
+    {
+        "input": "Cheap",
+        "output": "cheap"
+    },
+    {
+        "input": "Incense",
+        "output": "incense"
+    },
+    {
+        "input": "Soft",
+        "output": "soft"
+    },
+    {
+        "input": "Green",
+        "output": "green"
+    },
+    {
+        "input": "Crab",
+        "output": "crab"
+    },
+    {
+        "input": "Toucan",
+        "output": "toucan"
+    },
+    {
+        "input": "Uplifting",
+        "output": "uplifting"
+    },
+    {
+        "input": "Clock",
+        "output": "clock"
+    },
+    {
+        "input": "Teapot",
+        "output": "teapot"
+    },
+    {
+        "input": "Pineapple",
+        "output": "pineapple"
+    },
+    {
+        "input": "Violin",
+        "output": "violin"
+    },
+    {
+        "input": "Hyena",
+        "output": "hyena"
+    },
+    {
+        "input": "Jackal",
+        "output": "jackal"
+    },
+    {
+        "input": "Mint",
+        "output": "mint"
+    },
+    {
+        "input": "Dry",
+        "output": "dry"
+    },
+    {
+        "input": "Along",
+        "output": "along"
+    },
+    {
+        "input": "Approve",
+        "output": "approve"
+    },
+    {
+        "input": "Snake",
+        "output": "snake"
+    },
+    {
+        "input": "Believe",
+        "output": "believe"
+    },
+    {
+        "input": "Weak",
+        "output": "weak"
+    },
+    {
+        "input": "Develop",
+        "output": "develop"
+    },
+    {
+        "input": "Shirt",
+        "output": "shirt"
+    },
+    {
+        "input": "Exist",
+        "output": "exist"
+    },
+    {
+        "input": "Sample",
+        "output": "sample"
+    },
+    {
+        "input": "Realize",
+        "output": "realize"
+    },
+    {
+        "input": "Sheep",
+        "output": "sheep"
+    },
+    {
+        "input": "Pelican",
+        "output": "pelican"
+    },
+    {
+        "input": "Bold",
+        "output": "bold"
+    },
+    {
+        "input": "Eloquent",
+        "output": "eloquent"
+    },
+    {
+        "input": "Kindle",
+        "output": "kindle"
+    },
+    {
+        "input": "Quizzical",
+        "output": "quizzical"
+    },
+    {
+        "input": "Spider",
+        "output": "spider"
+    },
+    {
+        "input": "Observe",
+        "output": "observe"
+    },
+    {
+        "input": "Eager",
+        "output": "eager"
+    },
+    {
+        "input": "Discuss",
+        "output": "discuss"
+    },
+    {
+        "input": "Delightful",
+        "output": "delightful"
+    },
+    {
+        "input": "Nurturing",
+        "output": "nurturing"
+    },
+    {
+        "input": "Crane",
+        "output": "crane"
+    },
+    {
+        "input": "Insightful",
+        "output": "insightful"
+    },
+    {
+        "input": "Attack",
+        "output": "attack"
+    },
+    {
+        "input": "Consider",
+        "output": "consider"
+    },
+    {
+        "input": "Rice",
+        "output": "rice"
+    },
+    {
+        "input": "Duster",
+        "output": "duster"
+    },
+    {
+        "input": "Hopeful",
+        "output": "hopeful"
+    },
+    {
+        "input": "Listen",
+        "output": "listen"
+    },
+    {
+        "input": "Hippopotamus",
+        "output": "hippopotamus"
+    },
+    {
+        "input": "Joyful",
+        "output": "joyful"
+    },
+    {
+        "input": "On",
+        "output": "on"
+    },
+    {
+        "input": "Update",
+        "output": "update"
+    },
+    {
+        "input": "Lamp",
+        "output": "lamp"
+    },
+    {
+        "input": "Patient",
+        "output": "patient"
+    },
+    {
+        "input": "Loving",
+        "output": "loving"
+    },
+    {
+        "input": "Fox",
+        "output": "fox"
+    },
+    {
+        "input": "Decide",
+        "output": "decide"
+    },
+    {
+        "input": "Robot",
+        "output": "robot"
+    },
+    {
+        "input": "Mandarine",
+        "output": "mandarine"
+    },
+    {
+        "input": "Friendly",
+        "output": "friendly"
+    },
+    {
+        "input": "Sad",
+        "output": "sad"
+    },
+    {
+        "input": "Key",
+        "output": "key"
+    },
+    {
+        "input": "Tomato",
+        "output": "tomato"
+    },
+    {
+        "input": "Macaw",
+        "output": "macaw"
+    },
+    {
+        "input": "Kangaroo",
+        "output": "kangaroo"
+    },
+    {
+        "input": "Anchor",
+        "output": "anchor"
+    },
+    {
+        "input": "Happy",
+        "output": "happy"
+    },
+    {
+        "input": "Red",
+        "output": "red"
+    },
+    {
+        "input": "Onion",
+        "output": "onion"
+    },
+    {
+        "input": "Live",
+        "output": "live"
+    },
+    {
+        "input": "Search",
+        "output": "search"
+    },
+    {
+        "input": "Jolly",
+        "output": "jolly"
+    },
+    {
+        "input": "White",
+        "output": "white"
+    },
+    {
+        "input": "Celebrate",
+        "output": "celebrate"
+    },
+    {
+        "input": "Apricot",
+        "output": "apricot"
+    },
+    {
+        "input": "Determined",
+        "output": "determined"
+    },
+    {
+        "input": "Thirsty",
+        "output": "thirsty"
+    },
+    {
+        "input": "Blackberry",
+        "output": "blackberry"
+    },
+    {
+        "input": "Think",
+        "output": "think"
+    },
+    {
+        "input": "Vacuum",
+        "output": "vacuum"
+    },
+    {
+        "input": "Pork",
+        "output": "pork"
+    },
+    {
+        "input": "Rock",
+        "output": "rock"
+    },
+    {
+        "input": "Otter",
+        "output": "otter"
+    },
+    {
+        "input": "Xylophone",
+        "output": "xylophone"
+    },
+    {
+        "input": "Inventive",
+        "output": "inventive"
+    },
+    {
+        "input": "Make",
+        "output": "make"
+    },
+    {
+        "input": "Short",
+        "output": "short"
+    },
+    {
+        "input": "Wise",
+        "output": "wise"
+    },
+    {
+        "input": "Lion",
+        "output": "lion"
+    },
+    {
+        "input": "Underneath",
+        "output": "underneath"
+    },
+    {
+        "input": "Tangerine",
+        "output": "tangerine"
+    },
+    {
+        "input": "Bee",
+        "output": "bee"
+    },
+    {
+        "input": "Mild",
+        "output": "mild"
+    },
+    {
+        "input": "Table",
+        "output": "table"
+    },
+    {
+        "input": "They",
+        "output": "they"
+    },
+    {
+        "input": "Choose",
+        "output": "choose"
+    },
+    {
+        "input": "Alpaca",
+        "output": "alpaca"
+    },
+    {
+        "input": "Envelope",
+        "output": "envelope"
+    },
+    {
+        "input": "Dolphin",
+        "output": "dolphin"
+    },
+    {
+        "input": "He",
+        "output": "he"
+    },
+    {
+        "input": "Knowledgeable",
+        "output": "knowledgeable"
+    },
+    {
+        "input": "Gumball",
+        "output": "gumball"
+    },
+    {
+        "input": "Past",
+        "output": "past"
+    },
+    {
+        "input": "Me",
+        "output": "me"
+    },
+    {
+        "input": "Ocelot",
+        "output": "ocelot"
+    },
+    {
+        "input": "Except",
+        "output": "except"
+    },
+    {
+        "input": "Blissful",
+        "output": "blissful"
+    },
+    {
+        "input": "Hoop",
+        "output": "hoop"
+    },
+    {
+        "input": "Unite",
+        "output": "unite"
+    },
+    {
+        "input": "Laughing",
+        "output": "laughing"
+    },
+    {
+        "input": "Caribou",
+        "output": "caribou"
+    },
+    {
+        "input": "Remember",
+        "output": "remember"
+    },
+    {
+        "input": "Bottle",
+        "output": "bottle"
+    },
+    {
+        "input": "Prune",
+        "output": "prune"
+    },
+    {
+        "input": "Eel",
+        "output": "eel"
+    },
+    {
+        "input": "Test",
+        "output": "test"
+    },
+    {
+        "input": "Grateful",
+        "output": "grateful"
+    },
+    {
+        "input": "Jubilant",
+        "output": "jubilant"
+    },
+    {
+        "input": "Kite",
+        "output": "kite"
+    },
+    {
+        "input": "Down",
+        "output": "down"
+    },
+    {
+        "input": "Prepare",
+        "output": "prepare"
+    },
+    {
+        "input": "Work",
+        "output": "work"
+    },
+    {
+        "input": "Zipper",
+        "output": "zipper"
+    },
+    {
+        "input": "Try",
+        "output": "try"
+    },
+    {
+        "input": "Funny",
+        "output": "funny"
+    },
+    {
+        "input": "Above",
+        "output": "above"
+    },
+    {
+        "input": "Joyous",
+        "output": "joyous"
+    },
+    {
+        "input": "Schedule",
+        "output": "schedule"
+    },
+    {
+        "input": "Narwhal",
+        "output": "narwhal"
+    },
+    {
+        "input": "Fierce",
+        "output": "fierce"
+    },
+    {
+        "input": "Eraser",
+        "output": "eraser"
+    },
+    {
+        "input": "Elk",
+        "output": "elk"
+    },
+    {
+        "input": "Brave",
+        "output": "brave"
+    },
+    {
+        "input": "Sofa",
+        "output": "sofa"
+    },
+    {
+        "input": "Puzzle",
+        "output": "puzzle"
+    },
+    {
+        "input": "Which",
+        "output": "which"
+    },
+    {
+        "input": "Snorkel",
+        "output": "snorkel"
+    },
+    {
+        "input": "Carrot",
+        "output": "carrot"
+    },
+    {
+        "input": "Mouse",
+        "output": "mouse"
+    },
+    {
+        "input": "Judge",
+        "output": "judge"
+    },
+    {
+        "input": "Panda",
+        "output": "panda"
+    },
+    {
+        "input": "Oversee",
+        "output": "oversee"
+    },
+    {
+        "input": "Fig",
+        "output": "fig"
+    },
+    {
+        "input": "Unwavering",
+        "output": "unwavering"
+    },
+    {
+        "input": "Camera",
+        "output": "camera"
+    },
+    {
+        "input": "Bunny",
+        "output": "bunny"
+    },
+    {
+        "input": "Badger",
+        "output": "badger"
+    },
+    {
+        "input": "Donkey",
+        "output": "donkey"
+    },
+    {
+        "input": "Herself",
+        "output": "herself"
+    },
+    {
+        "input": "Before",
+        "output": "before"
+    },
+    {
+        "input": "Panther",
+        "output": "panther"
+    },
+    {
+        "input": "Energetic",
+        "output": "energetic"
+    },
+    {
+        "input": "Lemon",
+        "output": "lemon"
+    },
+    {
+        "input": "Dirty",
+        "output": "dirty"
+    },
+    {
+        "input": "Merge",
+        "output": "merge"
+    },
+    {
+        "input": "Sloth",
+        "output": "sloth"
+    },
+    {
+        "input": "Ink",
+        "output": "ink"
+    },
+    {
+        "input": "Wristwatch",
+        "output": "wristwatch"
+    },
+    {
+        "input": "Benevolent",
+        "output": "benevolent"
+    },
+    {
+        "input": "Concerning",
+        "output": "concerning"
+    },
+    {
+        "input": "Lynx",
+        "output": "lynx"
+    },
+    {
+        "input": "Monkey",
+        "output": "monkey"
+    },
+    {
+        "input": "Whistle",
+        "output": "whistle"
+    },
+    {
+        "input": "Huckleberry",
+        "output": "huckleberry"
+    },
+    {
+        "input": "Passionate",
+        "output": "passionate"
+    },
+    {
+        "input": "Thoughtful",
+        "output": "thoughtful"
+    },
+    {
+        "input": "That",
+        "output": "that"
+    },
+    {
+        "input": "Bird",
+        "output": "bird"
+    },
+    {
+        "input": "Achieve",
+        "output": "achieve"
+    },
+    {
+        "input": "Fast",
+        "output": "fast"
+    },
+    {
+        "input": "Consult",
+        "output": "consult"
+    },
+    {
+        "input": "Dice",
+        "output": "dice"
+    },
+    {
+        "input": "Cobra",
+        "output": "cobra"
+    },
+    {
+        "input": "Finch",
+        "output": "finch"
+    },
+    {
+        "input": "Zeppelin",
+        "output": "zeppelin"
+    },
+    {
+        "input": "Adoring",
+        "output": "adoring"
+    },
+    {
+        "input": "Modern",
+        "output": "modern"
+    },
+    {
+        "input": "Peach",
+        "output": "peach"
+    },
+    {
+        "input": "Moray",
+        "output": "moray"
+    },
+    {
+        "input": "Cube",
+        "output": "cube"
+    },
+    {
+        "input": "Ice",
+        "output": "ice"
+    },
+    {
+        "input": "Drum",
+        "output": "drum"
+    },
+    {
+        "input": "Airplane",
+        "output": "airplane"
+    },
+    {
+        "input": "Hedgehog",
+        "output": "hedgehog"
+    },
+    {
+        "input": "Warm",
+        "output": "warm"
+    },
+    {
+        "input": "Round",
+        "output": "round"
+    },
+    {
+        "input": "Small",
+        "output": "small"
+    },
+    {
+        "input": "Help",
+        "output": "help"
+    },
+    {
+        "input": "Versatile",
+        "output": "versatile"
+    },
+    {
+        "input": "Zebra",
+        "output": "zebra"
+    },
+    {
+        "input": "Land",
+        "output": "land"
+    },
+    {
+        "input": "Overcome",
+        "output": "overcome"
+    },
+    {
+        "input": "Change",
+        "output": "change"
+    },
+    {
+        "input": "Beyond",
+        "output": "beyond"
+    },
+    {
+        "input": "Label",
+        "output": "label"
+    },
+    {
+        "input": "Ball",
+        "output": "ball"
+    },
+    {
+        "input": "Aardvark",
+        "output": "aardvark"
+    },
+    {
+        "input": "Between",
+        "output": "between"
+    },
+    {
+        "input": "Earmuffs",
+        "output": "earmuffs"
+    },
+    {
+        "input": "Cougar",
+        "output": "cougar"
+    },
+    {
+        "input": "Chicken",
+        "output": "chicken"
+    },
+    {
+        "input": "Altruistic",
+        "output": "altruistic"
+    },
+    {
+        "input": "Pillow",
+        "output": "pillow"
+    },
+    {
+        "input": "Tennis Racket",
+        "output": "tennis racket"
+    },
+    {
+        "input": "Memorize",
+        "output": "memorize"
+    },
+    {
+        "input": "Into",
+        "output": "into"
+    },
+    {
+        "input": "Uncover",
+        "output": "uncover"
+    },
+    {
+        "input": "About",
+        "output": "about"
+    },
+    {
+        "input": "Gorilla",
+        "output": "gorilla"
+    },
+    {
+        "input": "Weasel",
+        "output": "weasel"
+    },
+    {
+        "input": "Youthful",
+        "output": "youthful"
+    },
+    {
+        "input": "Alligator",
+        "output": "alligator"
+    },
+    {
+        "input": "Igloo",
+        "output": "igloo"
+    },
+    {
+        "input": "Against",
+        "output": "against"
+    },
+    {
+        "input": "Question",
+        "output": "question"
+    },
+    {
+        "input": "Papaya",
+        "output": "papaya"
+    },
+    {
+        "input": "Toward",
+        "output": "toward"
+    },
+    {
+        "input": "Pigeon",
+        "output": "pigeon"
+    },
+    {
+        "input": "Kayak",
+        "output": "kayak"
+    },
+    {
+        "input": "Dynamic",
+        "output": "dynamic"
+    },
+    {
+        "input": "Parrot",
+        "output": "parrot"
+    },
+    {
+        "input": "Read",
+        "output": "read"
+    },
+    {
+        "input": "Cranberry",
+        "output": "cranberry"
+    },
+    {
+        "input": "Paper",
+        "output": "paper"
+    },
+    {
+        "input": "Dove",
+        "output": "dove"
+    },
+    {
+        "input": "Reach",
+        "output": "reach"
+    },
+    {
+        "input": "Intrepid",
+        "output": "intrepid"
+    },
+    {
+        "input": "Woodpecker",
+        "output": "woodpecker"
+    },
+    {
+        "input": "Plate",
+        "output": "plate"
+    },
+    {
+        "input": "Purple",
+        "output": "purple"
+    },
+    {
+        "input": "Chipmunk",
+        "output": "chipmunk"
+    },
+    {
+        "input": "Apron",
+        "output": "apron"
+    },
+    {
+        "input": "Reflect",
+        "output": "reflect"
+    },
+    {
+        "input": "Charming",
+        "output": "charming"
+    },
+    {
+        "input": "Fish",
+        "output": "fish"
+    },
+    {
+        "input": "Thick",
+        "output": "thick"
+    },
+    {
+        "input": "Resourceful",
+        "output": "resourceful"
+    },
+    {
+        "input": "To",
+        "output": "to"
+    },
+    {
+        "input": "Kneel",
+        "output": "kneel"
+    },
+    {
+        "input": "Whale",
+        "output": "whale"
+    },
+    {
+        "input": "Plan",
+        "output": "plan"
+    },
+    {
+        "input": "Chocolate",
+        "output": "chocolate"
+    },
+    {
+        "input": "Cherry",
+        "output": "cherry"
+    },
+    {
+        "input": "Jigsaw",
+        "output": "jigsaw"
+    },
+    {
+        "input": "Impala",
+        "output": "impala"
+    }
+]

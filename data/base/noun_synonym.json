@@ -1,0 +1,1266 @@
+[
+    {
+        "input": "messenger",
+        "output": "courier"
+    },
+    {
+        "input": "sewing",
+        "output": "stitching"
+    },
+    {
+        "input": "initiation",
+        "output": "beginning"
+    },
+    {
+        "input": "persecution",
+        "output": "oppression"
+    },
+    {
+        "input": "parting",
+        "output": "separation"
+    },
+    {
+        "input": "correlation",
+        "output": "association"
+    },
+    {
+        "input": "majority",
+        "output": "plurality"
+    },
+    {
+        "input": "pasture",
+        "output": "meadow"
+    },
+    {
+        "input": "wizard",
+        "output": "sorcerer"
+    },
+    {
+        "input": "food",
+        "output": "meal"
+    },
+    {
+        "input": "intent",
+        "output": "purpose"
+    },
+    {
+        "input": "operation",
+        "output": "procedure"
+    },
+    {
+        "input": "theme",
+        "output": "topic"
+    },
+    {
+        "input": "appointment",
+        "output": "meeting"
+    },
+    {
+        "input": "rampage",
+        "output": "frenzy"
+    },
+    {
+        "input": "eye",
+        "output": "pupil"
+    },
+    {
+        "input": "descent",
+        "output": "downfall"
+    },
+    {
+        "input": "ogre",
+        "output": "monster"
+    },
+    {
+        "input": "organization",
+        "output": "association"
+    },
+    {
+        "input": "clothes",
+        "output": "apparel"
+    },
+    {
+        "input": "interruption",
+        "output": "disruption"
+    },
+    {
+        "input": "division",
+        "output": "separation"
+    },
+    {
+        "input": "axle",
+        "output": "shaft"
+    },
+    {
+        "input": "mansion",
+        "output": "estate"
+    },
+    {
+        "input": "wisdom",
+        "output": "knowledge"
+    },
+    {
+        "input": "disturbance",
+        "output": "disruption"
+    },
+    {
+        "input": "misunderstanding",
+        "output": "misinterpretation"
+    },
+    {
+        "input": "humour",
+        "output": "comedy"
+    },
+    {
+        "input": "turmoil",
+        "output": "chaos"
+    },
+    {
+        "input": "version",
+        "output": "edition"
+    },
+    {
+        "input": "bible",
+        "output": "scripture"
+    },
+    {
+        "input": "company",
+        "output": "business"
+    },
+    {
+        "input": "administrator",
+        "output": "manager"
+    },
+    {
+        "input": "marijuana",
+        "output": "cannabis"
+    },
+    {
+        "input": "football",
+        "output": "soccer"
+    },
+    {
+        "input": "ambition",
+        "output": "aspiration"
+    },
+    {
+        "input": "king",
+        "output": "monarch"
+    },
+    {
+        "input": "handler",
+        "output": "manager"
+    },
+    {
+        "input": "basis",
+        "output": "foundation"
+    },
+    {
+        "input": "importance",
+        "output": "significance"
+    },
+    {
+        "input": "tale",
+        "output": "story"
+    },
+    {
+        "input": "institution",
+        "output": "organization"
+    },
+    {
+        "input": "refuge",
+        "output": "sanctuary"
+    },
+    {
+        "input": "mode",
+        "output": "method"
+    },
+    {
+        "input": "art",
+        "output": "craft"
+    },
+    {
+        "input": "remedy",
+        "output": "solution"
+    },
+    {
+        "input": "rabbit",
+        "output": "bunny"
+    },
+    {
+        "input": "whip",
+        "output": "lash"
+    },
+    {
+        "input": "valley",
+        "output": "gorge"
+    },
+    {
+        "input": "sphere",
+        "output": "ball"
+    },
+    {
+        "input": "innovation",
+        "output": "invention"
+    },
+    {
+        "input": "poem",
+        "output": "verse"
+    },
+    {
+        "input": "restoration",
+        "output": "renewal"
+    },
+    {
+        "input": "siege",
+        "output": "blockade"
+    },
+    {
+        "input": "reservation",
+        "output": "booking"
+    },
+    {
+        "input": "pest",
+        "output": "nuisance"
+    },
+    {
+        "input": "bead",
+        "output": "pearl"
+    },
+    {
+        "input": "circuit",
+        "output": "route"
+    },
+    {
+        "input": "affair",
+        "output": "event"
+    },
+    {
+        "input": "boom",
+        "output": "explosion"
+    },
+    {
+        "input": "dwelling",
+        "output": "residence"
+    },
+    {
+        "input": "convent",
+        "output": "monastery"
+    },
+    {
+        "input": "nation",
+        "output": "country"
+    },
+    {
+        "input": "guitar",
+        "output": "instrument"
+    },
+    {
+        "input": "disciple",
+        "output": "follower"
+    },
+    {
+        "input": "culmination",
+        "output": "climax"
+    },
+    {
+        "input": "lining",
+        "output": "covering"
+    },
+    {
+        "input": "frenzy",
+        "output": "madness"
+    },
+    {
+        "input": "way",
+        "output": "route"
+    },
+    {
+        "input": "chicken",
+        "output": "poultry"
+    },
+    {
+        "input": "affinity",
+        "output": "liking"
+    },
+    {
+        "input": "pollution",
+        "output": "contamination"
+    },
+    {
+        "input": "affairs",
+        "output": "business"
+    },
+    {
+        "input": "treaty",
+        "output": "agreement"
+    },
+    {
+        "input": "domain",
+        "output": "realm"
+    },
+    {
+        "input": "violation",
+        "output": "infringement"
+    },
+    {
+        "input": "apprehension",
+        "output": "anxiety"
+    },
+    {
+        "input": "characterization",
+        "output": "portrayal"
+    },
+    {
+        "input": "iteration",
+        "output": "repetition"
+    },
+    {
+        "input": "significance",
+        "output": "importance"
+    },
+    {
+        "input": "gender",
+        "output": "sex"
+    },
+    {
+        "input": "explosion",
+        "output": "blast"
+    },
+    {
+        "input": "item",
+        "output": "product"
+    },
+    {
+        "input": "photo",
+        "output": "picture"
+    },
+    {
+        "input": "piety",
+        "output": "devotion"
+    },
+    {
+        "input": "democracy",
+        "output": "republic"
+    },
+    {
+        "input": "advent",
+        "output": "arrival"
+    },
+    {
+        "input": "machine",
+        "output": "device"
+    },
+    {
+        "input": "scandal",
+        "output": "controversy"
+    },
+    {
+        "input": "competition",
+        "output": "contest"
+    },
+    {
+        "input": "affiliation",
+        "output": "association"
+    },
+    {
+        "input": "subway",
+        "output": "metro"
+    },
+    {
+        "input": "organisation",
+        "output": "company"
+    },
+    {
+        "input": "pact",
+        "output": "agreement"
+    },
+    {
+        "input": "news",
+        "output": "information"
+    },
+    {
+        "input": "knowledge",
+        "output": "wisdom"
+    },
+    {
+        "input": "reinforcement",
+        "output": "strengthening"
+    },
+    {
+        "input": "mastery",
+        "output": "expertise"
+    },
+    {
+        "input": "goodbye",
+        "output": "farewell"
+    },
+    {
+        "input": "waiter",
+        "output": "server"
+    },
+    {
+        "input": "din",
+        "output": "noise"
+    },
+    {
+        "input": "interpretation",
+        "output": "explanation"
+    },
+    {
+        "input": "gang",
+        "output": "crew"
+    },
+    {
+        "input": "doctrine",
+        "output": "teaching"
+    },
+    {
+        "input": "contest",
+        "output": "competition"
+    },
+    {
+        "input": "observation",
+        "output": "inspection"
+    },
+    {
+        "input": "gesture",
+        "output": "motion"
+    },
+    {
+        "input": "faculty",
+        "output": "staff"
+    },
+    {
+        "input": "clothing",
+        "output": "apparel"
+    },
+    {
+        "input": "proclamation",
+        "output": "announcement"
+    },
+    {
+        "input": "amplitude",
+        "output": "magnitude"
+    },
+    {
+        "input": "protocol",
+        "output": "procedure"
+    },
+    {
+        "input": "weapon",
+        "output": "armament"
+    },
+    {
+        "input": "explorer",
+        "output": "adventurer"
+    },
+    {
+        "input": "challenger",
+        "output": "competitor"
+    },
+    {
+        "input": "infection",
+        "output": "disease"
+    },
+    {
+        "input": "formation",
+        "output": "structure"
+    },
+    {
+        "input": "demise",
+        "output": "death"
+    },
+    {
+        "input": "guy",
+        "output": "man"
+    },
+    {
+        "input": "molecule",
+        "output": "atom"
+    },
+    {
+        "input": "offense",
+        "output": "defense"
+    },
+    {
+        "input": "havoc",
+        "output": "chaos"
+    },
+    {
+        "input": "revival",
+        "output": "renewal"
+    },
+    {
+        "input": "quest",
+        "output": "journey"
+    },
+    {
+        "input": "enrollment",
+        "output": "registration"
+    },
+    {
+        "input": "century",
+        "output": "era"
+    },
+    {
+        "input": "crest",
+        "output": "peak"
+    },
+    {
+        "input": "grit",
+        "output": "tenacity"
+    },
+    {
+        "input": "laundry",
+        "output": "washing"
+    },
+    {
+        "input": "parcel",
+        "output": "package"
+    },
+    {
+        "input": "patron",
+        "output": "customer"
+    },
+    {
+        "input": "commentary",
+        "output": "analysis"
+    },
+    {
+        "input": "category",
+        "output": "classification"
+    },
+    {
+        "input": "hatred",
+        "output": "animosity"
+    },
+    {
+        "input": "industry",
+        "output": "business"
+    },
+    {
+        "input": "arrangement",
+        "output": "organization"
+    },
+    {
+        "input": "producer",
+        "output": "creator"
+    },
+    {
+        "input": "wardrobe",
+        "output": "closet"
+    },
+    {
+        "input": "follower",
+        "output": "disciple"
+    },
+    {
+        "input": "loaf",
+        "output": "bread"
+    },
+    {
+        "input": "seed",
+        "output": "kernel"
+    },
+    {
+        "input": "specification",
+        "output": "description"
+    },
+    {
+        "input": "passion",
+        "output": "enthusiasm"
+    },
+    {
+        "input": "alignment",
+        "output": "arrangement"
+    },
+    {
+        "input": "authorization",
+        "output": "permission"
+    },
+    {
+        "input": "proxy",
+        "output": "substitute"
+    },
+    {
+        "input": "tool",
+        "output": "instrument"
+    },
+    {
+        "input": "accumulation",
+        "output": "collection"
+    },
+    {
+        "input": "tab",
+        "output": "sheet"
+    },
+    {
+        "input": "situation",
+        "output": "circumstance"
+    },
+    {
+        "input": "honesty",
+        "output": "integrity"
+    },
+    {
+        "input": "registration",
+        "output": "enrollment"
+    },
+    {
+        "input": "demon",
+        "output": "devil"
+    },
+    {
+        "input": "waterfall",
+        "output": "cascade"
+    },
+    {
+        "input": "hundred",
+        "output": "century"
+    },
+    {
+        "input": "annoyance",
+        "output": "irritation"
+    },
+    {
+        "input": "sovereignty",
+        "output": "autonomy"
+    },
+    {
+        "input": "volume",
+        "output": "capacity"
+    },
+    {
+        "input": "hop",
+        "output": "jump"
+    },
+    {
+        "input": "ally",
+        "output": "friend"
+    },
+    {
+        "input": "missile",
+        "output": "rocket"
+    },
+    {
+        "input": "migration",
+        "output": "relocation"
+    },
+    {
+        "input": "route",
+        "output": "path"
+    },
+    {
+        "input": "kernel",
+        "output": "core"
+    },
+    {
+        "input": "lady",
+        "output": "woman"
+    },
+    {
+        "input": "injunction",
+        "output": "prohibition"
+    },
+    {
+        "input": "virtue",
+        "output": "goodness"
+    },
+    {
+        "input": "growth",
+        "output": "development"
+    },
+    {
+        "input": "humor",
+        "output": "comedy"
+    },
+    {
+        "input": "narrative",
+        "output": "story"
+    },
+    {
+        "input": "ending",
+        "output": "conclusion"
+    },
+    {
+        "input": "renown",
+        "output": "fame"
+    },
+    {
+        "input": "medal",
+        "output": "award"
+    },
+    {
+        "input": "circumstance",
+        "output": "situation"
+    },
+    {
+        "input": "district",
+        "output": "region"
+    },
+    {
+        "input": "automobile",
+        "output": "car"
+    },
+    {
+        "input": "mass",
+        "output": "bulk"
+    },
+    {
+        "input": "disadvantage",
+        "output": "drawback"
+    },
+    {
+        "input": "shore",
+        "output": "coast"
+    },
+    {
+        "input": "stem",
+        "output": "branch"
+    },
+    {
+        "input": "trader",
+        "output": "merchant"
+    },
+    {
+        "input": "efficacy",
+        "output": "effectiveness"
+    },
+    {
+        "input": "heap",
+        "output": "pile"
+    },
+    {
+        "input": "country",
+        "output": "nation"
+    },
+    {
+        "input": "pursuit",
+        "output": "chase"
+    },
+    {
+        "input": "government",
+        "output": "administration"
+    },
+    {
+        "input": "trench",
+        "output": "ditch"
+    },
+    {
+        "input": "succession",
+        "output": "sequence"
+    },
+    {
+        "input": "manner",
+        "output": "behavior"
+    },
+    {
+        "input": "instruction",
+        "output": "guidance"
+    },
+    {
+        "input": "inn",
+        "output": "hotel"
+    },
+    {
+        "input": "aggregation",
+        "output": "collection"
+    },
+    {
+        "input": "gelatin",
+        "output": "jelly"
+    },
+    {
+        "input": "agency",
+        "output": "organization"
+    },
+    {
+        "input": "acceptance",
+        "output": "approval"
+    },
+    {
+        "input": "gap",
+        "output": "space"
+    },
+    {
+        "input": "luck",
+        "output": "fortune"
+    },
+    {
+        "input": "spite",
+        "output": "malice"
+    },
+    {
+        "input": "thought",
+        "output": "idea"
+    },
+    {
+        "input": "streetcar",
+        "output": "tram"
+    },
+    {
+        "input": "string",
+        "output": "cord"
+    },
+    {
+        "input": "attire",
+        "output": "clothing"
+    },
+    {
+        "input": "antagonist",
+        "output": "protagonist"
+    },
+    {
+        "input": "death",
+        "output": "demise"
+    },
+    {
+        "input": "relation",
+        "output": "connection"
+    },
+    {
+        "input": "coating",
+        "output": "covering"
+    },
+    {
+        "input": "defence",
+        "output": "protection"
+    },
+    {
+        "input": "alias",
+        "output": "pseudonym"
+    },
+    {
+        "input": "session",
+        "output": "meeting"
+    },
+    {
+        "input": "region",
+        "output": "area"
+    },
+    {
+        "input": "idea",
+        "output": "concept"
+    },
+    {
+        "input": "tour",
+        "output": "journey"
+    },
+    {
+        "input": "author",
+        "output": "writer"
+    },
+    {
+        "input": "likeness",
+        "output": "similarity"
+    },
+    {
+        "input": "ordinance",
+        "output": "law"
+    },
+    {
+        "input": "venom",
+        "output": "poison"
+    },
+    {
+        "input": "sex",
+        "output": "gender"
+    },
+    {
+        "input": "preservation",
+        "output": "conservation"
+    },
+    {
+        "input": "extension",
+        "output": "addition"
+    },
+    {
+        "input": "fate",
+        "output": "destiny"
+    },
+    {
+        "input": "telephone",
+        "output": "phone"
+    },
+    {
+        "input": "skip",
+        "output": "jump"
+    },
+    {
+        "input": "mate",
+        "output": "partner"
+    },
+    {
+        "input": "opportunity",
+        "output": "chance"
+    },
+    {
+        "input": "wand",
+        "output": "staff"
+    },
+    {
+        "input": "intention",
+        "output": "purpose"
+    },
+    {
+        "input": "union",
+        "output": "association"
+    },
+    {
+        "input": "accordance",
+        "output": "agreement"
+    },
+    {
+        "input": "goodness",
+        "output": "virtue"
+    },
+    {
+        "input": "resolution",
+        "output": "solution"
+    },
+    {
+        "input": "troop",
+        "output": "squad"
+    },
+    {
+        "input": "kingdom",
+        "output": "realm"
+    },
+    {
+        "input": "blight",
+        "output": "disease"
+    },
+    {
+        "input": "expression",
+        "output": "gesture"
+    },
+    {
+        "input": "mountain",
+        "output": "hill"
+    },
+    {
+        "input": "seriousness",
+        "output": "gravity"
+    },
+    {
+        "input": "kindness",
+        "output": "generosity"
+    },
+    {
+        "input": "pigeon",
+        "output": "dove"
+    },
+    {
+        "input": "adversary",
+        "output": "enemy"
+    },
+    {
+        "input": "distribution",
+        "output": "dispersion"
+    },
+    {
+        "input": "phase",
+        "output": "stage"
+    },
+    {
+        "input": "duty",
+        "output": "responsibility"
+    },
+    {
+        "input": "disbelief",
+        "output": "skepticism"
+    },
+    {
+        "input": "award",
+        "output": "prize"
+    },
+    {
+        "input": "prince",
+        "output": "king"
+    },
+    {
+        "input": "compartment",
+        "output": "section"
+    },
+    {
+        "input": "majesty",
+        "output": "sovereignty"
+    },
+    {
+        "input": "compassion",
+        "output": "empathy"
+    },
+    {
+        "input": "theory",
+        "output": "hypothesis"
+    },
+    {
+        "input": "statement",
+        "output": "declaration"
+    },
+    {
+        "input": "torch",
+        "output": "flashlight"
+    },
+    {
+        "input": "puzzle",
+        "output": "riddle"
+    },
+    {
+        "input": "edition",
+        "output": "version"
+    },
+    {
+        "input": "story",
+        "output": "tale"
+    },
+    {
+        "input": "resignation",
+        "output": "departure"
+    },
+    {
+        "input": "apparel",
+        "output": "clothing"
+    },
+    {
+        "input": "motivation",
+        "output": "inspiration"
+    },
+    {
+        "input": "direction",
+        "output": "guidance"
+    },
+    {
+        "input": "announcement",
+        "output": "declaration"
+    },
+    {
+        "input": "demeanor",
+        "output": "behavior"
+    },
+    {
+        "input": "label",
+        "output": "tag"
+    },
+    {
+        "input": "closet",
+        "output": "wardrobe"
+    },
+    {
+        "input": "club",
+        "output": "society"
+    },
+    {
+        "input": "adaptation",
+        "output": "adjustment"
+    },
+    {
+        "input": "inspection",
+        "output": "examination"
+    },
+    {
+        "input": "apex",
+        "output": "peak"
+    },
+    {
+        "input": "discourse",
+        "output": "conversation"
+    },
+    {
+        "input": "forgiveness",
+        "output": "pardon"
+    },
+    {
+        "input": "zone",
+        "output": "area"
+    },
+    {
+        "input": "tag",
+        "output": "label"
+    },
+    {
+        "input": "impression",
+        "output": "perception"
+    },
+    {
+        "input": "ornament",
+        "output": "decoration"
+    },
+    {
+        "input": "resistance",
+        "output": "opposition"
+    },
+    {
+        "input": "scripture",
+        "output": "bible"
+    },
+    {
+        "input": "optics",
+        "output": "vision"
+    },
+    {
+        "input": "intellect",
+        "output": "intelligence"
+    },
+    {
+        "input": "enjoyment",
+        "output": "pleasure"
+    },
+    {
+        "input": "satisfaction",
+        "output": "fulfillment"
+    },
+    {
+        "input": "director",
+        "output": "manager"
+    },
+    {
+        "input": "disruption",
+        "output": "interruption"
+    },
+    {
+        "input": "humility",
+        "output": "modesty"
+    },
+    {
+        "input": "infield",
+        "output": "outfield"
+    },
+    {
+        "input": "manager",
+        "output": "supervisor"
+    },
+    {
+        "input": "realm",
+        "output": "kingdom"
+    },
+    {
+        "input": "throat",
+        "output": "esophagus"
+    },
+    {
+        "input": "eyes",
+        "output": "vision"
+    },
+    {
+        "input": "writer",
+        "output": "author"
+    },
+    {
+        "input": "repression",
+        "output": "suppression"
+    },
+    {
+        "input": "establishment",
+        "output": "institution"
+    },
+    {
+        "input": "money",
+        "output": "cash"
+    },
+    {
+        "input": "treasurer",
+        "output": "custodian"
+    },
+    {
+        "input": "decade",
+        "output": "century"
+    },
+    {
+        "input": "deposition",
+        "output": "testimony"
+    },
+    {
+        "input": "distress",
+        "output": "suffering"
+    },
+    {
+        "input": "season",
+        "output": "period"
+    },
+    {
+        "input": "anarchy",
+        "output": "chaos"
+    },
+    {
+        "input": "cannabis",
+        "output": "marijuana"
+    },
+    {
+        "input": "crash",
+        "output": "collision"
+    },
+    {
+        "input": "serpent",
+        "output": "snake"
+    },
+    {
+        "input": "hood",
+        "output": "neighborhood"
+    },
+    {
+        "input": "feeling",
+        "output": "emotion"
+    },
+    {
+        "input": "rope",
+        "output": "cord"
+    },
+    {
+        "input": "man",
+        "output": "gentleman"
+    },
+    {
+        "input": "series",
+        "output": "sequence"
+    },
+    {
+        "input": "pupil",
+        "output": "student"
+    },
+    {
+        "input": "perception",
+        "output": "understanding"
+    },
+    {
+        "input": "notion",
+        "output": "idea"
+    },
+    {
+        "input": "judgment",
+        "output": "assessment"
+    },
+    {
+        "input": "illness",
+        "output": "disease"
+    },
+    {
+        "input": "wedding",
+        "output": "marriage"
+    },
+    {
+        "input": "continuity",
+        "output": "consistency"
+    },
+    {
+        "input": "rocket",
+        "output": "missile"
+    },
+    {
+        "input": "wit",
+        "output": "humor"
+    },
+    {
+        "input": "fallacy",
+        "output": "misconception"
+    },
+    {
+        "input": "crime",
+        "output": "offense"
+    },
+    {
+        "input": "intimacy",
+        "output": "closeness"
+    }
+]

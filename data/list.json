@@ -1,0 +1,62 @@
+[
+    {
+        "task1": "choose_last",
+        "task2": "country_capital"
+    },
+    {
+        "task1": "antonym",
+        "task2": "uppercase"
+    },
+    {
+        "task1": "synonym",
+        "task2": "uppercase"
+    },
+    {
+        "task1": "country_capital",
+        "task2": "lowercase"
+    },
+    {
+        "task1": "product_company",
+        "task2": "lowercase"
+    },
+    {
+        "task1": "adjective_v_verb",
+        "task2": "antonym"
+    },
+    {
+        "task1": "adjective_v_verb",
+        "task2": "synonym"
+    },
+    {
+        "task1": "choose_last",
+        "task2": "uppercase"
+    },
+    {
+        "task1": "choose_last",
+        "task2": "first_letter"
+    },
+    {
+        "task1": "antonym",
+        "task2": "english_french"
+    },
+    {
+        "task1": "antonym",
+        "task2": "english_spanish"
+    },
+    {
+        "task1": "landmark_country",
+        "task2": "english_french"
+    },
+    {
+        "task1": "landmark_country",
+        "task2": "english_spanish"
+    },
+    {
+        "task1": "landmark_country",
+        "task2": "lowercase"
+    },
+    {
+        "task1": "choose_last",
+        "task2": "landmark_country"
+    }
+]

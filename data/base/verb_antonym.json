@@ -1,0 +1,790 @@
+[
+    {
+        "input": "proceed",
+        "output": "halt"
+    },
+    {
+        "input": "watch",
+        "output": "ignore"
+    },
+    {
+        "input": "remain",
+        "output": "leave"
+    },
+    {
+        "input": "relent",
+        "output": "persist"
+    },
+    {
+        "input": "disappoint",
+        "output": "satisfy"
+    },
+    {
+        "input": "avoid",
+        "output": "seek"
+    },
+    {
+        "input": "learn",
+        "output": "forget"
+    },
+    {
+        "input": "disable",
+        "output": "enable"
+    },
+    {
+        "input": "distribute",
+        "output": "collect"
+    },
+    {
+        "input": "borrow",
+        "output": "lend"
+    },
+    {
+        "input": "abolish",
+        "output": "establish"
+    },
+    {
+        "input": "classify",
+        "output": "disorganize"
+    },
+    {
+        "input": "loosen",
+        "output": "tighten"
+    },
+    {
+        "input": "authorize",
+        "output": "prohibit"
+    },
+    {
+        "input": "lend",
+        "output": "borrow"
+    },
+    {
+        "input": "include",
+        "output": "exclude"
+    },
+    {
+        "input": "deduct",
+        "output": "add"
+    },
+    {
+        "input": "specialize",
+        "output": "generalize"
+    },
+    {
+        "input": "veto",
+        "output": "approve"
+    },
+    {
+        "input": "commence",
+        "output": "conclude"
+    },
+    {
+        "input": "divest",
+        "output": "invest"
+    },
+    {
+        "input": "worsen",
+        "output": "improve"
+    },
+    {
+        "input": "decode",
+        "output": "encode"
+    },
+    {
+        "input": "intensify",
+        "output": "diminish"
+    },
+    {
+        "input": "disinfect",
+        "output": "contaminate"
+    },
+    {
+        "input": "simplify",
+        "output": "complicate"
+    },
+    {
+        "input": "establish",
+        "output": "dismantle"
+    },
+    {
+        "input": "appear",
+        "output": "disappear"
+    },
+    {
+        "input": "cease",
+        "output": "continue"
+    },
+    {
+        "input": "collect",
+        "output": "disperse"
+    },
+    {
+        "input": "contradict",
+        "output": "agree"
+    },
+    {
+        "input": "install",
+        "output": "uninstall"
+    },
+    {
+        "input": "need",
+        "output": "have"
+    },
+    {
+        "input": "indicate",
+        "output": "conceal"
+    },
+    {
+        "input": "legalize",
+        "output": "criminalize"
+    },
+    {
+        "input": "wreck",
+        "output": "preserve"
+    },
+    {
+        "input": "strengthen",
+        "output": "weaken"
+    },
+    {
+        "input": "observe",
+        "output": "ignore"
+    },
+    {
+        "input": "arise",
+        "output": "settle"
+    },
+    {
+        "input": "confirm",
+        "output": "deny"
+    },
+    {
+        "input": "descend",
+        "output": "ascend"
+    },
+    {
+        "input": "recommend",
+        "output": "discourage"
+    },
+    {
+        "input": "satisfy",
+        "output": "dissatisfy"
+    },
+    {
+        "input": "enlarge",
+        "output": "shrink"
+    },
+    {
+        "input": "emit",
+        "output": "absorb"
+    },
+    {
+        "input": "attract",
+        "output": "repel"
+    },
+    {
+        "input": "agree",
+        "output": "disagree"
+    },
+    {
+        "input": "disappear",
+        "output": "appear"
+    },
+    {
+        "input": "validate",
+        "output": "invalidate"
+    },
+    {
+        "input": "remove",
+        "output": "add"
+    },
+    {
+        "input": "equip",
+        "output": "disarm"
+    },
+    {
+        "input": "assemble",
+        "output": "disassemble"
+    },
+    {
+        "input": "divide",
+        "output": "multiply"
+    },
+    {
+        "input": "halt",
+        "output": "proceed"
+    },
+    {
+        "input": "attach",
+        "output": "detach"
+    },
+    {
+        "input": "relieve",
+        "output": "aggravate"
+    },
+    {
+        "input": "deprive",
+        "output": "provide"
+    },
+    {
+        "input": "avert",
+        "output": "embrace"
+    },
+    {
+        "input": "unite",
+        "output": "divide"
+    },
+    {
+        "input": "approve",
+        "output": "disapprove"
+    },
+    {
+        "input": "multiply",
+        "output": "divide"
+    },
+    {
+        "input": "disconnect",
+        "output": "connect"
+    },
+    {
+        "input": "flee",
+        "output": "pursue"
+    },
+    {
+        "input": "linger",
+        "output": "leave"
+    },
+    {
+        "input": "repair",
+        "output": "damage"
+    },
+    {
+        "input": "enrich",
+        "output": "impoverish"
+    },
+    {
+        "input": "perceive",
+        "output": "ignore"
+    },
+    {
+        "input": "originate",
+        "output": "terminate"
+    },
+    {
+        "input": "engage",
+        "output": "disengage"
+    },
+    {
+        "input": "assail",
+        "output": "defend"
+    },
+    {
+        "input": "settle",
+        "output": "disrupt"
+    },
+    {
+        "input": "boil",
+        "output": "freeze"
+    },
+    {
+        "input": "commit",
+        "output": "withdraw"
+    },
+    {
+        "input": "explain",
+        "output": "confuse"
+    },
+    {
+        "input": "subtract",
+        "output": "add"
+    },
+    {
+        "input": "enable",
+        "output": "disable"
+    },
+    {
+        "input": "remember",
+        "output": "forget"
+    },
+    {
+        "input": "disagree",
+        "output": "agree"
+    },
+    {
+        "input": "represent",
+        "output": "misrepresent"
+    },
+    {
+        "input": "involve",
+        "output": "exclude"
+    },
+    {
+        "input": "quit",
+        "output": "continue"
+    },
+    {
+        "input": "propel",
+        "output": "halt"
+    },
+    {
+        "input": "forget",
+        "output": "remember"
+    },
+    {
+        "input": "affirm",
+        "output": "deny"
+    },
+    {
+        "input": "mention",
+        "output": "ignore"
+    },
+    {
+        "input": "participate",
+        "output": "withdraw"
+    },
+    {
+        "input": "depart",
+        "output": "arrive"
+    },
+    {
+        "input": "invest",
+        "output": "withdraw"
+    },
+    {
+        "input": "improve",
+        "output": "deteriorate"
+    },
+    {
+        "input": "allow",
+        "output": "forbid"
+    },
+    {
+        "input": "survive",
+        "output": "perish"
+    },
+    {
+        "input": "exclude",
+        "output": "include"
+    },
+    {
+        "input": "delete",
+        "output": "save"
+    },
+    {
+        "input": "applaud",
+        "output": "boo"
+    },
+    {
+        "input": "maximize",
+        "output": "minimize"
+    },
+    {
+        "input": "acknowledge",
+        "output": "ignore"
+    },
+    {
+        "input": "persuade",
+        "output": "dissuade"
+    },
+    {
+        "input": "except",
+        "output": "include"
+    },
+    {
+        "input": "differentiate",
+        "output": "integrate"
+    },
+    {
+        "input": "accumulate",
+        "output": "dissipate"
+    },
+    {
+        "input": "encode",
+        "output": "decode"
+    },
+    {
+        "input": "sustain",
+        "output": "deplete"
+    },
+    {
+        "input": "negate",
+        "output": "affirm"
+    },
+    {
+        "input": "prosecute",
+        "output": "defend"
+    },
+    {
+        "input": "impair",
+        "output": "improve"
+    },
+    {
+        "input": "feed",
+        "output": "starve"
+    },
+    {
+        "input": "leave",
+        "output": "arrive"
+    },
+    {
+        "input": "intimidate",
+        "output": "reassure"
+    },
+    {
+        "input": "consume",
+        "output": "produce"
+    },
+    {
+        "input": "erase",
+        "output": "write"
+    },
+    {
+        "input": "promote",
+        "output": "demote"
+    },
+    {
+        "input": "disarm",
+        "output": "arm"
+    },
+    {
+        "input": "read",
+        "output": "write"
+    },
+    {
+        "input": "soften",
+        "output": "harden"
+    },
+    {
+        "input": "dismantle",
+        "output": "assemble"
+    },
+    {
+        "input": "grow",
+        "output": "shrink"
+    },
+    {
+        "input": "rejoice",
+        "output": "mourn"
+    },
+    {
+        "input": "ascend",
+        "output": "descend"
+    },
+    {
+        "input": "liberate",
+        "output": "imprison"
+    },
+    {
+        "input": "waive",
+        "output": "enforce"
+    },
+    {
+        "input": "disapprove",
+        "output": "approve"
+    },
+    {
+        "input": "redeem",
+        "output": "condemn"
+    },
+    {
+        "input": "oust",
+        "output": "install"
+    },
+    {
+        "input": "recall",
+        "output": "forget"
+    },
+    {
+        "input": "encrypt",
+        "output": "decrypt"
+    },
+    {
+        "input": "annoy",
+        "output": "please"
+    },
+    {
+        "input": "interrupt",
+        "output": "continue"
+    },
+    {
+        "input": "cooperate",
+        "output": "compete"
+    },
+    {
+        "input": "resent",
+        "output": "cherish"
+    },
+    {
+        "input": "alter",
+        "output": "preserve"
+    },
+    {
+        "input": "deny",
+        "output": "confirm"
+    },
+    {
+        "input": "withstand",
+        "output": "succumb"
+    },
+    {
+        "input": "complicate",
+        "output": "simplify"
+    },
+    {
+        "input": "emphasize",
+        "output": "downplay"
+    },
+    {
+        "input": "disembark",
+        "output": "embark"
+    },
+    {
+        "input": "bury",
+        "output": "unearth"
+    },
+    {
+        "input": "terminate",
+        "output": "initiate"
+    },
+    {
+        "input": "convict",
+        "output": "acquit"
+    },
+    {
+        "input": "announce",
+        "output": "conceal"
+    },
+    {
+        "input": "minimize",
+        "output": "maximize"
+    },
+    {
+        "input": "maintain",
+        "output": "deteriorate"
+    },
+    {
+        "input": "connect",
+        "output": "disconnect"
+    },
+    {
+        "input": "forbid",
+        "output": "allow"
+    },
+    {
+        "input": "sew",
+        "output": "unravel"
+    },
+    {
+        "input": "retrieve",
+        "output": "discard"
+    },
+    {
+        "input": "infect",
+        "output": "cure"
+    },
+    {
+        "input": "insert",
+        "output": "remove"
+    },
+    {
+        "input": "tighten",
+        "output": "loosen"
+    },
+    {
+        "input": "injure",
+        "output": "heal"
+    },
+    {
+        "input": "manage",
+        "output": "struggle"
+    },
+    {
+        "input": "decipher",
+        "output": "encrypt"
+    },
+    {
+        "input": "accelerate",
+        "output": "decelerate"
+    },
+    {
+        "input": "fail",
+        "output": "succeed"
+    },
+    {
+        "input": "omit",
+        "output": "include"
+    },
+    {
+        "input": "integrate",
+        "output": "differentiate"
+    },
+    {
+        "input": "vanish",
+        "output": "appear"
+    },
+    {
+        "input": "let",
+        "output": "prevent"
+    },
+    {
+        "input": "revive",
+        "output": "expire"
+    },
+    {
+        "input": "act",
+        "output": "react"
+    },
+    {
+        "input": "arrive",
+        "output": "depart"
+    },
+    {
+        "input": "succumb",
+        "output": "resist"
+    },
+    {
+        "input": "decrypt",
+        "output": "encrypt"
+    },
+    {
+        "input": "elevate",
+        "output": "depress"
+    },
+    {
+        "input": "succeed",
+        "output": "fail"
+    },
+    {
+        "input": "admit",
+        "output": "deny"
+    },
+    {
+        "input": "generate",
+        "output": "consume"
+    },
+    {
+        "input": "endure",
+        "output": "quit"
+    },
+    {
+        "input": "undertake",
+        "output": "abandon"
+    },
+    {
+        "input": "unveil",
+        "output": "conceal"
+    },
+    {
+        "input": "recover",
+        "output": "deteriorate"
+    },
+    {
+        "input": "expire",
+        "output": "renew"
+    },
+    {
+        "input": "know",
+        "output": "ignore"
+    },
+    {
+        "input": "suffer",
+        "output": "enjoy"
+    },
+    {
+        "input": "confront",
+        "output": "avoid"
+    },
+    {
+        "input": "expose",
+        "output": "conceal"
+    },
+    {
+        "input": "add",
+        "output": "subtract"
+    },
+    {
+        "input": "embark",
+        "output": "disembark"
+    },
+    {
+        "input": "detach",
+        "output": "attach"
+    },
+    {
+        "input": "prohibit",
+        "output": "allow"
+    },
+    {
+        "input": "amplify",
+        "output": "diminish"
+    },
+    {
+        "input": "justify",
+        "output": "condemn"
+    },
+    {
+        "input": "wake",
+        "output": "sleep"
+    },
+    {
+        "input": "uphold",
+        "output": "undermine"
+    },
+    {
+        "input": "inspire",
+        "output": "discourage"
+    },
+    {
+        "input": "mourn",
+        "output": "celebrate"
+    },
+    {
+        "input": "apply",
+        "output": "remove"
+    },
+    {
+        "input": "dismiss",
+        "output": "appoint"
+    },
+    {
+        "input": "weaken",
+        "output": "strengthen"
+    },
+    {
+        "input": "adjust",
+        "output": "maintain"
+    },
+    {
+        "input": "enforce",
+        "output": "repeal"
+    },
+    {
+        "input": "urge",
+        "output": "resist"
+    },
+    {
+        "input": "imitate",
+        "output": "originate"
+    },
+    {
+        "input": "refrain",
+        "output": "indulge"
+    },
+    {
+        "input": "stretch",
+        "output": "shrink"
+    },
+    {
+        "input": "shorten",
+        "output": "lengthen"
+    },
+    {
+        "input": "impede",
+        "output": "facilitate"
+    },
+    {
+        "input": "shrink",
+        "output": "expand"
+    }
+]

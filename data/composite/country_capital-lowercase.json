@@ -1,0 +1,1184 @@
+[
+    {
+        "input": "Afghanistan",
+        "output": "kabul",
+        "t1": "Kabul",
+        "t2": "afghanistan"
+    },
+    {
+        "input": "Albania",
+        "output": "tirana",
+        "t1": "Tirana",
+        "t2": "albania"
+    },
+    {
+        "input": "Algeria",
+        "output": "algiers",
+        "t1": "Algiers",
+        "t2": "algeria"
+    },
+    {
+        "input": "Andorra",
+        "output": "andorra la vella",
+        "t1": "Andorra la Vella",
+        "t2": "andorra"
+    },
+    {
+        "input": "Angola",
+        "output": "luanda",
+        "t1": "Luanda",
+        "t2": "angola"
+    },
+    {
+        "input": "Antigua and Barbuda",
+        "output": "st. john's",
+        "t1": "St. John's",
+        "t2": "antigua and barbuda"
+    },
+    {
+        "input": "Argentina",
+        "output": "buenos aires",
+        "t1": "Buenos Aires",
+        "t2": "argentina"
+    },
+    {
+        "input": "Armenia",
+        "output": "yerevan",
+        "t1": "Yerevan",
+        "t2": "armenia"
+    },
+    {
+        "input": "Australia",
+        "output": "canberra",
+        "t1": "Canberra",
+        "t2": "australia"
+    },
+    {
+        "input": "Austria",
+        "output": "vienna",
+        "t1": "Vienna",
+        "t2": "austria"
+    },
+    {
+        "input": "Azerbaijan",
+        "output": "baku",
+        "t1": "Baku",
+        "t2": "azerbaijan"
+    },
+    {
+        "input": "Bahamas",
+        "output": "nassau",
+        "t1": "Nassau",
+        "t2": "bahamas"
+    },
+    {
+        "input": "Bahrain",
+        "output": "manama",
+        "t1": "Manama",
+        "t2": "bahrain"
+    },
+    {
+        "input": "Bangladesh",
+        "output": "dhaka",
+        "t1": "Dhaka",
+        "t2": "bangladesh"
+    },
+    {
+        "input": "Barbados",
+        "output": "bridgetown",
+        "t1": "Bridgetown",
+        "t2": "barbados"
+    },
+    {
+        "input": "Belarus",
+        "output": "minsk",
+        "t1": "Minsk",
+        "t2": "belarus"
+    },
+    {
+        "input": "Belgium",
+        "output": "brussels",
+        "t1": "Brussels",
+        "t2": "belgium"
+    },
+    {
+        "input": "Belize",
+        "output": "belmopan",
+        "t1": "Belmopan",
+        "t2": "belize"
+    },
+    {
+        "input": "Benin",
+        "output": "porto-novo",
+        "t1": "Porto-Novo",
+        "t2": "benin"
+    },
+    {
+        "input": "Bhutan",
+        "output": "thimphu",
+        "t1": "Thimphu",
+        "t2": "bhutan"
+    },
+    {
+        "input": "Bolivia",
+        "output": "la paz",
+        "t1": "La Paz",
+        "t2": "bolivia"
+    },
+    {
+        "input": "Bosnia and Herzegovina",
+        "output": "sarajevo",
+        "t1": "Sarajevo",
+        "t2": "bosnia and herzegovina"
+    },
+    {
+        "input": "Botswana",
+        "output": "gaborone",
+        "t1": "Gaborone",
+        "t2": "botswana"
+    },
+    {
+        "input": "Brazil",
+        "output": "brasilia",
+        "t1": "Brasilia",
+        "t2": "brazil"
+    },
+    {
+        "input": "Brunei",
+        "output": "bandar seri begawan",
+        "t1": "Bandar Seri Begawan",
+        "t2": "brunei"
+    },
+    {
+        "input": "Bulgaria",
+        "output": "sofia",
+        "t1": "Sofia",
+        "t2": "bulgaria"
+    },
+    {
+        "input": "Burkina Faso",
+        "output": "ouagadougou",
+        "t1": "Ouagadougou",
+        "t2": "burkina faso"
+    },
+    {
+        "input": "Burundi",
+        "output": "bujumbura",
+        "t1": "Bujumbura",
+        "t2": "burundi"
+    },
+    {
+        "input": "Cabo Verde",
+        "output": "praia",
+        "t1": "Praia",
+        "t2": "cabo verde"
+    },
+    {
+        "input": "Cambodia",
+        "output": "phnom penh",
+        "t1": "Phnom Penh",
+        "t2": "cambodia"
+    },
+    {
+        "input": "Cameroon",
+        "output": "yaounde",
+        "t1": "Yaounde",
+        "t2": "cameroon"
+    },
+    {
+        "input": "Canada",
+        "output": "ottawa",
+        "t1": "Ottawa",
+        "t2": "canada"
+    },
+    {
+        "input": "Central African Republic",
+        "output": "bangui",
+        "t1": "Bangui",
+        "t2": "central african republic"
+    },
+    {
+        "input": "Chad",
+        "output": "n'djamena",
+        "t1": "N'Djamena",
+        "t2": "chad"
+    },
+    {
+        "input": "Chile",
+        "output": "santiago",
+        "t1": "Santiago",
+        "t2": "chile"
+    },
+    {
+        "input": "China",
+        "output": "beijing",
+        "t1": "Beijing",
+        "t2": "china"
+    },
+    {
+        "input": "Colombia",
+        "output": "bogot\u00e1",
+        "t1": "Bogot\u00e1",
+        "t2": "colombia"
+    },
+    {
+        "input": "Comoros",
+        "output": "moroni",
+        "t1": "Moroni",
+        "t2": "comoros"
+    },
+    {
+        "input": "Congo",
+        "output": "kinshasa",
+        "t1": "Kinshasa",
+        "t2": "congo"
+    },
+    {
+        "input": "Costa Rica",
+        "output": "san jos\u00e9",
+        "t1": "San Jos\u00e9",
+        "t2": "costa rica"
+    },
+    {
+        "input": "Cote d'Ivoire",
+        "output": "yamoussoukro",
+        "t1": "Yamoussoukro",
+        "t2": "cote d'ivoire"
+    },
+    {
+        "input": "Croatia",
+        "output": "zagreb",
+        "t1": "Zagreb",
+        "t2": "croatia"
+    },
+    {
+        "input": "Cuba",
+        "output": "havana",
+        "t1": "Havana",
+        "t2": "cuba"
+    },
+    {
+        "input": "Cyprus",
+        "output": "nicosia",
+        "t1": "Nicosia",
+        "t2": "cyprus"
+    },
+    {
+        "input": "Czech Republic",
+        "output": "prague",
+        "t1": "Prague",
+        "t2": "czech republic"
+    },
+    {
+        "input": "Democratic Republic of the Congo",
+        "output": "kinshasa",
+        "t1": "Kinshasa",
+        "t2": "democratic republic of the congo"
+    },
+    {
+        "input": "Denmark",
+        "output": "copenhagen",
+        "t1": "Copenhagen",
+        "t2": "denmark"
+    },
+    {
+        "input": "Djibouti",
+        "output": "djibouti city",
+        "t1": "Djibouti City",
+        "t2": "djibouti"
+    },
+    {
+        "input": "Dominica",
+        "output": "roseau",
+        "t1": "Roseau",
+        "t2": "dominica"
+    },
+    {
+        "input": "Dominican Republic",
+        "output": "santo domingo",
+        "t1": "Santo Domingo",
+        "t2": "dominican republic"
+    },
+    {
+        "input": "Ecuador",
+        "output": "quito",
+        "t1": "Quito",
+        "t2": "ecuador"
+    },
+    {
+        "input": "Egypt",
+        "output": "cairo",
+        "t1": "Cairo",
+        "t2": "egypt"
+    },
+    {
+        "input": "El Salvador",
+        "output": "san salvador",
+        "t1": "San Salvador",
+        "t2": "el salvador"
+    },
+    {
+        "input": "Equatorial Guinea",
+        "output": "malabo",
+        "t1": "Malabo",
+        "t2": "equatorial guinea"
+    },
+    {
+        "input": "Eritrea",
+        "output": "asmara",
+        "t1": "Asmara",
+        "t2": "eritrea"
+    },
+    {
+        "input": "Estonia",
+        "output": "tallinn",
+        "t1": "Tallinn",
+        "t2": "estonia"
+    },
+    {
+        "input": "Eswatini",
+        "output": "mbabane",
+        "t1": "Mbabane",
+        "t2": "eswatini"
+    },
+    {
+        "input": "Ethiopia",
+        "output": "addis ababa",
+        "t1": "Addis Ababa",
+        "t2": "ethiopia"
+    },
+    {
+        "input": "Fiji",
+        "output": "suva",
+        "t1": "Suva",
+        "t2": "fiji"
+    },
+    {
+        "input": "Finland",
+        "output": "helsinki",
+        "t1": "Helsinki",
+        "t2": "finland"
+    },
+    {
+        "input": "France",
+        "output": "paris",
+        "t1": "Paris",
+        "t2": "france"
+    },
+    {
+        "input": "Gabon",
+        "output": "libreville",
+        "t1": "Libreville",
+        "t2": "gabon"
+    },
+    {
+        "input": "Gambia",
+        "output": "banjul",
+        "t1": "Banjul",
+        "t2": "gambia"
+    },
+    {
+        "input": "Georgia",
+        "output": "tbilisi",
+        "t1": "Tbilisi",
+        "t2": "georgia"
+    },
+    {
+        "input": "Germany",
+        "output": "berlin",
+        "t1": "Berlin",
+        "t2": "germany"
+    },
+    {
+        "input": "Ghana",
+        "output": "accra",
+        "t1": "Accra",
+        "t2": "ghana"
+    },
+    {
+        "input": "Greece",
+        "output": "athens",
+        "t1": "Athens",
+        "t2": "greece"
+    },
+    {
+        "input": "Grenada",
+        "output": "st. george's",
+        "t1": "St. George's",
+        "t2": "grenada"
+    },
+    {
+        "input": "Guatemala",
+        "output": "guatemala city",
+        "t1": "Guatemala City",
+        "t2": "guatemala"
+    },
+    {
+        "input": "Guinea",
+        "output": "conakry",
+        "t1": "Conakry",
+        "t2": "guinea"
+    },
+    {
+        "input": "Guinea-Bissau",
+        "output": "bissau",
+        "t1": "Bissau",
+        "t2": "guinea-bissau"
+    },
+    {
+        "input": "Guyana",
+        "output": "georgetown",
+        "t1": "Georgetown",
+        "t2": "guyana"
+    },
+    {
+        "input": "Haiti",
+        "output": "port-au-prince",
+        "t1": "Port-au-Prince",
+        "t2": "haiti"
+    },
+    {
+        "input": "Honduras",
+        "output": "tegucigalpa",
+        "t1": "Tegucigalpa",
+        "t2": "honduras"
+    },
+    {
+        "input": "Hungary",
+        "output": "budapest",
+        "t1": "Budapest",
+        "t2": "hungary"
+    },
+    {
+        "input": "Iceland",
+        "output": "reykjavik",
+        "t1": "Reykjavik",
+        "t2": "iceland"
+    },
+    {
+        "input": "India",
+        "output": "new delhi",
+        "t1": "New Delhi",
+        "t2": "india"
+    },
+    {
+        "input": "Indonesia",
+        "output": "jakarta",
+        "t1": "Jakarta",
+        "t2": "indonesia"
+    },
+    {
+        "input": "Iran",
+        "output": "tehran",
+        "t1": "Tehran",
+        "t2": "iran"
+    },
+    {
+        "input": "Iraq",
+        "output": "baghdad",
+        "t1": "Baghdad",
+        "t2": "iraq"
+    },
+    {
+        "input": "Ireland",
+        "output": "dublin",
+        "t1": "Dublin",
+        "t2": "ireland"
+    },
+    {
+        "input": "Israel",
+        "output": "jerusalem",
+        "t1": "Jerusalem",
+        "t2": "israel"
+    },
+    {
+        "input": "Italy",
+        "output": "rome",
+        "t1": "Rome",
+        "t2": "italy"
+    },
+    {
+        "input": "Jamaica",
+        "output": "kingston",
+        "t1": "Kingston",
+        "t2": "jamaica"
+    },
+    {
+        "input": "Japan",
+        "output": "tokyo",
+        "t1": "Tokyo",
+        "t2": "japan"
+    },
+    {
+        "input": "Jordan",
+        "output": "amman",
+        "t1": "Amman",
+        "t2": "jordan"
+    },
+    {
+        "input": "Kazakhstan",
+        "output": "astana",
+        "t1": "Astana",
+        "t2": "kazakhstan"
+    },
+    {
+        "input": "Kenya",
+        "output": "nairobi",
+        "t1": "Nairobi",
+        "t2": "kenya"
+    },
+    {
+        "input": "Kiribati",
+        "output": "south tarawa",
+        "t1": "South Tarawa",
+        "t2": "kiribati"
+    },
+    {
+        "input": "Kosovo",
+        "output": "pristina",
+        "t1": "Pristina",
+        "t2": "kosovo"
+    },
+    {
+        "input": "Kuwait",
+        "output": "kuwait city",
+        "t1": "Kuwait City",
+        "t2": "kuwait"
+    },
+    {
+        "input": "Kyrgyzstan",
+        "output": "bishkek",
+        "t1": "Bishkek",
+        "t2": "kyrgyzstan"
+    },
+    {
+        "input": "Laos",
+        "output": "vientiane",
+        "t1": "Vientiane",
+        "t2": "laos"
+    },
+    {
+        "input": "Latvia",
+        "output": "riga",
+        "t1": "Riga",
+        "t2": "latvia"
+    },
+    {
+        "input": "Lebanon",
+        "output": "beirut",
+        "t1": "Beirut",
+        "t2": "lebanon"
+    },
+    {
+        "input": "Lesotho",
+        "output": "maseru",
+        "t1": "Maseru",
+        "t2": "lesotho"
+    },
+    {
+        "input": "Liberia",
+        "output": "monrovia",
+        "t1": "Monrovia",
+        "t2": "liberia"
+    },
+    {
+        "input": "Libya",
+        "output": "tripoli",
+        "t1": "Tripoli",
+        "t2": "libya"
+    },
+    {
+        "input": "Liechtenstein",
+        "output": "vaduz",
+        "t1": "Vaduz",
+        "t2": "liechtenstein"
+    },
+    {
+        "input": "Lithuania",
+        "output": "vilnius",
+        "t1": "Vilnius",
+        "t2": "lithuania"
+    },
+    {
+        "input": "Luxembourg",
+        "output": "luxembourg city",
+        "t1": "Luxembourg City",
+        "t2": "luxembourg"
+    },
+    {
+        "input": "Madagascar",
+        "output": "antananarivo",
+        "t1": "Antananarivo",
+        "t2": "madagascar"
+    },
+    {
+        "input": "Malawi",
+        "output": "lilongwe",
+        "t1": "Lilongwe",
+        "t2": "malawi"
+    },
+    {
+        "input": "Malaysia",
+        "output": "kuala lumpur",
+        "t1": "Kuala Lumpur",
+        "t2": "malaysia"
+    },
+    {
+        "input": "Maldives",
+        "output": "mal\u00e9",
+        "t1": "Mal\u00e9",
+        "t2": "maldives"
+    },
+    {
+        "input": "Mali",
+        "output": "bamako",
+        "t1": "Bamako",
+        "t2": "mali"
+    },
+    {
+        "input": "Malta",
+        "output": "valletta",
+        "t1": "Valletta",
+        "t2": "malta"
+    },
+    {
+        "input": "Marshall Islands",
+        "output": "majuro",
+        "t1": "Majuro",
+        "t2": "marshall islands"
+    },
+    {
+        "input": "Mauritania",
+        "output": "nouakchott",
+        "t1": "Nouakchott",
+        "t2": "mauritania"
+    },
+    {
+        "input": "Mauritius",
+        "output": "port louis",
+        "t1": "Port Louis",
+        "t2": "mauritius"
+    },
+    {
+        "input": "Mexico",
+        "output": "mexico city",
+        "t1": "Mexico City",
+        "t2": "mexico"
+    },
+    {
+        "input": "Micronesia",
+        "output": "palikir",
+        "t1": "Palikir",
+        "t2": "micronesia"
+    },
+    {
+        "input": "Moldova",
+        "output": "chisinau",
+        "t1": "Chisinau",
+        "t2": "moldova"
+    },
+    {
+        "input": "Monaco",
+        "output": "monaco-ville",
+        "t1": "Monaco-Ville",
+        "t2": "monaco"
+    },
+    {
+        "input": "Mongolia",
+        "output": "ulaanbaatar",
+        "t1": "Ulaanbaatar",
+        "t2": "mongolia"
+    },
+    {
+        "input": "Montenegro",
+        "output": "podgorica",
+        "t1": "Podgorica",
+        "t2": "montenegro"
+    },
+    {
+        "input": "Morocco",
+        "output": "rabat",
+        "t1": "Rabat",
+        "t2": "morocco"
+    },
+    {
+        "input": "Mozambique",
+        "output": "maputo",
+        "t1": "Maputo",
+        "t2": "mozambique"
+    },
+    {
+        "input": "Myanmar",
+        "output": "naypyidaw",
+        "t1": "Naypyidaw",
+        "t2": "myanmar"
+    },
+    {
+        "input": "Namibia",
+        "output": "windhoek",
+        "t1": "Windhoek",
+        "t2": "namibia"
+    },
+    {
+        "input": "Nauru",
+        "output": "yaren district",
+        "t1": "Yaren District",
+        "t2": "nauru"
+    },
+    {
+        "input": "Nepal",
+        "output": "kathmandu",
+        "t1": "Kathmandu",
+        "t2": "nepal"
+    },
+    {
+        "input": "Netherlands",
+        "output": "amsterdam",
+        "t1": "Amsterdam",
+        "t2": "netherlands"
+    },
+    {
+        "input": "New Zealand",
+        "output": "wellington",
+        "t1": "Wellington",
+        "t2": "new zealand"
+    },
+    {
+        "input": "Nicaragua",
+        "output": "managua",
+        "t1": "Managua",
+        "t2": "nicaragua"
+    },
+    {
+        "input": "Niger",
+        "output": "niamey",
+        "t1": "Niamey",
+        "t2": "niger"
+    },
+    {
+        "input": "Nigeria",
+        "output": "abuja",
+        "t1": "Abuja",
+        "t2": "nigeria"
+    },
+    {
+        "input": "North Korea",
+        "output": "pyongyang",
+        "t1": "Pyongyang",
+        "t2": "north korea"
+    },
+    {
+        "input": "North Macedonia",
+        "output": "skopje",
+        "t1": "Skopje",
+        "t2": "north macedonia"
+    },
+    {
+        "input": "Norway",
+        "output": "oslo",
+        "t1": "Oslo",
+        "t2": "norway"
+    },
+    {
+        "input": "Oman",
+        "output": "muscat",
+        "t1": "Muscat",
+        "t2": "oman"
+    },
+    {
+        "input": "Pakistan",
+        "output": "islamabad",
+        "t1": "Islamabad",
+        "t2": "pakistan"
+    },
+    {
+        "input": "Palau",
+        "output": "ngerulmud",
+        "t1": "Ngerulmud",
+        "t2": "palau"
+    },
+    {
+        "input": "Palestine",
+        "output": "ramallah",
+        "t1": "Ramallah",
+        "t2": "palestine"
+    },
+    {
+        "input": "Panama",
+        "output": "panama city",
+        "t1": "Panama City",
+        "t2": "panama"
+    },
+    {
+        "input": "Papua New Guinea",
+        "output": "port moresby",
+        "t1": "Port Moresby",
+        "t2": "papua new guinea"
+    },
+    {
+        "input": "Paraguay",
+        "output": "asunci\u00f3n",
+        "t1": "Asunci\u00f3n",
+        "t2": "paraguay"
+    },
+    {
+        "input": "Peru",
+        "output": "lima",
+        "t1": "Lima",
+        "t2": "peru"
+    },
+    {
+        "input": "Philippines",
+        "output": "manila",
+        "t1": "Manila",
+        "t2": "philippines"
+    },
+    {
+        "input": "Poland",
+        "output": "warsaw",
+        "t1": "Warsaw",
+        "t2": "poland"
+    },
+    {
+        "input": "Portugal",
+        "output": "lisbon",
+        "t1": "Lisbon",
+        "t2": "portugal"
+    },
+    {
+        "input": "Qatar",
+        "output": "doha",
+        "t1": "Doha",
+        "t2": "qatar"
+    },
+    {
+        "input": "Romania",
+        "output": "bucharest",
+        "t1": "Bucharest",
+        "t2": "romania"
+    },
+    {
+        "input": "Russia",
+        "output": "moscow",
+        "t1": "Moscow",
+        "t2": "russia"
+    },
+    {
+        "input": "Rwanda",
+        "output": "kigali",
+        "t1": "Kigali",
+        "t2": "rwanda"
+    },
+    {
+        "input": "Saint Kitts and Nevis",
+        "output": "basseterre",
+        "t1": "Basseterre",
+        "t2": "saint kitts and nevis"
+    },
+    {
+        "input": "Saint Lucia",
+        "output": "castries",
+        "t1": "Castries",
+        "t2": "saint lucia"
+    },
+    {
+        "input": "Saint Vincent and the Grenadines",
+        "output": "kingstown",
+        "t1": "Kingstown",
+        "t2": "saint vincent and the grenadines"
+    },
+    {
+        "input": "Samoa",
+        "output": "apia",
+        "t1": "Apia",
+        "t2": "samoa"
+    },
+    {
+        "input": "San Marino",
+        "output": "san marino",
+        "t1": "San Marino",
+        "t2": "san marino"
+    },
+    {
+        "input": "Sao Tome and Principe",
+        "output": "sao tome",
+        "t1": "Sao Tome",
+        "t2": "sao tome and principe"
+    },
+    {
+        "input": "Saudi Arabia",
+        "output": "riyadh",
+        "t1": "Riyadh",
+        "t2": "saudi arabia"
+    },
+    {
+        "input": "Senegal",
+        "output": "dakar",
+        "t1": "Dakar",
+        "t2": "senegal"
+    },
+    {
+        "input": "Serbia",
+        "output": "belgrade",
+        "t1": "Belgrade",
+        "t2": "serbia"
+    },
+    {
+        "input": "Seychelles",
+        "output": "victoria",
+        "t1": "Victoria",
+        "t2": "seychelles"
+    },
+    {
+        "input": "Sierra Leone",
+        "output": "freetown",
+        "t1": "Freetown",
+        "t2": "sierra leone"
+    },
+    {
+        "input": "Singapore",
+        "output": "singapore",
+        "t1": "Singapore",
+        "t2": "singapore"
+    },
+    {
+        "input": "Slovakia",
+        "output": "bratislava",
+        "t1": "Bratislava",
+        "t2": "slovakia"
+    },
+    {
+        "input": "Slovenia",
+        "output": "ljubljana",
+        "t1": "Ljubljana",
+        "t2": "slovenia"
+    },
+    {
+        "input": "Solomon Islands",
+        "output": "honiara",
+        "t1": "Honiara",
+        "t2": "solomon islands"
+    },
+    {
+        "input": "Somalia",
+        "output": "mogadishu",
+        "t1": "Mogadishu",
+        "t2": "somalia"
+    },
+    {
+        "input": "South Africa",
+        "output": "pretoria",
+        "t1": "Pretoria",
+        "t2": "south africa"
+    },
+    {
+        "input": "South Korea",
+        "output": "seoul",
+        "t1": "Seoul",
+        "t2": "south korea"
+    },
+    {
+        "input": "South Sudan",
+        "output": "juba",
+        "t1": "Juba",
+        "t2": "south sudan"
+    },
+    {
+        "input": "Spain",
+        "output": "madrid",
+        "t1": "Madrid",
+        "t2": "spain"
+    },
+    {
+        "input": "Sri Lanka",
+        "output": "colombo",
+        "t1": "Colombo",
+        "t2": "sri lanka"
+    },
+    {
+        "input": "Sudan",
+        "output": "khartoum",
+        "t1": "Khartoum",
+        "t2": "sudan"
+    },
+    {
+        "input": "Suriname",
+        "output": "paramaribo",
+        "t1": "Paramaribo",
+        "t2": "suriname"
+    },
+    {
+        "input": "Sweden",
+        "output": "stockholm",
+        "t1": "Stockholm",
+        "t2": "sweden"
+    },
+    {
+        "input": "Switzerland",
+        "output": "bern",
+        "t1": "Bern",
+        "t2": "switzerland"
+    },
+    {
+        "input": "Syria",
+        "output": "damascus",
+        "t1": "Damascus",
+        "t2": "syria"
+    },
+    {
+        "input": "Taiwan",
+        "output": "taipei",
+        "t1": "Taipei",
+        "t2": "taiwan"
+    },
+    {
+        "input": "Tajikistan",
+        "output": "dushanbe",
+        "t1": "Dushanbe",
+        "t2": "tajikistan"
+    },
+    {
+        "input": "Tanzania",
+        "output": "dodoma",
+        "t1": "Dodoma",
+        "t2": "tanzania"
+    },
+    {
+        "input": "Thailand",
+        "output": "bangkok",
+        "t1": "Bangkok",
+        "t2": "thailand"
+    },
+    {
+        "input": "Timor-Leste",
+        "output": "dili",
+        "t1": "Dili",
+        "t2": "timor-leste"
+    },
+    {
+        "input": "Togo",
+        "output": "lome",
+        "t1": "Lome",
+        "t2": "togo"
+    },
+    {
+        "input": "Tonga",
+        "output": "nuku\u02bbalofa",
+        "t1": "Nuku\u02bbalofa",
+        "t2": "tonga"
+    },
+    {
+        "input": "Trinidad and Tobago",
+        "output": "port of spain",
+        "t1": "Port of Spain",
+        "t2": "trinidad and tobago"
+    },
+    {
+        "input": "Tunisia",
+        "output": "tunis",
+        "t1": "Tunis",
+        "t2": "tunisia"
+    },
+    {
+        "input": "Turkey",
+        "output": "ankara",
+        "t1": "Ankara",
+        "t2": "turkey"
+    },
+    {
+        "input": "Turkmenistan",
+        "output": "ashgabat",
+        "t1": "Ashgabat",
+        "t2": "turkmenistan"
+    },
+    {
+        "input": "Tuvalu",
+        "output": "funafuti",
+        "t1": "Funafuti",
+        "t2": "tuvalu"
+    },
+    {
+        "input": "Uganda",
+        "output": "kampala",
+        "t1": "Kampala",
+        "t2": "uganda"
+    },
+    {
+        "input": "Ukraine",
+        "output": "kiev",
+        "t1": "Kiev",
+        "t2": "ukraine"
+    },
+    {
+        "input": "United Arab Emirates",
+        "output": "abu dhabi",
+        "t1": "Abu Dhabi",
+        "t2": "united arab emirates"
+    },
+    {
+        "input": "United Kingdom",
+        "output": "london",
+        "t1": "London",
+        "t2": "united kingdom"
+    },
+    {
+        "input": "United States of America",
+        "output": "washington, d.c.",
+        "t1": "Washington, D.C.",
+        "t2": "united states of america"
+    },
+    {
+        "input": "Uruguay",
+        "output": "montevideo",
+        "t1": "Montevideo",
+        "t2": "uruguay"
+    },
+    {
+        "input": "Uzbekistan",
+        "output": "tashkent",
+        "t1": "Tashkent",
+        "t2": "uzbekistan"
+    },
+    {
+        "input": "Vanuatu",
+        "output": "port vila",
+        "t1": "Port Vila",
+        "t2": "vanuatu"
+    },
+    {
+        "input": "Vatican City",
+        "output": "vatican city",
+        "t1": "Vatican City",
+        "t2": "vatican city"
+    },
+    {
+        "input": "Venezuela",
+        "output": "caracas",
+        "t1": "Caracas",
+        "t2": "venezuela"
+    },
+    {
+        "input": "Vietnam",
+        "output": "hanoi",
+        "t1": "Hanoi",
+        "t2": "vietnam"
+    },
+    {
+        "input": "Yemen",
+        "output": "sana'a",
+        "t1": "Sana'a",
+        "t2": "yemen"
+    },
+    {
+        "input": "Zambia",
+        "output": "lusaka",
+        "t1": "Lusaka",
+        "t2": "zambia"
+    },
+    {
+        "input": "Zimbabwe",
+        "output": "harare",
+        "t1": "Harare",
+        "t2": "zimbabwe"
+    }
+]
